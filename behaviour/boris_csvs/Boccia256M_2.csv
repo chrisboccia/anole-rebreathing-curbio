@@ -1,0 +1,22 @@
+Observation id,Boccia256M_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia256_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-08 11:12:44,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+36.530,Boccia256_2.MP4,388.470,23.98,Boccia 256M,start of trial,,,POINT
+37.140,Boccia256_2.MP4,388.470,23.98,Boccia 256M,chest out of view,,,START
+37.140,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+100.419,Boccia256_2.MP4,388.470,23.98,Boccia 256M,chest out of view,,,STOP
+100.419,Boccia256_2.MP4,388.470,23.98,Boccia 256M,end of trial,,,POINT
+100.419,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP

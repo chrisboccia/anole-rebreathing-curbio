@@ -1,0 +1,56 @@
+Observation id,MILP LOF 01_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-28 21:17:37,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+16.231,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,start of trial,,,POINT
+18.613,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+20.119,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,toh,POINT
+21.371,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,toh,POINT
+23.114,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest,,,POINT
+23.372,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,toh,POINT
+25.743,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,soh,POINT
+26.724,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest,,,POINT
+30.874,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,lbn,POINT
+35.626,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,hbn,POINT
+36.214,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest,,,POINT
+37.743,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest,,,POINT
+38.875,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,STOP
+38.876,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,lbn,POINT
+38.889,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+38.893,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,STOP
+38.894,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,lbn,POINT
+39.491,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest,,,POINT
+39.638,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+39.640,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,STOP
+39.641,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,lbn,POINT
+41.734,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest,,,POINT
+43.892,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+43.892,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,lbn,POINT
+44.640,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,STOP
+44.739,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest out of view,,,START
+45.200,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+45.200,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+45.201,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,toh,POINT
+47.393,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+47.644,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,STOP
+47.645,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,toh,POINT
+48.648,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+48.649,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,STOP
+48.650,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,lbn,POINT
+50.650,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,START
+50.651,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,exhale,,,STOP
+50.652,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,reinhale,,lbn,POINT
+54.811,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,chest out of view,,,STOP
+54.811,C:/Users/Chris/Desktop/boris holder/MILP LOF 01_3.MP4,57.560,119.88,MILP LOF 01,end of trial,,,POINT

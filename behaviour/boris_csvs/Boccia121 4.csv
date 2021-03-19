@@ -1,0 +1,45 @@
+Observation id,Boccia121 4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia121 4.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-24 13:16:53,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia121 4.MP4,63.600,14.99,Boccia 121,start of trial,,,POINT
+5.003,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,START
+5.803,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,STOP
+5.804,Boccia121 4.MP4,63.600,14.99,Boccia 121,bubble release,,,POINT
+9.340,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,START
+18.411,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,STOP
+18.412,Boccia121 4.MP4,63.600,14.99,Boccia 121,bubble release,,,POINT
+18.412,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,START
+32.505,Boccia121 4.MP4,63.600,14.99,Boccia 121,gular pump,,,POINT
+39.245,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,STOP
+39.246,Boccia121 4.MP4,63.600,14.99,Boccia 121,bubble release,,,POINT
+40.827,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,START
+40.994,Boccia121 4.MP4,63.600,14.99,Boccia 121,gular pump,,,POINT
+41.627,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,STOP
+41.628,Boccia121 4.MP4,63.600,14.99,Boccia 121,reinhale,,toh,POINT
+41.761,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,START
+44.163,Boccia121 4.MP4,63.600,14.99,Boccia 121,gular pump,,,POINT
+47.230,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,STOP
+47.231,Boccia121 4.MP4,63.600,14.99,Boccia 121,bubble release,,,POINT
+47.899,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,START
+48.299,Boccia121 4.MP4,63.600,14.99,Boccia 121,gular pump,,,POINT
+49.099,Boccia121 4.MP4,63.600,14.99,Boccia 121,reinhale,,toh,POINT
+50.434,Boccia121 4.MP4,63.600,14.99,Boccia 121,gular pump,,,POINT
+55.503,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,STOP
+55.504,Boccia121 4.MP4,63.600,14.99,Boccia 121,bubble release,,,POINT
+55.504,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,START
+56.437,Boccia121 4.MP4,63.600,14.99,Boccia 121,exhale,,,STOP
+56.438,Boccia121 4.MP4,63.600,14.99,Boccia 121,reinhale,,toh,POINT
+60.435,Boccia121 4.MP4,63.600,14.99,Boccia 121,end of trial,,,POINT

@@ -1,0 +1,18 @@
+Observation id,HOLY EF2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-02-27 20:40:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+45.147,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2.MOV,92.660,29.97,HOLY EF 02,start of trial,,,POINT
+53.894,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2.MOV,92.660,29.97,HOLY EF 02,end of trial,,,POINT

@@ -1,0 +1,23 @@
+Observation id,Mahler CHCY1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,GOPR0549-chlorocyanus1.MP4,,,,,,,
+,,,,,,,,
+Observation date,2020-05-05 11:17:47,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+100.948,GOPR0549-chlorocyanus1.MP4,188.970,59.94,Mahler CHCY1,start of trial,,,POINT
+105.199,GOPR0549-chlorocyanus1.MP4,188.970,59.94,Mahler CHCY1,exhale,,,START
+111.716,GOPR0549-chlorocyanus1.MP4,188.970,59.94,Mahler CHCY1,exhale,,,STOP
+111.717,GOPR0549-chlorocyanus1.MP4,188.970,59.94,Mahler CHCY1,reinhale,,toh,POINT
+117.959,GOPR0549-chlorocyanus1.MP4,188.970,59.94,Mahler CHCY1,exhale,,,START
+124.701,GOPR0549-chlorocyanus1.MP4,188.970,59.94,Mahler CHCY1,end of trial,,,POINT
+124.701,GOPR0549-chlorocyanus1.MP4,188.970,59.94,Mahler CHCY1,exhale,,,STOP

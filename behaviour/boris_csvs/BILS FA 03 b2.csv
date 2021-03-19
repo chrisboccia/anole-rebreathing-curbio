@@ -1,0 +1,40 @@
+Observation id,BILS FA 03 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 03 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-13 18:30:21,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+11.363,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,start of trial,,,POINT
+13.585,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,START
+15.579,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,chest,,,POINT
+17.088,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,STOP
+17.089,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,bubble release,,,POINT
+19.583,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,chest,,,POINT
+21.321,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,START
+21.831,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,chest,,,POINT
+21.988,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,STOP
+21.989,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,reinhale,,soh,POINT
+27.082,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,chest,,,POINT
+29.229,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,START
+29.333,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,chest,,,POINT
+29.830,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,reinhale,,toh,POINT
+34.100,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,STOP
+34.109,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,START
+34.110,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,reinhale,,soh,POINT
+38.351,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,STOP
+38.352,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,reinhale,,soh,POINT
+38.584,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,chest,,,POINT
+38.857,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,START
+41.333,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,chest,,,POINT
+43.614,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,end of trial,,,POINT
+43.614,BILS FA 03 b2.MP4,46.050,29.97,BILS FA 03,exhale,,,STOP

@@ -1,0 +1,53 @@
+Observation id,Boccia147 2 1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia147 2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-28 02:11:47,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+26.352,Boccia147 2.MP4,196.660,14.99,Boccia 147,start of trial,,,POINT
+26.484,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+27.854,Boccia147 2.MP4,196.660,14.99,Boccia 147,chest out of view,,,START
+27.854,Boccia147 2.MP4,196.660,14.99,Boccia 147,throat out of view,,,START
+30.086,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+30.087,Boccia147 2.MP4,196.660,14.99,Boccia 147,bubble release,,,POINT
+30.153,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+30.619,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+30.620,Boccia147 2.MP4,196.660,14.99,Boccia 147,reinhale,,toh,POINT
+35.490,Boccia147 2.MP4,196.660,14.99,Boccia 147,throat out of view,,,STOP
+37.091,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+38.625,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+38.626,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+38.626,Boccia147 2.MP4,196.660,14.99,Boccia 147,reinhale,,toh,POINT
+39.960,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+40.627,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+41.226,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+41.227,Boccia147 2.MP4,196.660,14.99,Boccia 147,bubble release,,,POINT
+41.227,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+42.494,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+42.495,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+42.495,Boccia147 2.MP4,196.660,14.99,Boccia 147,reinhale,,toh,POINT
+44.563,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+45.697,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+49.767,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+50.367,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+52.100,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+52.101,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+52.101,Boccia147 2.MP4,196.660,14.99,Boccia 147,reinhale,,toh,POINT
+53.769,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+65.777,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+71.114,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+77.185,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+81.321,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+85.190,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+87.125,Boccia147 2.MP4,196.660,14.99,Boccia 147,chest out of view,,,STOP
+87.125,Boccia147 2.MP4,196.660,14.99,Boccia 147,end of trial,,,POINT

@@ -1,0 +1,33 @@
+Observation id,MORE AHM 07 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE AHM 07 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-09 10:01:52,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+23.598,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,start of trial,,,POINT
+23.841,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,gular pump,,,POINT
+24.258,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,exhale,,,START
+24.724,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,exhale,,,STOP
+24.725,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,reinhale,,toh,POINT
+25.094,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,chest,,,POINT
+25.094,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,gular pump,,,POINT
+30.597,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,exhale,,,START
+32.096,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,gular pump,,,POINT
+32.097,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,exhale,,,STOP
+32.098,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,reinhale,,lbn,POINT
+34.602,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,gular pump,,,POINT
+38.851,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,exhale,,,START
+39.096,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,gular pump,,,POINT
+39.106,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,exhale,,,STOP
+39.107,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,reinhale,,lbn,POINT
+93.356,MORE AHM 07 b2.MP4,96.100,29.97,MORE AHM 07,end of trial,,,POINT

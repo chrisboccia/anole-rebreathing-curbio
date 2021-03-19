@@ -1,0 +1,74 @@
+Observation id,Boccia138 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia138 2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 16:26:16,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+16.627,Boccia138 2.MP4,239.440,14.99,Boccia 138,start of trial,,,POINT
+18.012,Boccia138 2.MP4,239.440,14.99,Boccia 138,chest out of view,,,START
+18.012,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+28.618,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+28.619,Boccia138 2.MP4,239.440,14.99,Boccia 138,bubble release,,,POINT
+31.221,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+34.822,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+34.823,Boccia138 2.MP4,239.440,14.99,Boccia 138,bubble release,,,POINT
+39.493,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+40.026,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+40.027,Boccia138 2.MP4,239.440,14.99,Boccia 138,bubble release,,,POINT
+40.294,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+41.026,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+41.027,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+44.630,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+45.763,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+45.764,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+50.167,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+51.100,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+51.101,Boccia138 2.MP4,239.440,14.99,Boccia 138,bubble release,,,POINT
+56.371,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+57.304,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+57.305,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+61.775,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+62.641,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+62.642,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+68.646,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+69.445,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+69.446,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+72.782,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+74.048,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+74.049,Boccia138 2.MP4,239.440,14.99,Boccia 138,bubble release,,,POINT
+80.387,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+81.186,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+81.187,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+85.190,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+86.056,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+86.057,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+89.393,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+89.926,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+89.927,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+106.938,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+107.337,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+107.338,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+111.808,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+113.541,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+113.542,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+116.953,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+116.954,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+116.954,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+121.440,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+121.690,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+121.691,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+125.401,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,START
+125.402,Boccia138 2.MP4,239.440,14.99,Boccia 138,exhale,,,STOP
+125.402,Boccia138 2.MP4,239.440,14.99,Boccia 138,reinhale,,toh,POINT
+129.166,Boccia138 2.MP4,239.440,14.99,Boccia 138,chest out of view,,,STOP
+129.166,Boccia138 2.MP4,239.440,14.99,Boccia 138,end of trial,,,POINT

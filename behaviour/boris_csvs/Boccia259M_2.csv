@@ -1,0 +1,80 @@
+Observation id,Boccia259M_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia259_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-09 11:34:31,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+108.215,Boccia259_2.MP4,649.110,23.98,Boccia 259M,start of trial,,,POINT
+115.471,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+119.474,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+119.475,Boccia259_2.MP4,649.110,23.98,Boccia 259M,bubble release,,,POINT
+119.475,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+119.891,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+119.892,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+120.767,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+122.559,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+122.560,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+122.936,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+123.185,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+123.186,Boccia259_2.MP4,649.110,23.98,Boccia 259M,bubble release,,,POINT
+123.186,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+123.393,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+123.394,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+124.562,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+124.811,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+124.812,Boccia259_2.MP4,649.110,23.98,Boccia 259M,bubble release,,,POINT
+125.688,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+126.229,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+126.230,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+129.108,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+129.524,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+129.525,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+130.234,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+130.816,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+130.817,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+131.693,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+132.026,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+132.027,Boccia259_2.MP4,649.110,23.98,Boccia 259M,bubble release,,,POINT
+133.778,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+134.069,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+134.070,Boccia259_2.MP4,649.110,23.98,Boccia 259M,bubble release,,,POINT
+134.112,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+135.278,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+135.279,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,lbn,POINT
+135.613,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+135.862,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+135.863,Boccia259_2.MP4,649.110,23.98,Boccia 259M,bubble release,,,POINT
+135.905,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+138.072,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+138.073,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,lbn,POINT
+140.242,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+140.408,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+140.409,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+140.492,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+142.243,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+142.244,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,lbn,POINT
+143.870,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+144.244,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+144.245,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+144.329,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+145.537,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+145.538,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,lbn,POINT
+147.498,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+147.580,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+147.581,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+147.623,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+147.956,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP
+147.957,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,START
+147.957,Boccia259_2.MP4,649.110,23.98,Boccia 259M,reinhale,,soh,POINT
+157.010,Boccia259_2.MP4,649.110,23.98,Boccia 259M,end of trial,,,POINT
+157.010,Boccia259_2.MP4,649.110,23.98,Boccia 259M,exhale,,,STOP

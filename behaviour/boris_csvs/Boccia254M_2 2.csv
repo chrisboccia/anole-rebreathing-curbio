@@ -1,0 +1,24 @@
+Observation id,Boccia254M_2 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia254_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-06 02:34:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+139.748,Boccia254_2.MP4,324.740,23.98,Boccia 254M,start of trial,,,POINT
+140.751,Boccia254_2.MP4,324.740,23.98,Boccia 254M,chest out of view,,,START
+157.673,Boccia254_2.MP4,324.740,23.98,Boccia 254M,exhale,,,START
+157.673,Boccia254_2.MP4,324.740,23.98,Boccia 254M,gular pump,,,POINT
+206.307,Boccia254_2.MP4,324.740,23.98,Boccia 254M,exhale,,,STOP
+206.308,Boccia254_2.MP4,324.740,23.98,Boccia 254M,bubble release,,,POINT
+206.807,Boccia254_2.MP4,324.740,23.98,Boccia 254M,chest out of view,,,STOP
+206.807,Boccia254_2.MP4,324.740,23.98,Boccia 254M,end of trial,,,POINT

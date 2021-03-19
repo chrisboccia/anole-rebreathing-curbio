@@ -1,0 +1,75 @@
+Observation id,Boccia273M dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia273 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-16 17:44:58,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+27.148,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,chest out of view,,,START
+27.148,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,start of trial,,,POINT
+28.440,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,START
+30.900,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,STOP
+30.901,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,hbn,POINT
+31.385,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,START
+81.317,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,STOP
+81.318,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+81.818,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,START
+82.484,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,STOP
+82.485,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+89.950,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,START
+90.283,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,STOP
+90.284,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+92.035,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,START
+99.374,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+104.462,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+105.003,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,STOP
+105.004,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+112.459,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,START
+135.457,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,STOP
+135.458,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,lbn,POINT
+142.619,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,START
+150.667,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+165.013,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+171.935,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+212.314,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+221.814,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+223.080,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+227.316,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+230.816,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+238.065,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+245.064,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+249.316,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+272.335,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+277.836,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+283.084,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+287.835,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+300.885,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+304.136,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+305.139,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+320.386,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+323.136,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+330.138,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+341.886,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+353.386,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,bubble release,,,POINT
+357.956,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,lbn,POINT
+381.210,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+389.958,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+401.460,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+406.458,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+411.959,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+417.960,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+422.957,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+428.709,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+433.785,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,exhale,,,STOP
+433.786,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,reinhale,,soh,POINT
+436.036,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,chest out of view,,,STOP
+436.036,Boccia273 dunk.MP4,440.310,23.98,Boccia 273M,end of trial,,,POINT

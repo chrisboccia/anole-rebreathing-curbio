@@ -1,0 +1,23 @@
+Observation id,Mahler BALE1_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,GOPR0553-baleatus1.MP4,,,,,,,
+,,,,,,,,
+Observation date,2020-05-06 09:56:58,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+211.812,GOPR0553-baleatus1.MP4,761.730,59.94,Mahler BALE1,start of trial,,,POINT
+211.812,GOPR0553-baleatus1.MP4,761.730,59.94,Mahler BALE1,throat out of view,,,START
+462.311,GOPR0553-baleatus1.MP4,761.730,59.94,Mahler BALE1,exhale,,,START
+462.312,GOPR0553-baleatus1.MP4,761.730,59.94,Mahler BALE1,bubble release,,,POINT
+462.312,GOPR0553-baleatus1.MP4,761.730,59.94,Mahler BALE1,exhale,,,STOP
+587.190,GOPR0553-baleatus1.MP4,761.730,59.94,Mahler BALE1,throat out of view,,,STOP
+751.813,GOPR0553-baleatus1.MP4,761.730,59.94,Mahler BALE1,end of trial,,,POINT

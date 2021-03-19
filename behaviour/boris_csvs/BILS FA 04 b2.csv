@@ -1,0 +1,41 @@
+Observation id,BILS FA 04 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 04 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-13 21:38:54,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.857,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,start of trial,,,POINT
+12.329,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,START
+21.078,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,gular pump,,,POINT
+26.578,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,gular pump,,,POINT
+26.843,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,chest,,,POINT
+30.344,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,chest,,,POINT
+30.344,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,gular pump,,,POINT
+31.082,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,STOP
+31.083,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,reinhale,,toh,POINT
+32.199,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,START
+32.344,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,chest,,,POINT
+32.344,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,gular pump,,,POINT
+32.532,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,STOP
+32.533,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,bubble release,,,POINT
+32.599,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,START
+32.665,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,STOP
+32.666,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,reinhale,,toh,POINT
+32.699,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,START
+32.765,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,exhale,,,STOP
+32.766,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,reinhale,,toh,POINT
+43.843,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,chest,,,POINT
+43.843,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,gular pump,,,POINT
+49.345,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,chest,,,POINT
+49.345,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,gular pump,,,POINT
+54.099,BILS FA 04 b2.MP4,56.060,29.97,BILS FA 04,end of trial,,,POINT

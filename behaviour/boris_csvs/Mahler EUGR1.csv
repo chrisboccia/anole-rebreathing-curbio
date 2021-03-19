@@ -1,0 +1,41 @@
+Observation id,Mahler EUGR1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,eugenegrahami.MPG.re-encoded.720px.7578k.avi,,,,,,,
+,,,,,,,,
+Observation date,2020-05-03 20:07:41,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+8.110,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,START
+8.110,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,START
+8.110,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,start of trial,,,POINT
+8.110,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,throat out of view,,,START
+12.615,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,STOP
+12.615,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,exhale,,,START
+12.615,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,STOP
+17.220,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,START
+17.220,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,START
+19.922,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,STOP
+19.922,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,STOP
+62.429,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,reinhale,,toh,POINT
+64.766,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,reinhale,,toh,POINT
+68.135,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,reinhale,,toh,POINT
+69.685,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,reinhale,,toh,POINT
+72.084,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,reinhale,,toh,POINT
+85.162,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,reinhale,,toh,POINT
+100.312,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,reinhale,,toh,POINT
+122.924,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,START
+122.924,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,START
+145.848,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,STOP
+145.848,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,STOP
+145.848,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,throat out of view,,,STOP
+170.072,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,end of trial,,,POINT
+170.072,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,exhale,,,STOP

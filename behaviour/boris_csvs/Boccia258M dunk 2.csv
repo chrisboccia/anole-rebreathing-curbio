@@ -1,0 +1,29 @@
+Observation id,Boccia258M dunk 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia258 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-08 20:29:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+85.930,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,start of trial,,,POINT
+87.239,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,chest out of view,,,START
+87.239,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,exhale,,,START
+87.322,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,exhale,,,STOP
+87.323,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,bubble release,,,POINT
+87.364,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,exhale,,,START
+87.489,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,exhale,,,STOP
+87.490,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,bubble release,,,POINT
+89.616,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,exhale,,,START
+90.616,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,exhale,,,STOP
+90.617,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,reinhale,,soh,POINT
+131.697,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,chest out of view,,,STOP
+131.697,Boccia258 dunk.MP4,182.970,23.98,Boccia 258M,end of trial,,,POINT

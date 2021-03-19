@@ -1,0 +1,28 @@
+Observation id,ANOX403,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,ANOX403.MOV,,,,,,,
+,,,,,,,,
+Observation date,2019-10-20 20:31:11,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+164.087,ANOX403.MOV,349.750,60.0,ANOX4,start of trial,,,POINT
+192.555,ANOX403.MOV,349.750,60.0,ANOX4,exhale,,,START
+192.587,ANOX403.MOV,349.750,60.0,ANOX4,exhale,,,STOP
+192.588,ANOX403.MOV,349.750,60.0,ANOX4,reinhale,,soh,POINT
+193.087,ANOX403.MOV,349.750,60.0,ANOX4,exhale,,,START
+318.334,ANOX403.MOV,349.750,60.0,ANOX4,gular pump,,,POINT
+318.334,ANOX403.MOV,349.750,60.0,ANOX4,reinhale,,lbn,POINT
+331.584,ANOX403.MOV,349.750,60.0,ANOX4,gular pump,,,POINT
+339.585,ANOX403.MOV,349.750,60.0,ANOX4,reinhale,,lbn,POINT
+341.587,ANOX403.MOV,349.750,60.0,ANOX4,reinhale,,lbn,POINT
+342.335,ANOX403.MOV,349.750,60.0,ANOX4,end of trial,,,POINT
+342.335,ANOX403.MOV,349.750,60.0,ANOX4,exhale,,,STOP

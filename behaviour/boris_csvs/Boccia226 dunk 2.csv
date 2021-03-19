@@ -1,0 +1,25 @@
+Observation id,Boccia226 dunk 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia226 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 00:39:39,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+88.942,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,start of trial,,,POINT
+90.438,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,chest out of view,,,START
+92.244,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,START
+93.368,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,STOP
+93.369,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,reinhale,,lbn,POINT
+110.316,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,gular pump,,,POINT
+127.910,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,gular pump,,,POINT
+135.236,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,chest out of view,,,STOP
+135.236,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,end of trial,,,POINT

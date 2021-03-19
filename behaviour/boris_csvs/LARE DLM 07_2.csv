@@ -1,0 +1,24 @@
+Observation id,LARE DLM 07_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-17 22:23:25,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+103.207,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,chest out of view,,,START
+103.207,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,start of trial,,,POINT
+103.207,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,throat out of view,,,START
+105.709,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,throat out of view,,,STOP
+107.707,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,chest out of view,,,STOP
+116.217,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,chest,,,POINT
+116.476,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,gular pump,,,POINT
+145.250,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 07.MP4,233.150,23.98,LARE DLM 07,end of trial,,,POINT

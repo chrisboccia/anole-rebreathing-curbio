@@ -1,0 +1,129 @@
+Observation id,Boccia167 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia167 2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-29 18:08:45,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+52.853,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+52.853,Boccia167 2.MP4,324.860,14.99,Boccia 167,start of trial,,,POINT
+59.105,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+59.106,Boccia167 2.MP4,324.860,14.99,Boccia 167,bubble release,,,POINT
+59.106,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+59.238,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+59.239,Boccia167 2.MP4,324.860,14.99,Boccia 167,bubble release,,,POINT
+59.373,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+59.639,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+59.640,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+61.775,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+61.775,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+62.508,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+62.642,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+63.976,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+66.578,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+66.845,Boccia167 2.MP4,324.860,14.99,Boccia 167,bubble release,,,POINT
+66.978,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+67.377,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+67.378,Boccia167 2.MP4,324.860,14.99,Boccia 167,bubble release,,,POINT
+74.983,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+75.384,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+75.517,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+76.184,Boccia167 2.MP4,324.860,14.99,Boccia 167,bubble release,,,POINT
+76.583,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+76.584,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+80.654,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+80.787,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+81.320,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+81.321,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+85.590,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+85.590,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+85.991,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+86.390,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+86.391,Boccia167 2.MP4,324.860,14.99,Boccia 167,bubble release,,,POINT
+110.978,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+115.243,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+119.480,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+124.683,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+125.335,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+128.019,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+128.152,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+129.085,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+129.086,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,lbn,POINT
+130.487,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+130.620,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+131.020,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+131.021,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+131.087,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+138.959,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+139.093,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+139.626,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+142.961,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+142.962,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+143.496,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+144.336,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+147.165,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+147.165,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+147.698,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+150.167,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+150.566,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+150.567,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+150.586,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+154.036,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+156.037,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+157.105,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+157.561,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+157.562,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+157.587,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+160.640,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+161.040,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+161.041,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+162.241,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+162.836,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+163.174,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+163.175,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+166.378,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+167.045,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+169.337,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+169.379,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+169.380,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+173.649,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+174.450,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+175.384,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+175.650,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+176.211,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+176.212,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+179.053,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+179.449,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+181.254,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+181.520,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+181.521,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+182.094,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+184.790,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+185.589,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+185.590,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+188.259,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+188.525,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+188.526,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+189.326,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+197.799,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+200.133,Boccia167 2.MP4,324.860,14.99,Boccia 167,gular pump,,,POINT
+203.589,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+209.540,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+210.073,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+210.337,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+212.541,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+212.542,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+212.809,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,START
+212.837,Boccia167 2.MP4,324.860,14.99,Boccia 167,chest,,,POINT
+216.583,Boccia167 2.MP4,324.860,14.99,Boccia 167,exhale,,,STOP
+217.584,Boccia167 2.MP4,324.860,14.99,Boccia 167,reinhale,,toh,POINT
+238.187,Boccia167 2.MP4,324.860,14.99,Boccia 167,end of trial,,,POINT

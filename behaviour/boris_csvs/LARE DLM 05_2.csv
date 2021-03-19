@@ -1,0 +1,25 @@
+Observation id,LARE DLM 05_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-17 21:34:13,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+124.210,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,start of trial,,,POINT
+207.556,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,gular pump,,,POINT
+243.338,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,gular pump,,,POINT
+254.257,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,chest,,,POINT
+254.257,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,gular pump,,,POINT
+288.383,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,chest,,,POINT
+288.383,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,gular pump,,,POINT
+290.141,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,gular pump,,,POINT
+290.924,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 05.MP4,295.670,23.98,LARE DLM 05,end of trial,,,POINT

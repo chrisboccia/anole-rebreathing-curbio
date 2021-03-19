@@ -1,0 +1,35 @@
+Observation id,Boccia226 dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia226 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-24 20:15:51,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+49.903,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,start of trial,,,POINT
+50.209,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,START
+50.249,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,STOP
+50.250,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,bubble release,,,POINT
+50.292,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,START
+50.333,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,STOP
+50.334,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,bubble release,,,POINT
+62.413,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,START
+67.914,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,gular pump,,,POINT
+69.167,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,reinhale,,toh,POINT
+77.438,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,reinhale,,soh,POINT
+78.170,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,reinhale,,soh,POINT
+81.734,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,STOP
+81.735,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,bubble release,,,POINT
+81.818,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,START
+81.933,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,exhale,,,STOP
+81.934,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,bubble release,,,POINT
+82.196,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,end of trial,,,POINT
+82.277,Boccia226 dunk.MP4,144.060,23.98,Boccia 226,end of trial,,,POINT

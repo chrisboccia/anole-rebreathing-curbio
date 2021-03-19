@@ -1,0 +1,41 @@
+Observation id,Boccia255M_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia255_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-07 19:19:13,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+40.534,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+40.534,Boccia255_3.MP4,431.510,23.98,Boccia 255M,start of trial,,,POINT
+41.034,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP
+42.452,Boccia255_3.MP4,431.510,23.98,Boccia 255M,reinhale,,soh,POINT
+42.619,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+44.119,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP
+44.120,Boccia255_3.MP4,431.510,23.98,Boccia 255M,bubble release,,,POINT
+44.120,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+47.897,Boccia255_3.MP4,431.510,23.98,Boccia 255M,gular pump,,,POINT
+48.164,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP
+48.165,Boccia255_3.MP4,431.510,23.98,Boccia 255M,reinhale,,soh,POINT
+48.249,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+48.397,Boccia255_3.MP4,431.510,23.98,Boccia 255M,bubble release,,,POINT
+67.670,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP
+67.671,Boccia255_3.MP4,431.510,23.98,Boccia 255M,bubble release,,,POINT
+90.685,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+94.435,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP
+94.436,Boccia255_3.MP4,431.510,23.98,Boccia 255M,reinhale,,lbn,POINT
+97.187,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+101.187,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP
+101.188,Boccia255_3.MP4,431.510,23.98,Boccia 255M,reinhale,,lbn,POINT
+110.460,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+117.217,Boccia255_3.MP4,431.510,23.98,Boccia 255M,gular pump,,,POINT
+118.967,Boccia255_3.MP4,431.510,23.98,Boccia 255M,end of trial,,,POINT
+118.967,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP

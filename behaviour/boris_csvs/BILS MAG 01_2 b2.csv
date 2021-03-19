@@ -1,0 +1,29 @@
+Observation id,BILS MAG 01_2 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS MAG 01_2 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-13 22:20:35,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+7.597,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,exhale,,,START
+7.597,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,start of trial,,,POINT
+16.326,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,chest,,,POINT
+16.326,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,gular pump,,,POINT
+22.335,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,chest,,,POINT
+30.826,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,chest,,,POINT
+30.826,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,gular pump,,,POINT
+38.577,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,chest,,,POINT
+38.577,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,gular pump,,,POINT
+41.077,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,chest,,,POINT
+41.077,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,gular pump,,,POINT
+51.829,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,end of trial,,,POINT
+51.829,BILS MAG 01_2 b2.MP4,55.060,29.97,BILS MAG 01,exhale,,,STOP

@@ -1,0 +1,32 @@
+Observation id,Boccia121 1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia121 1.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-07 08:26:30,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia121 1.MP4,31.360,14.99,Boccia 121,start of trial,,,POINT
+0.067,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,START
+0.599,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,STOP
+0.600,Boccia121 1.MP4,31.360,14.99,Boccia 121,bubble release,,,POINT
+0.667,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,START
+1.000,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,STOP
+1.001,Boccia121 1.MP4,31.360,14.99,Boccia 121,bubble release,,,POINT
+1.067,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,START
+8.996,Boccia121 1.MP4,31.360,14.99,Boccia 121,gular pump,,,POINT
+11.673,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,STOP
+11.674,Boccia121 1.MP4,31.360,14.99,Boccia 121,bubble release,,,POINT
+11.741,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,START
+12.207,Boccia121 1.MP4,31.360,14.99,Boccia 121,exhale,,,STOP
+12.208,Boccia121 1.MP4,31.360,14.99,Boccia 121,bubble release,,,POINT
+17.642,Boccia121 1.MP4,31.360,14.99,Boccia 121,gular pump,,,POINT
+22.889,Boccia121 1.MP4,31.360,14.99,Boccia 121,end of trial,,,POINT

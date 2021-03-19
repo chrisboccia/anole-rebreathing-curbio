@@ -1,0 +1,26 @@
+Observation id,Boccia96,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia96.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 14:38:16,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia96.MP4,31.560,14.99,Boccia 96,chest out of view,,,START
+0.000,Boccia96.MP4,31.560,14.99,Boccia 96,head out of view,,,START
+0.000,Boccia96.MP4,31.560,14.99,Boccia 96,start of trial,,,POINT
+0.000,Boccia96.MP4,31.560,14.99,Boccia 96,throat out of view,,,START
+5.354,Boccia96.MP4,31.560,14.99,Boccia 96,chest out of view,,,STOP
+5.354,Boccia96.MP4,31.560,14.99,Boccia 96,exhale,,,START
+5.354,Boccia96.MP4,31.560,14.99,Boccia 96,head out of view,,,STOP
+5.354,Boccia96.MP4,31.560,14.99,Boccia 96,throat out of view,,,STOP
+30.854,Boccia96.MP4,31.560,14.99,Boccia 96,exhale,,,STOP
+30.864,Boccia96.MP4,31.560,14.99,Boccia 96,end of trial,,,POINT

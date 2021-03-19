@@ -1,0 +1,31 @@
+Observation id,BILS MAG 01 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS MAG 01 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-13 22:13:24,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+15.333,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,exhale,,,START
+15.333,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,start of trial,,,POINT
+15.832,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,exhale,,,STOP
+15.833,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+16.333,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,exhale,,,START
+19.584,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+24.333,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+26.084,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+31.834,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+32.083,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,chest,,,POINT
+32.093,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+33.595,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+39.594,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,reinhale,,toh,POINT
+40.594,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,end of trial,,,POINT
+40.594,BILS MAG 01 b2.MP4,43.040,29.97,BILS MAG 01,exhale,,,STOP

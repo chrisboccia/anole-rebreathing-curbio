@@ -1,0 +1,22 @@
+Observation id,RGVA HM1_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm1.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-03-02 14:31:04,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+71.668,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm1.MOV,228.960,29.97,RGVA HM 01,chest out of view,,,START
+71.668,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm1.MOV,228.960,29.97,RGVA HM 01,start of trial,,,POINT
+71.668,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm1.MOV,228.960,29.97,RGVA HM 01,throat out of view,,,START
+224.063,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm1.MOV,228.960,29.97,RGVA HM 01,chest out of view,,,STOP
+224.063,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm1.MOV,228.960,29.97,RGVA HM 01,end of trial,,,POINT
+224.063,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm1.MOV,228.960,29.97,RGVA HM 01,throat out of view,,,STOP

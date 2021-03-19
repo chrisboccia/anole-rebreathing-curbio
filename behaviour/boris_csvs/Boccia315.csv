@@ -1,0 +1,35 @@
+Observation id,Boccia315,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia315.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-06 20:33:00,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia315.MP4,186.730,23.98,Boccia 315,start of trial,,,POINT
+7.602,Boccia315.MP4,186.730,23.98,Boccia 315,bubble release,,,POINT
+7.602,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+10.862,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+14.109,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+17.859,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+21.612,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+25.609,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+29.859,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+34.110,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+38.610,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+43.609,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+44.361,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+44.646,Boccia315.MP4,186.730,23.98,Boccia 315,bubble release,,,POINT
+50.646,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+56.145,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+61.398,Boccia315.MP4,186.730,23.98,Boccia 315,gular pump,,,POINT
+61.916,Boccia315.MP4,186.730,23.98,Boccia 315,bubble release,,,POINT
+63.415,Boccia315.MP4,186.730,23.98,Boccia 315,end of trial,,,POINT

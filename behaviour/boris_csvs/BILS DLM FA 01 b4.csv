@@ -1,0 +1,40 @@
+Observation id,BILS DLM FA 01 b4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 01 b4.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-15 10:14:54,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+74.860,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,chest out of view,,,START
+74.860,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,start of trial,,,POINT
+76.142,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,gular pump,,,POINT
+76.146,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,START
+76.393,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,STOP
+76.394,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,reinhale,,toh,POINT
+76.647,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,START
+76.894,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,gular pump,,,POINT
+77.646,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,STOP
+77.647,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,reinhale,,toh,POINT
+84.903,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,START
+85.679,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,STOP
+85.680,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,reinhale,,toh,POINT
+86.905,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,START
+87.656,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,reinhale,,toh,POINT
+89.157,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,reinhale,,toh,POINT
+90.144,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,gular pump,,,POINT
+90.906,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,reinhale,,toh,POINT
+92.162,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,exhale,,,STOP
+92.163,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,reinhale,,toh,POINT
+94.145,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,gular pump,,,POINT
+96.395,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,gular pump,,,POINT
+105.906,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,chest out of view,,,STOP
+105.906,BILS FA 01 b4.MP4,115.120,29.97,BILS FA 01,end of trial,,,POINT

@@ -1,0 +1,41 @@
+Observation id,Boccia311 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia311.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-06 20:09:08,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+28.632,Boccia311.MP4,196.450,23.98,Boccia 311,start of trial,,,POINT
+31.382,Boccia311.MP4,196.450,23.98,Boccia 311,exhale,,,START
+42.761,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+43.639,Boccia311.MP4,196.450,23.98,Boccia 311,bubble release,,,POINT
+44.640,Boccia311.MP4,196.450,23.98,Boccia 311,bubble release,,,POINT
+57.137,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+57.672,Boccia311.MP4,196.450,23.98,Boccia 311,bubble release,,,POINT
+60.140,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+60.665,Boccia311.MP4,196.450,23.98,Boccia 311,bubble release,,,POINT
+63.164,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+66.165,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+80.912,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+83.164,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+83.702,Boccia311.MP4,196.450,23.98,Boccia 311,bubble release,,,POINT
+86.665,Boccia311.MP4,196.450,23.98,Boccia 311,bubble release,,,POINT
+104.665,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+106.164,Boccia311.MP4,196.450,23.98,Boccia 311,bubble release,,,POINT
+107.665,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+111.667,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+114.668,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+123.665,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+127.164,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+135.664,Boccia311.MP4,196.450,23.98,Boccia 311,gular pump,,,POINT
+186.720,Boccia311.MP4,196.450,23.98,Boccia 311,end of trial,,,POINT
+186.720,Boccia311.MP4,196.450,23.98,Boccia 311,exhale,,,STOP

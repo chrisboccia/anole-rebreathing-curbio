@@ -1,0 +1,24 @@
+Observation id,Boccia320,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia320.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-22 16:17:31,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+396.990,Boccia320.MP4,461.170,23.98,Boccia 320,start of trial,,,POINT
+401.745,Boccia320.MP4,461.170,23.98,Boccia 320,gular pump,,,POINT
+411.998,Boccia320.MP4,461.170,23.98,Boccia 320,gular pump,,,POINT
+412.999,Boccia320.MP4,461.170,23.98,Boccia 320,chest,,,POINT
+417.009,Boccia320.MP4,461.170,23.98,Boccia 320,gular pump,,,POINT
+419.011,Boccia320.MP4,461.170,23.98,Boccia 320,chest,,,POINT
+419.011,Boccia320.MP4,461.170,23.98,Boccia 320,gular pump,,,POINT
+423.009,Boccia320.MP4,461.170,23.98,Boccia 320,end of trial,,,POINT

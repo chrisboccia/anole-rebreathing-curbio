@@ -1,0 +1,63 @@
+Observation id,LARE DLM 03,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-17 01:25:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+28.879,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,start of trial,,,POINT
+30.130,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,chest out of view,,,START
+30.130,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,throat out of view,,,START
+35.382,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,chest out of view,,,STOP
+35.382,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,throat out of view,,,STOP
+40.283,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+40.284,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,bubble release,,,POINT
+40.284,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+40.367,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,bubble release,,,POINT
+40.450,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+47.998,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,bubble release,,,POINT
+47.998,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+48.082,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,bubble release,,,POINT
+48.155,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+55.153,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,bubble release,,,POINT
+77.916,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,gular pump,,,POINT
+83.678,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,gular pump,,,POINT
+83.929,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,chest,,,POINT
+98.164,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+98.165,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,hbn,POINT
+98.249,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,gular pump,,,POINT
+98.707,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+99.957,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+99.958,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,hbn,POINT
+99.959,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+109.632,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+109.633,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,hbn,POINT
+109.883,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+118.241,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+118.242,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,gular pump,,,POINT
+118.242,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,hbn,POINT
+132.902,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+133.986,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+133.987,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,hbn,POINT
+134.237,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+150.042,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,chest,,,POINT
+150.124,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+150.125,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,gular pump,,,POINT
+150.125,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,hbn,POINT
+153.128,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+153.210,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+153.211,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,lbn,POINT
+182.277,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,START
+182.282,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,gular pump,,,POINT
+182.943,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,exhale,,,STOP
+182.944,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,reinhale,,lbn,POINT
+189.244,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 03.MP4,194.530,23.98,LARE DLM 03,end of trial,,,POINT

@@ -1,0 +1,38 @@
+Observation id,Boccia228,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia228.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 02:16:29,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia228.MP4,142.810,14.99,Boccia 228,start of trial,,,POINT
+1.268,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+1.935,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,START
+2.267,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,STOP
+2.268,Boccia228.MP4,142.810,14.99,Boccia 228,bubble release,,,POINT
+13.701,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+15.202,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,START
+15.953,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,STOP
+15.954,Boccia228.MP4,142.810,14.99,Boccia 228,reinhale,,toh,POINT
+20.747,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+20.881,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,START
+21.814,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,STOP
+21.815,Boccia228.MP4,142.810,14.99,Boccia 228,reinhale,,toh,POINT
+22.015,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,START
+27.478,Boccia228.MP4,142.810,14.99,Boccia 228,exhale,,,STOP
+27.478,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+38.256,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+52.006,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+61.007,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+67.519,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+76.772,Boccia228.MP4,142.810,14.99,Boccia 228,gular pump,,,POINT
+83.520,Boccia228.MP4,142.810,14.99,Boccia 228,end of trial,,,POINT

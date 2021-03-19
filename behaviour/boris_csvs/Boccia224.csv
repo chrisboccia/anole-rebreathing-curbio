@@ -1,0 +1,33 @@
+Observation id,Boccia224,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia224.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-24 17:15:22,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+40.466,Boccia224.MP4,327.590,14.99,Boccia 224,chest out of view,,,START
+40.466,Boccia224.MP4,327.590,14.99,Boccia 224,start of trial,,,POINT
+74.848,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+81.521,Boccia224.MP4,327.590,14.99,Boccia 224,gular pump,,,POINT
+82.121,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+82.188,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+82.255,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+82.321,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+82.322,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+82.322,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+82.387,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+82.388,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+83.189,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+84.322,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+84.323,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+92.689,Boccia224.MP4,327.590,14.99,Boccia 224,chest out of view,,,STOP
+92.689,Boccia224.MP4,327.590,14.99,Boccia 224,end of trial,,,POINT

@@ -1,0 +1,19 @@
+Trial-averaged variable results from subsampling script
+
+rb count per trial
+avg. p-value: 0.0007
+avg. F: 32.90
+percentage non-sig: 0.03
+percentage aquatic mean > non-aquatic: 100
+
+rb rate
+avg. p-value: 0.0201
+avg. F: 18.34
+percentage non-sig: 12.5
+percentage aquatic mean > non-aquatic: 100
+
+gular pumping
+avg. p-value: 0.488
+avg. F: 0.8056
+percentage non-sig: 99.63
+percentage aquatic mean > non-aquatic: 55.47

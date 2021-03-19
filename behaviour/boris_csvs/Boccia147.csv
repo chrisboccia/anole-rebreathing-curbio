@@ -1,0 +1,22 @@
+Observation id,Boccia147,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia147.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 23:54:32,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+22.815,Boccia147.MP4,282.480,14.99,Boccia 147,start of trial,,,POINT
+33.489,Boccia147.MP4,282.480,14.99,Boccia 147,chest out of view,,,START
+33.489,Boccia147.MP4,282.480,14.99,Boccia 147,throat out of view,,,START
+72.648,Boccia147.MP4,282.480,14.99,Boccia 147,chest out of view,,,STOP
+72.648,Boccia147.MP4,282.480,14.99,Boccia 147,end of trial,,,POINT
+72.648,Boccia147.MP4,282.480,14.99,Boccia 147,throat out of view,,,STOP

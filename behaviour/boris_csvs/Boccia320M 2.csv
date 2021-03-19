@@ -1,0 +1,22 @@
+Observation id,Boccia320M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia320.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-05-02 21:55:51,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+37.892,Boccia320.MP4,103.650,23.98,Boccia 320M,chest out of view,,,START
+37.892,Boccia320.MP4,103.650,23.98,Boccia 320M,exhale,,,START
+37.892,Boccia320.MP4,103.650,23.98,Boccia 320M,start of trial,,,POINT
+57.143,Boccia320.MP4,103.650,23.98,Boccia 320M,chest out of view,,,STOP
+57.143,Boccia320.MP4,103.650,23.98,Boccia 320M,end of trial,,,POINT
+57.143,Boccia320.MP4,103.650,23.98,Boccia 320M,exhale,,,STOP

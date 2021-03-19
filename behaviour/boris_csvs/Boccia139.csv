@@ -1,0 +1,48 @@
+Observation id,Boccia139,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia139.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 17:20:55,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+15.357,Boccia139.MP4,113.450,14.99,Boccia 139,start of trial,,,POINT
+16.103,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,START
+18.358,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+21.351,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,STOP
+21.352,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+22.215,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,START
+23.148,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,STOP
+23.149,Boccia139.MP4,113.450,14.99,Boccia 139,bubble release,,,POINT
+23.149,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,START
+23.948,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,STOP
+23.949,Boccia139.MP4,113.450,14.99,Boccia 139,bubble release,,,POINT
+23.949,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,START
+24.483,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+37.891,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,STOP
+37.892,Boccia139.MP4,113.450,14.99,Boccia 139,bubble release,,,POINT
+41.494,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,START
+46.364,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+50.634,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+53.969,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+61.440,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,STOP
+61.441,Boccia139.MP4,113.450,14.99,Boccia 139,bubble release,,,POINT
+67.578,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,START
+68.379,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+72.315,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+76.518,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+80.454,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+84.056,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+87.325,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+101.601,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+105.670,Boccia139.MP4,113.450,14.99,Boccia 139,reinhale,,toh,POINT
+111.007,Boccia139.MP4,113.450,14.99,Boccia 139,end of trial,,,POINT
+111.007,Boccia139.MP4,113.450,14.99,Boccia 139,exhale,,,STOP

@@ -1,0 +1,32 @@
+Observation id,ANOX404,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,ANOX404.MOV,,,,,,,
+,,,,,,,,
+Observation date,2019-10-20 20:31:49,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+201.840,ANOX404.MOV,357.000,60.0,ANOX4,start of trial,,,POINT
+203.336,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,START
+223.585,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,STOP
+223.586,ANOX404.MOV,357.000,60.0,ANOX4,bubble release,,,POINT
+225.838,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,START
+226.586,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,STOP
+226.587,ANOX404.MOV,357.000,60.0,ANOX4,bubble release,,,POINT
+234.335,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,START
+234.336,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,STOP
+234.337,ANOX404.MOV,357.000,60.0,ANOX4,reinhale,,soh,POINT
+340.336,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,START
+340.593,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,STOP
+340.594,ANOX404.MOV,357.000,60.0,ANOX4,reinhale,,soh,POINT
+341.586,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,START
+347.088,ANOX404.MOV,357.000,60.0,ANOX4,end of trial,,,POINT
+347.088,ANOX404.MOV,357.000,60.0,ANOX4,exhale,,,STOP

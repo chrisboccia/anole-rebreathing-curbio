@@ -1,0 +1,38 @@
+Observation id,BILS AMR 01,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS AMR 01.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-10 14:08:42,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+24.786,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,start of trial,,,POINT
+26.594,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,exhale,,,START
+36.592,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,chest out of view,,,START
+43.361,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+44.110,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+51.113,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+56.113,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,reinhale,,toh,POINT
+61.874,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+62.375,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,reinhale,,toh,POINT
+72.374,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+72.873,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,reinhale,,toh,POINT
+81.624,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,bubble release,,,POINT
+82.148,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,exhale,,,STOP
+82.149,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,reinhale,,toh,POINT
+87.148,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+95.412,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+100.411,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+102.662,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+108.910,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+116.161,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,gular pump,,,POINT
+117.670,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,chest out of view,,,STOP
+117.670,BILS AMR 01.MP4,119.620,29.97,MILP AMR 01,end of trial,,,POINT

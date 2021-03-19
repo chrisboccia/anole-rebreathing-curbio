@@ -1,0 +1,44 @@
+Observation id,Boccia147 2 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia147 2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-28 02:23:59,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+96.536,Boccia147 2.MP4,196.660,14.99,Boccia 147,start of trial,,,POINT
+96.950,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+100.200,Boccia147 2.MP4,196.660,14.99,Boccia 147,chest out of view,,,START
+100.200,Boccia147 2.MP4,196.660,14.99,Boccia 147,throat out of view,,,START
+104.136,Boccia147 2.MP4,196.660,14.99,Boccia 147,reinhale,,toh,POINT
+107.271,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+107.272,Boccia147 2.MP4,196.660,14.99,Boccia 147,bubble release,,,POINT
+107.272,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+109.339,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+109.340,Boccia147 2.MP4,196.660,14.99,Boccia 147,bubble release,,,POINT
+109.340,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+113.741,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+113.742,Boccia147 2.MP4,196.660,14.99,Boccia 147,bubble release,,,POINT
+113.742,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,START
+113.942,Boccia147 2.MP4,196.660,14.99,Boccia 147,exhale,,,STOP
+113.943,Boccia147 2.MP4,196.660,14.99,Boccia 147,reinhale,,toh,POINT
+134.023,Boccia147 2.MP4,196.660,14.99,Boccia 147,chest out of view,,,STOP
+134.023,Boccia147 2.MP4,196.660,14.99,Boccia 147,throat out of view,,,STOP
+135.424,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+141.027,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+145.230,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+147.565,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+151.835,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+157.705,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+162.508,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+166.311,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+173.649,Boccia147 2.MP4,196.660,14.99,Boccia 147,gular pump,,,POINT
+177.985,Boccia147 2.MP4,196.660,14.99,Boccia 147,end of trial,,,POINT

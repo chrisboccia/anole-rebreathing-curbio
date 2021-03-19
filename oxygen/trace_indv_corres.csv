@@ -1,0 +1,90 @@
+trace,individual,mass,sex,svl
+./trace trials/CR/Boccia149.1.edit,Boccia149,7.7,M,70
+./trace trials/CR/BOCCIA155.1,Boccia155,7.8,M,66
+./trace trials/CR/BOCCIA155.2.edit,Boccia155,7.8,M,66
+./trace trials/CR/BOCCIA161.2,Boccia161,6.2,M,65
+./trace trials/CR/BOCCIA161.4,Boccia161,6.2,M,65
+./trace trials/CR/BOCCIA161.6,Boccia161,6.2,M,65
+./trace trials/CR/BOCCIA166.1,Boccia166,10.2,M,74
+./trace trials/CR/BOCCIA166.2,Boccia166,10.2,M,74
+./trace trials/CR/BOCCIA166.3,Boccia166,10.2,M,74
+./trace trials/CR/BOCCIA167.2,Boccia167,5.7,M,64
+./trace trials/CR/BOCCIA167.4,Boccia167,5.7,M,64
+./trace trials/MX/Boccia263M.1,Boccia263M,6.9,M,75
+./trace trials/MX/Boccia268M.1,Boccia268M,17,M,99
+./trace trials/MX/Boccia269M.1,Boccia269M,7.4,F,70
+./trace trials/MX/Boccia270M.1,Boccia270M,6.3,F,69
+./trace trials/MX/Boccia274M.1,Boccia274M,15,M,90
+./trace trials/MX/Boccia262M.1,Boccia262M,7.1,M,72
+./trace trials/MX/Boccia273M.3,Boccia273M,15.2,M,102
+./trace trials/MX/Boccia280M.1,Boccia280M,15,M,95
+./trace trials/MX/Boccia281M.1,Boccia281M,6.8,F,70
+./trace trials/COL/Boccia235C.1,Boccia235C,16.8,F,54
+./trace trials/COL/Boccia262C.1,Boccia262C,37.7,M,118
+./trace trials/COL/Boccia275C.1,Boccia275C,9.2,F,85
+./trace trials/swierk rebreathing/swierk1.04.1,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk1.04.2,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk1.03.1,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk1.05.1,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk1.06.2,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk2.05.1,ANOX2,4.3,F,59
+./trace trials/swierk rebreathing/swierk3.05.1,ANOX3,3.5,F,56
+./trace trials/swierk rebreathing/swierk3.06.1,ANOX3,3.5,F,56
+./trace trials/swierk rebreathing/swierk4.02.1,ANOX4,3.7,M,60
+./trace trials/swierk rebreathing/swierk5.02.1,ANOX5,3.6,F,54
+./trace trials/swierk rebreathing/swierk5.03.1,ANOX5,3.6,F,54
+./trace trials/swierk rebreathing/swierk5.04.2,ANOX5,3.6,F,54
+./trace trials/swierk rebreathing/swierk5.05.1,ANOX5,3.6,F,54
+./trace trials/swierk rebreathing/swierk5.05.2,ANOX5,3.6,F,54
+./trace trials/swierk rebreathing/swierk6.02.2,ANOX6,7.8,M,68
+./trace trials/swierk rebreathing/swierk6.04.1,ANOX6,7.8,M,68
+./trace trials/mahler data/BILSKT04,BILS KT 04,2.958,F,53.48
+./trace trials/mahler data/BILKT04B,BILS KT 04,2.958,F,53.48
+./trace trials/mahler data/BKT04A,BILS KT 04,2.958,F,53.48
+./trace trials/CR/BOCCIA154.1.edit,Boccia154,1.6,J,43
+./trace trials/CR/BOCCIA154.2,Boccia154,1.6,J,43
+./trace trials/CR/Boccia161.1,Boccia161,6.2,M,65
+./trace trials/CR/BOCCIA161.3,Boccia161,6.2,M,65
+./trace trials/CR/BOCCIA161.5,Boccia161,6.2,M,65
+./trace trials/CR/BOCCIA167.3,Boccia167,5.7,M,64
+./trace trials/MX/Boccia245M.1,Boccia245M,11.6,M,84
+./trace trials/MX/Boccia250M.1.edit,Boccia250M,7.7,M,73
+./trace trials/MX/Boccia257M.1,Boccia257M,7.3,F,70
+./trace trials/MX/Boccia259M.1,Boccia259M,13.9,M,90
+./trace trials/MX/Boccia259M.2,Boccia259M,13.9,M,90
+./trace trials/MX/Boccia256M.1,Boccia256M,11.5,M,83
+./trace trials/MX/Boccia261M.1,Boccia261M,6.9,F,68
+./trace trials/MX/Boccia263M.2,Boccia263M,6.9,M,75
+./trace trials/MX/Boccia268M.2,Boccia268M,17,M,99
+./trace trials/MX/Boccia273M.1,Boccia273M,15.2,M,102
+./trace trials/MX/Boccia266M.1,Boccia266M,7.6,F,70
+./trace trials/MX/Boccia267M.1,Boccia267M,1.1,J,40
+./trace trials/MX/Boccia273M.2,Boccia273M,15.2,M,102
+./trace trials/MX/Boccia268M.3,Boccia268M,17,M,99
+./trace trials/MX/Boccia280M.2,Boccia280M,15,M,95
+./trace trials/MX/Boccia280M.3,Boccia280M,15,M,95
+./trace trials/COL/Boccia233C.2,Boccia233C,1,J,39
+./trace trials/COL/Boccia234C.1,Boccia234C,14.4,F,85
+./trace trials/COL/Boccia231C.1,Boccia231C,14.2,F,86
+./trace trials/COL/Boccia239C.1,Boccia239C,31.9,M,
+./trace trials/COL/Boccia222C.1,Boccia222C,26.1,M,107
+./trace trials/COL/Boccia265C.1,Boccia265C,28.9,M,113
+./trace trials/COL/Boccia268C.1,Boccia268C,13,F,87
+./trace trials/swierk rebreathing/swierk1.03.2,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk1.05.2,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk1.06.1,ANOX1,6.2,M,68
+./trace trials/swierk rebreathing/swierk2.03.1,ANOX2,4.3,F,59
+./trace trials/swierk rebreathing/swierk2.04.1,ANOX2,4.3,F,59
+./trace trials/swierk rebreathing/swierk2.05.2,ANOX2,4.3,F,59
+./trace trials/swierk rebreathing/swierk2.06.1,ANOX2,4.3,F,59
+./trace trials/swierk rebreathing/swierk2.06.2,ANOX2,4.3,F,59
+./trace trials/swierk rebreathing/swierk2.06.3,ANOX2,4.3,F,59
+./trace trials/swierk rebreathing/swierk5.04.1,ANOX5,3.6,F,54
+./trace trials/swierk rebreathing/swierk6.01.1,ANOX6,7.8,M,68
+./trace trials/swierk rebreathing/swierk6.02.1,ANOX6,7.8,M,68
+./trace trials/swierk rebreathing/swierk6.04.2,ANOX6,7.8,M,68
+./trace trials/swierk rebreathing/swierk6.04.3,ANOX6,7.8,M,68
+./trace trials/mahler data/BKT06B,BILS KT 06,2.345,F,50.3
+./trace trials/mahler data/BKT06B.2,BILS KT 06,2.345,F,50.3
+./trace trials/mahler data/BFA01C.1,BILS FA 01,3.8,M,58.09
+./trace trials/mahler data/BFA01C.2,BILS FA 01,3.8,M,58.09

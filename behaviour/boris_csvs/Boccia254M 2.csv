@@ -1,0 +1,33 @@
+Observation id,Boccia254M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia254.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-06 01:37:33,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+170.523,Boccia254.MP4,253.710,23.98,Boccia 254M,start of trial,,,POINT
+176.272,Boccia254.MP4,253.710,23.98,Boccia 254M,exhale,,,START
+176.522,Boccia254.MP4,253.710,23.98,Boccia 254M,bubble release,,,POINT
+176.730,Boccia254.MP4,253.710,23.98,Boccia 254M,exhale,,,STOP
+176.731,Boccia254.MP4,253.710,23.98,Boccia 254M,bubble release,,,POINT
+177.648,Boccia254.MP4,253.710,23.98,Boccia 254M,exhale,,,START
+178.274,Boccia254.MP4,253.710,23.98,Boccia 254M,reinhale,,soh,POINT
+180.484,Boccia254.MP4,253.710,23.98,Boccia 254M,reinhale,,soh,POINT
+182.318,Boccia254.MP4,253.710,23.98,Boccia 254M,exhale,,,STOP
+182.319,Boccia254.MP4,253.710,23.98,Boccia 254M,bubble release,,,POINT
+184.487,Boccia254.MP4,253.710,23.98,Boccia 254M,reinhale,,soh,POINT
+189.070,Boccia254.MP4,253.710,23.98,Boccia 254M,gular pump,,,POINT
+197.789,Boccia254.MP4,253.710,23.98,Boccia 254M,gular pump,,,POINT
+205.292,Boccia254.MP4,253.710,23.98,Boccia 254M,gular pump,,,POINT
+210.041,Boccia254.MP4,253.710,23.98,Boccia 254M,gular pump,,,POINT
+220.039,Boccia254.MP4,253.710,23.98,Boccia 254M,gular pump,,,POINT
+225.791,Boccia254.MP4,253.710,23.98,Boccia 254M,end of trial,,,POINT

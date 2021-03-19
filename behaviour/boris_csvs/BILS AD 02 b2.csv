@@ -1,0 +1,22 @@
+Observation id,BILS AD 02 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS AD 02 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-10 19:16:38,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+16.084,BILS AD 02 b2.MP4,37.040,29.97,BILS AD 02,start of trial,,,POINT
+19.086,BILS AD 02 b2.MP4,37.040,29.97,BILS AD 02,exhale,,,START
+25.838,BILS AD 02 b2.MP4,37.040,29.97,BILS AD 02,gular pump,,,POINT
+26.836,BILS AD 02 b2.MP4,37.040,29.97,BILS AD 02,gular pump,,,POINT
+35.336,BILS AD 02 b2.MP4,37.040,29.97,BILS AD 02,end of trial,,,POINT
+35.336,BILS AD 02 b2.MP4,37.040,29.97,BILS AD 02,exhale,,,STOP

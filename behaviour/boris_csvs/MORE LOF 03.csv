@@ -1,0 +1,23 @@
+Observation id,MORE LOF 03,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE LOF 03.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 20:41:27,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+8.826,MORE LOF 03.MP4,18.520,29.97,MORE LOF 03,start of trial,,,POINT
+10.827,MORE LOF 03.MP4,18.520,29.97,MORE LOF 03,exhale,,,START
+11.578,MORE LOF 03.MP4,18.520,29.97,MORE LOF 03,exhale,,,STOP
+11.579,MORE LOF 03.MP4,18.520,29.97,MORE LOF 03,reinhale,,toh,POINT
+15.583,MORE LOF 03.MP4,18.520,29.97,MORE LOF 03,exhale,,,START
+15.828,MORE LOF 03.MP4,18.520,29.97,MORE LOF 03,end of trial,,,POINT
+15.828,MORE LOF 03.MP4,18.520,29.97,MORE LOF 03,exhale,,,STOP

@@ -1,0 +1,40 @@
+Observation id,Boccia 225,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,F:/Colombia rebreathing videos/Boccia225.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-24 18:13:16,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+23.775,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,start of trial,,,POINT
+28.219,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,START
+28.351,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,STOP
+28.352,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,bubble release,,,POINT
+28.352,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,START
+28.485,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,STOP
+28.486,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,bubble release,,,POINT
+28.619,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,reinhale,,toh,POINT
+36.291,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,START
+36.291,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,gular pump,,,POINT
+36.490,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,STOP
+36.491,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,bubble release,,,POINT
+36.758,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,reinhale,,toh,POINT
+42.028,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,gular pump,,,POINT
+46.097,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,START
+46.097,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,gular pump,,,POINT
+46.563,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,STOP
+46.564,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,reinhale,,toh,POINT
+56.887,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,reinhale,,toh,POINT
+57.638,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,START
+62.375,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,gular pump,,,POINT
+66.136,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,exhale,,,STOP
+66.137,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,reinhale,,toh,POINT
+69.438,F:/Colombia rebreathing videos/Boccia225.MP4,125.530,14.99,Boccia 225,end of trial,,,POINT

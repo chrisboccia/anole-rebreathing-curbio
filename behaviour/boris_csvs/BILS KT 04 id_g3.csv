@@ -1,0 +1,30 @@
+Observation id,BILS KT 04 id_g3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS KT 04_2 id_g3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 18:50:36,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+9.360,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,chest out of view,,,START
+9.360,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,start of trial,,,POINT
+9.843,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,exhale,,,START
+10.243,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,exhale,,,STOP
+10.244,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,reinhale,,toh,POINT
+12.835,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,exhale,,,START
+37.086,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,reinhale,,toh,POINT
+39.087,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,reinhale,,toh,POINT
+44.588,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,reinhale,,toh,POINT
+45.585,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,reinhale,,toh,POINT
+52.588,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,reinhale,,toh,POINT
+79.090,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,chest out of view,,,STOP
+79.090,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,end of trial,,,POINT
+79.090,BILS KT 04_2 id_g3.MP4,111.610,29.97,BILS KT 04,exhale,,,STOP

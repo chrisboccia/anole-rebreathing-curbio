@@ -1,0 +1,98 @@
+Observation id,Boccia245M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia245.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-03 12:41:08,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+193.953,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+193.953,Boccia245.MP4,387.300,23.98,Boccia 245M,start of trial,,,POINT
+194.203,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+194.204,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,toh,POINT
+194.495,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+194.662,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+195.913,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+196.080,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+196.246,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+196.247,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+196.622,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+196.872,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+197.080,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+197.081,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+197.331,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+197.748,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+197.914,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+197.915,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+198.415,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+198.873,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+198.874,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+199.708,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+200.124,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+200.125,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+202.127,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+202.543,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+202.544,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+203.294,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+203.710,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+203.711,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+204.545,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+204.962,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+205.003,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+205.004,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+208.757,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+209.048,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+209.049,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+215.388,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+215.637,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+215.638,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+216.722,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+216.930,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+216.931,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+218.098,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+219.266,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+219.725,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+220.684,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+221.058,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+221.059,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+224.473,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+224.830,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+224.831,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+228.857,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+229.065,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+229.066,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+230.275,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+230.608,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+230.609,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+231.776,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+232.067,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+232.068,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+234.862,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+235.153,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+235.154,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+236.447,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+236.738,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+236.739,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+238.365,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+238.573,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+238.574,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,soh,POINT
+264.804,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+265.804,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+265.805,Boccia245.MP4,387.300,23.98,Boccia 245M,reinhale,,lbn,POINT
+294.204,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+296.121,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+296.122,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+303.408,Boccia245.MP4,387.300,23.98,Boccia 245M,gular pump,,,POINT
+305.930,Boccia245.MP4,387.300,23.98,Boccia 245M,gular pump,,,POINT
+354.295,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,START
+354.461,Boccia245.MP4,387.300,23.98,Boccia 245M,exhale,,,STOP
+354.462,Boccia245.MP4,387.300,23.98,Boccia 245M,bubble release,,,POINT
+356.214,Boccia245.MP4,387.300,23.98,Boccia 245M,end of trial,,,POINT

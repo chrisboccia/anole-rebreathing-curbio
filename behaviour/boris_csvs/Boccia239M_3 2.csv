@@ -1,0 +1,57 @@
+Observation id,Boccia239M_3 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia239_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-02 17:55:33,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+170.024,Boccia239_3.MP4,264.680,23.98,Boccia 239M,start of trial,,,POINT
+170.309,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+170.349,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+170.350,Boccia239_3.MP4,264.680,23.98,Boccia 239M,bubble release,,,POINT
+170.434,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+170.474,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+170.475,Boccia239_3.MP4,264.680,23.98,Boccia 239M,bubble release,,,POINT
+170.475,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+170.516,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+170.517,Boccia239_3.MP4,264.680,23.98,Boccia 239M,bubble release,,,POINT
+170.559,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+170.600,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+170.601,Boccia239_3.MP4,264.680,23.98,Boccia 239M,bubble release,,,POINT
+171.518,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+181.108,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+181.109,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+181.276,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+182.611,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+183.694,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+183.695,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+183.945,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+187.489,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+187.490,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+187.781,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+198.550,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+198.551,Boccia239_3.MP4,264.680,23.98,Boccia 239M,bubble release,,,POINT
+199.833,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+199.917,Boccia239_3.MP4,264.680,23.98,Boccia 239M,bubble release,,,POINT
+200.083,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+204.836,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+204.837,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+205.546,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+206.755,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+206.756,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+247.790,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+250.041,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+250.042,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+250.125,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,START
+252.710,Boccia239_3.MP4,264.680,23.98,Boccia 239M,exhale,,,STOP
+252.711,Boccia239_3.MP4,264.680,23.98,Boccia 239M,reinhale,,soh,POINT
+253.586,Boccia239_3.MP4,264.680,23.98,Boccia 239M,end of trial,,,POINT

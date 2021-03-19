@@ -1,0 +1,25 @@
+Observation id,Boccia270M_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia270_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-14 03:01:30,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+25.354,Boccia270_2.MP4,379.880,23.98,Boccia 270M,start of trial,,,POINT
+28.649,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+28.981,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+28.982,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+35.363,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+40.283,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+40.284,Boccia270_2.MP4,379.880,23.98,Boccia 270M,bubble release,,,POINT
+40.867,Boccia270_2.MP4,379.880,23.98,Boccia 270M,bubble release,,,POINT
+148.240,Boccia270_2.MP4,379.880,23.98,Boccia 270M,end of trial,,,POINT

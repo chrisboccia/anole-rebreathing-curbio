@@ -1,0 +1,27 @@
+Observation id,MILP DLM 05,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-26 10:56:40,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+22.226,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,start of trial,,,POINT
+23.145,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,exhale,,,START
+46.470,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,exhale,,,STOP
+46.471,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,bubble release,,,POINT
+53.604,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,exhale,,,START
+53.920,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,exhale,,,STOP
+53.921,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,reinhale,,toh,POINT
+54.403,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,exhale,,,START
+66.164,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,chest,,,POINT
+74.783,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,end of trial,,,POINT
+74.783,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP DLM 05.MP4,78.080,119.88,MILP DLM 05,exhale,,,STOP

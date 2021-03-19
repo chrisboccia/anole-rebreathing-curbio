@@ -1,0 +1,21 @@
+Observation id,MORE AHM 04_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE AHM 04_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-02 19:30:03,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+17.836,MORE AHM 04_3.MP4,51.550,29.97,MORE AHM 04,start of trial,,,POINT
+22.087,MORE AHM 04_3.MP4,51.550,29.97,MORE AHM 04,exhale,,,START
+45.864,MORE AHM 04_3.MP4,51.550,29.97,MORE AHM 04,bubble release,,,POINT
+48.621,MORE AHM 04_3.MP4,51.550,29.97,MORE AHM 04,end of trial,,,POINT
+48.621,MORE AHM 04_3.MP4,51.550,29.97,MORE AHM 04,exhale,,,STOP

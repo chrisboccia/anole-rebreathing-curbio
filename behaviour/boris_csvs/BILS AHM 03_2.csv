@@ -1,0 +1,22 @@
+Observation id,BILS AHM 03_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS AHM 03_2 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-10 19:45:01,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+18.362,BILS AHM 03_2 b2.MP4,44.540,29.97,BILS AHM 03,start of trial,,,POINT
+20.593,BILS AHM 03_2 b2.MP4,44.540,29.97,BILS AHM 03,exhale,,,START
+40.353,BILS AHM 03_2 b2.MP4,44.540,29.97,BILS AHM 03,gular pump,,,POINT
+40.356,BILS AHM 03_2 b2.MP4,44.540,29.97,BILS AHM 03,exhale,,,STOP
+40.357,BILS AHM 03_2 b2.MP4,44.540,29.97,BILS AHM 03,reinhale,,toh,POINT
+41.609,BILS AHM 03_2 b2.MP4,44.540,29.97,BILS AHM 03,end of trial,,,POINT

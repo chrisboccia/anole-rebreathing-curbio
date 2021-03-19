@@ -1,0 +1,37 @@
+Observation id,Boccia311M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia311.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-05-01 14:13:13,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+53.461,Boccia311.MP4,131.880,23.98,Boccia 311M,start of trial,,,POINT
+55.913,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+57.656,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+59.410,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+61.662,Boccia311.MP4,131.880,23.98,Boccia 311M,gular pump,,,POINT
+61.913,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+63.910,Boccia311.MP4,131.880,23.98,Boccia 311M,gular pump,,,POINT
+63.911,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+65.161,Boccia311.MP4,131.880,23.98,Boccia 311M,gular pump,,,POINT
+65.908,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,START
+68.913,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+70.910,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,STOP
+70.911,Boccia311.MP4,131.880,23.98,Boccia 311M,reinhale,,hbn,POINT
+70.927,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+71.412,Boccia311.MP4,131.880,23.98,Boccia 311M,gular pump,,,POINT
+72.923,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,START
+72.924,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,STOP
+72.924,Boccia311.MP4,131.880,23.98,Boccia 311M,reinhale,,hbn,POINT
+73.679,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,START
+74.175,Boccia311.MP4,131.880,23.98,Boccia 311M,end of trial,,,POINT
+74.175,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,STOP

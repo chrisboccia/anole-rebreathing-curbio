@@ -1,0 +1,18 @@
+Observation id,Boccia297,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia297.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-06 13:17:39,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+24.479,Boccia297.MP4,62.850,23.98,Boccia 297,start of trial,,,POINT
+40.382,Boccia297.MP4,62.850,23.98,Boccia 297,end of trial,,,POINT

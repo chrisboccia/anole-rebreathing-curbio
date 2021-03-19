@@ -1,0 +1,39 @@
+Observation id,ANOX204_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,ANOX204.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-02-11 10:34:33,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+567.336,ANOX204.MOV,720.500,60.0,ANOX2,start of trial,,,POINT
+567.343,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,START
+571.586,ANOX204.MOV,720.500,60.0,ANOX2,bubble release,,,POINT
+572.085,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,STOP
+572.086,ANOX204.MOV,720.500,60.0,ANOX2,reinhale,,soh,POINT
+573.335,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,START
+576.340,ANOX204.MOV,720.500,60.0,ANOX2,bubble release,,,POINT
+577.334,ANOX204.MOV,720.500,60.0,ANOX2,reinhale,,soh,POINT
+581.085,ANOX204.MOV,720.500,60.0,ANOX2,chest,,,POINT
+581.085,ANOX204.MOV,720.500,60.0,ANOX2,gular pump,,,POINT
+599.085,ANOX204.MOV,720.500,60.0,ANOX2,gular pump,,,POINT
+606.086,ANOX204.MOV,720.500,60.0,ANOX2,gular pump,,,POINT
+635.585,ANOX204.MOV,720.500,60.0,ANOX2,gular pump,,,POINT
+637.088,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,STOP
+637.335,ANOX204.MOV,720.500,60.0,ANOX2,bubble release,,,POINT
+637.666,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,START
+637.667,ANOX204.MOV,720.500,60.0,ANOX2,bubble release,,,POINT
+637.667,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,STOP
+639.585,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,START
+681.900,ANOX204.MOV,720.500,60.0,ANOX2,gular pump,,,POINT
+694.838,ANOX204.MOV,720.500,60.0,ANOX2,gular pump,,,POINT
+713.090,ANOX204.MOV,720.500,60.0,ANOX2,end of trial,,,POINT
+713.090,ANOX204.MOV,720.500,60.0,ANOX2,exhale,,,STOP

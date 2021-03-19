@@ -1,0 +1,34 @@
+Observation id,BILS KT 06_3 b3_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS KT 06_3 b3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 15:13:37,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+122.933,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,chest out of view,,,START
+122.933,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,start of trial,,,POINT
+124.935,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+139.006,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,exhale,,,START
+139.072,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+139.273,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,reinhale,,toh,POINT
+144.715,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+147.713,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+149.714,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+150.714,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+152.716,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+154.718,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+157.215,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+181.716,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+183.217,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,exhale,,,STOP
+183.218,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,bubble release,,,POINT
+184.220,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,chest out of view,,,STOP
+184.220,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,end of trial,,,POINT

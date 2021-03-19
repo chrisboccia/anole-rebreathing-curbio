@@ -1,0 +1,25 @@
+Observation id,LARE LOF 10_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-18 16:52:54,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+138.489,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,start of trial,,,POINT
+175.897,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,exhale,,,START
+175.979,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,exhale,,,STOP
+175.980,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,bubble release,,,POINT
+184.028,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,bubble release,,,POINT
+184.696,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,chest,,,POINT
+191.618,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,bubble release,,,POINT
+206.797,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,bubble release,,,POINT
+208.045,E:/Jamaica diving videos/DCIM/100GOPRO/LARE LOF 10.MP4,212.340,23.98,LARE LOF 10,end of trial,,,POINT

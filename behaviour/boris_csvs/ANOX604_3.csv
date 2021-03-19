@@ -1,0 +1,28 @@
+Observation id,ANOX604_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,ANOX604.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-02-16 01:39:00,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+628.337,ANOX604.MOV,793.000,60.0,ANOX6,exhale,,,START
+628.337,ANOX604.MOV,793.000,60.0,ANOX6,start of trial,,,POINT
+643.089,ANOX604.MOV,793.000,60.0,ANOX6,bubble release,,,POINT
+643.089,ANOX604.MOV,793.000,60.0,ANOX6,chest,,,POINT
+643.089,ANOX604.MOV,793.000,60.0,ANOX6,gular pump,,,POINT
+654.335,ANOX604.MOV,793.000,60.0,ANOX6,bubble release,,,POINT
+655.335,ANOX604.MOV,793.000,60.0,ANOX6,chest,,,POINT
+655.335,ANOX604.MOV,793.000,60.0,ANOX6,gular pump,,,POINT
+655.335,ANOX604.MOV,793.000,60.0,ANOX6,reinhale,,soh,POINT
+768.391,ANOX604.MOV,793.000,60.0,ANOX6,exhale,,,STOP
+768.392,ANOX604.MOV,793.000,60.0,ANOX6,reinhale,,soh,POINT
+784.589,ANOX604.MOV,793.000,60.0,ANOX6,end of trial,,,POINT

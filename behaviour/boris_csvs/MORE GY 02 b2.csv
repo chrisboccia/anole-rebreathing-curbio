@@ -1,0 +1,39 @@
+Observation id,MORE GY 02 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE GY 02 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-09 16:10:31,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+17.333,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,start of trial,,,POINT
+18.084,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,START
+19.585,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,STOP
+19.586,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,reinhale,,toh,POINT
+20.337,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,START
+21.086,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,STOP
+21.087,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,reinhale,,soh,POINT
+23.891,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,START
+24.357,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,STOP
+24.358,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,reinhale,,soh,POINT
+25.343,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,START
+25.593,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,STOP
+25.594,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,reinhale,,soh,POINT
+27.096,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,START
+27.097,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,STOP
+27.097,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,reinhale,,soh,POINT
+29.596,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,START
+30.095,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,STOP
+30.096,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,reinhale,,soh,POINT
+36.593,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,START
+37.853,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,exhale,,,STOP
+37.854,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,reinhale,,soh,POINT
+51.358,MORE GY 02 b2.MP4,55.060,29.97,MORE GY 02,end of trial,,,POINT

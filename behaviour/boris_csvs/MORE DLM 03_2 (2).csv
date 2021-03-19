@@ -1,0 +1,21 @@
+Observation id,MORE DLM 03_2 (2),,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE DLM 03_2 (2).MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-03 19:56:40,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+7.076,MORE DLM 03_2 (2).MP4,68.070,29.97,MORE DLM 03,start of trial,,,POINT
+7.577,MORE DLM 03_2 (2).MP4,68.070,29.97,MORE DLM 03,exhale,,,START
+8.582,MORE DLM 03_2 (2).MP4,68.070,29.97,MORE DLM 03,exhale,,,STOP
+8.583,MORE DLM 03_2 (2).MP4,68.070,29.97,MORE DLM 03,reinhale,,toh,POINT
+64.634,MORE DLM 03_2 (2).MP4,68.070,29.97,MORE DLM 03,end of trial,,,POINT

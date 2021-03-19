@@ -1,0 +1,32 @@
+Observation id,MILP LOF 02 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MILP LOF 2 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-01 00:25:26,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+6.323,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,start of trial,,,POINT
+54.154,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,exhale,,,START
+59.493,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,reinhale,,hbn,POINT
+66.880,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,reinhale,,hbn,POINT
+72.381,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,exhale,,,STOP
+72.382,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,reinhale,,hbn,POINT
+77.641,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,gular pump,,,POINT
+78.145,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,exhale,,,START
+78.878,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,exhale,,,STOP
+78.879,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,reinhale,,toh,POINT
+81.902,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,gular pump,,,POINT
+82.653,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,gular pump,,,POINT
+84.153,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,gular pump,,,POINT
+86.386,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,exhale,,,START
+88.255,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,end of trial,,,POINT
+88.255,MILP LOF 2 b2.MP4,90.590,29.97,MILP LOF 02,exhale,,,STOP

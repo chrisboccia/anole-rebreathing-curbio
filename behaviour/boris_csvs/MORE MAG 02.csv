@@ -1,0 +1,20 @@
+Observation id,MORE MAG 02,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE MAG 02.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 21:23:42,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+14.356,MORE MAG 02.MP4,24.520,29.97,MORE MAG 02,exhale,,,START
+14.356,MORE MAG 02.MP4,24.520,29.97,MORE MAG 02,start of trial,,,POINT
+22.582,MORE MAG 02.MP4,24.520,29.97,MORE MAG 02,end of trial,,,POINT
+22.582,MORE MAG 02.MP4,24.520,29.97,MORE MAG 02,exhale,,,STOP

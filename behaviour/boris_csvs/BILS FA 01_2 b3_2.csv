@@ -1,0 +1,18 @@
+Observation id,BILS FA 01_2 b3_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 01_2 b3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 09:59:14,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+90.621,BILS FA 01_2 b3.MP4,170.170,29.97,BILS FA 01,start of trial,,,POINT
+161.187,BILS FA 01_2 b3.MP4,170.170,29.97,BILS FA 01,end of trial,,,POINT

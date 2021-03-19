@@ -1,0 +1,34 @@
+Observation id,MILP DLM 02 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-30 10:39:55,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+25.089,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,start of trial,,,POINT
+25.346,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,gular pump,,,POINT
+25.844,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,exhale,,,START
+26.094,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,exhale,,,STOP
+26.095,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,reinhale,,toh,POINT
+30.130,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,exhale,,,START
+30.329,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,exhale,,,STOP
+30.330,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,reinhale,,toh,POINT
+32.100,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,gular pump,,,POINT
+33.352,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,exhale,,,START
+35.102,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,gular pump,,,POINT
+38.354,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,gular pump,,,POINT
+38.624,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,exhale,,,STOP
+38.625,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,reinhale,,toh,POINT
+48.631,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,gular pump,,,POINT
+61.104,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,gular pump,,,POINT
+67.354,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,gular pump,,,POINT
+90.881,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 2/104ANV01/MILP DLM 02 b2.MP4,93.590,29.97,MILP DLM 02,end of trial,,,POINT

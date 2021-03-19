@@ -1,0 +1,80 @@
+Observation id,Boccia310,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia310.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-06 19:53:01,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+6.047,Boccia310.MP4,266.220,23.98,Boccia 310,start of trial,,,POINT
+10.109,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+11.862,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+14.111,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+16.361,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+17.362,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+20.111,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+23.117,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+23.117,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+26.993,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+28.125,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+30.627,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+31.383,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+34.127,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+34.632,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+34.886,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,START
+41.140,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,STOP
+41.141,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+41.141,Boccia310.MP4,266.220,23.98,Boccia 310,reinhale,,toh,POINT
+41.640,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+41.743,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,START
+43.577,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,STOP
+43.578,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+49.151,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+50.153,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+55.653,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+56.158,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+57.153,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,START
+57.657,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,STOP
+57.658,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+64.149,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+64.430,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+65.651,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,START
+70.650,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+71.648,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,STOP
+71.649,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+79.654,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+80.158,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+90.149,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+90.897,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+91.410,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,START
+91.867,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,STOP
+91.868,Boccia310.MP4,266.220,23.98,Boccia 310,reinhale,,lbn,POINT
+100.250,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,START
+101.876,Boccia310.MP4,266.220,23.98,Boccia 310,exhale,,,STOP
+101.877,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+101.877,Boccia310.MP4,266.220,23.98,Boccia 310,reinhale,,lbn,POINT
+102.669,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+110.712,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+111.216,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+127.712,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+128.711,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+139.208,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+140.209,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+154.763,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+155.035,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+169.748,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+170.254,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+173.749,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+177.746,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+178.747,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+198.751,Boccia310.MP4,266.220,23.98,Boccia 310,gular pump,,,POINT
+199.755,Boccia310.MP4,266.220,23.98,Boccia 310,bubble release,,,POINT
+207.253,Boccia310.MP4,266.220,23.98,Boccia 310,end of trial,,,POINT

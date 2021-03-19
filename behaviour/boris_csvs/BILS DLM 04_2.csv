@@ -1,0 +1,21 @@
+Observation id,BILS DLM 04_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS DLM 04_2 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-12 00:29:14,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+5.351,BILS DLM 04_2 b2.MP4,425.430,29.97,BILS DLM 04,start of trial,,,POINT
+10.075,BILS DLM 04_2 b2.MP4,425.430,29.97,BILS DLM 04,exhale,,,START
+340.910,BILS DLM 04_2 b2.MP4,425.430,29.97,BILS DLM 04,reinhale,,toh,POINT
+423.991,BILS DLM 04_2 b2.MP4,425.430,29.97,BILS DLM 04,end of trial,,,POINT
+423.991,BILS DLM 04_2 b2.MP4,425.430,29.97,BILS DLM 04,exhale,,,STOP

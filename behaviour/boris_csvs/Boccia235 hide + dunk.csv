@@ -1,0 +1,38 @@
+Observation id,Boccia235 hide + dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia235 hide + dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-06 23:27:55,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+152.500,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,start of trial,,,POINT
+153.253,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,START
+155.170,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,STOP
+155.171,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,bubble release,,,POINT
+179.263,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,chest out of view,,,START
+179.274,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,START
+179.816,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,STOP
+179.817,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,reinhale,,toh,POINT
+202.262,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,chest out of view,,,STOP
+204.287,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,START
+214.561,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,STOP
+214.562,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,reinhale,,soh,POINT
+215.816,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,START
+219.558,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,STOP
+219.559,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,reinhale,,soh,POINT
+235.363,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,START
+236.154,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,STOP
+236.155,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,reinhale,,toh,POINT
+247.248,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,START
+248.206,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,exhale,,,STOP
+248.207,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,reinhale,,toh,POINT
+255.359,Boccia235 hide + dunk.MP4,271.770,23.98,Boccia 235,end of trial,,,POINT

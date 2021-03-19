@@ -1,0 +1,23 @@
+Observation id,MORE DLM 07_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE DLM 07_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 00:56:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+16.333,MORE DLM 07_2.MP4,120.620,29.97,MORE DLM 07,start of trial,,,POINT
+42.604,MORE DLM 07_2.MP4,120.620,29.97,MORE DLM 07,gular pump,,,POINT
+95.661,MORE DLM 07_2.MP4,120.620,29.97,MORE DLM 07,chest,,,POINT
+96.141,MORE DLM 07_2.MP4,120.620,29.97,MORE DLM 07,gular pump,,,POINT
+114.660,MORE DLM 07_2.MP4,120.620,29.97,MORE DLM 07,chest,,,POINT
+114.660,MORE DLM 07_2.MP4,120.620,29.97,MORE DLM 07,gular pump,,,POINT
+118.167,MORE DLM 07_2.MP4,120.620,29.97,MORE DLM 07,end of trial,,,POINT

@@ -1,0 +1,42 @@
+Observation id,Boccia235M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia235.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-31 15:29:41,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+327.675,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,START
+327.675,Boccia235.MP4,515.180,23.98,Boccia 235M,start of trial,,,POINT
+328.399,Boccia235.MP4,515.180,23.98,Boccia 235M,reinhale,,toh,POINT
+328.940,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,STOP
+328.941,Boccia235.MP4,515.180,23.98,Boccia 235M,reinhale,,lbn,POINT
+334.696,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,START
+334.903,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,STOP
+334.904,Boccia235.MP4,515.180,23.98,Boccia 235M,bubble release,,,POINT
+334.946,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,START
+335.070,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,STOP
+335.071,Boccia235.MP4,515.180,23.98,Boccia 235M,reinhale,,soh,POINT
+335.446,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,START
+335.487,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,STOP
+335.488,Boccia235.MP4,515.180,23.98,Boccia 235M,reinhale,,lbn,POINT
+337.531,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,START
+337.947,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,STOP
+337.948,Boccia235.MP4,515.180,23.98,Boccia 235M,reinhale,,soh,POINT
+344.198,Boccia235.MP4,515.180,23.98,Boccia 235M,gular pump,,,POINT
+344.950,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,START
+360.700,Boccia235.MP4,515.180,23.98,Boccia 235M,gular pump,,,POINT
+371.712,Boccia235.MP4,515.180,23.98,Boccia 235M,gular pump,,,POINT
+409.012,Boccia235.MP4,515.180,23.98,Boccia 235M,gular pump,,,POINT
+415.512,Boccia235.MP4,515.180,23.98,Boccia 235M,gular pump,,,POINT
+427.512,Boccia235.MP4,515.180,23.98,Boccia 235M,gular pump,,,POINT
+506.512,Boccia235.MP4,515.180,23.98,Boccia 235M,end of trial,,,POINT
+506.512,Boccia235.MP4,515.180,23.98,Boccia 235M,exhale,,,STOP

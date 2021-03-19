@@ -1,0 +1,22 @@
+Observation id,ANOX505_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,ANOX505.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-02-16 00:38:16,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+507.341,ANOX505.MOV,644.750,60.0,ANOX5,start of trial,,,POINT
+509.085,ANOX505.MOV,644.750,60.0,ANOX5,exhale,,,START
+605.586,ANOX505.MOV,644.750,60.0,ANOX5,gular pump,,,POINT
+634.835,ANOX505.MOV,644.750,60.0,ANOX5,exhale,,,STOP
+634.836,ANOX505.MOV,644.750,60.0,ANOX5,bubble release,,,POINT
+635.088,ANOX505.MOV,644.750,60.0,ANOX5,end of trial,,,POINT

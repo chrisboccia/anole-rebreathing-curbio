@@ -1,0 +1,20 @@
+Observation id,Mahler FOWL2_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,GOPR0552-fowleri2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2020-05-06 00:46:00,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+108.208,GOPR0552-fowleri2.MP4,134.720,59.94,Mahler FOWL2,start of trial,,,POINT
+108.208,GOPR0552-fowleri2.MP4,134.720,59.94,Mahler FOWL2,throat out of view,,,START
+115.956,GOPR0552-fowleri2.MP4,134.720,59.94,Mahler FOWL2,end of trial,,,POINT
+115.956,GOPR0552-fowleri2.MP4,134.720,59.94,Mahler FOWL2,throat out of view,,,STOP

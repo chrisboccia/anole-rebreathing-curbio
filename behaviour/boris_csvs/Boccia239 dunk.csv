@@ -1,0 +1,53 @@
+Observation id,Boccia239 dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia239 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-07 02:30:43,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+62.165,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,chest out of view,,,START
+62.165,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,start of trial,,,POINT
+64.470,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+64.553,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+64.554,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,bubble release,,,POINT
+64.554,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+64.720,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+64.721,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,bubble release,,,POINT
+65.166,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+65.555,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+66.222,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+67.430,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+67.431,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+69.266,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+69.600,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,bubble release,,,POINT
+69.724,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+69.725,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+69.766,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+69.932,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+69.933,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+74.062,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+74.394,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+74.395,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+74.437,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+74.770,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+74.771,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+79.608,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+79.941,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+79.942,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+80.024,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+80.025,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+81.068,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP
+81.109,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,reinhale,,toh,POINT
+81.318,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,START
+82.694,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,chest out of view,,,STOP
+82.694,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,end of trial,,,POINT
+82.694,Boccia239 dunk.MP4,270.190,23.98,Boccia 239,exhale,,,STOP

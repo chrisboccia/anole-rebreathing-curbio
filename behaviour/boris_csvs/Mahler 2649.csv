@@ -1,0 +1,36 @@
+Observation id,Mahler 2649,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,GOPR0558-mahler2649.MP4,,,,,,,
+,,,,,,,,
+Observation date,2020-05-05 11:22:10,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+48.994,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,start of trial,,,POINT
+48.994,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,throat out of view,,,START
+50.185,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,exhale,,,START
+67.438,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,chest,,,POINT
+69.439,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,chest,,,POINT
+71.439,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,chest,,,POINT
+72.690,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,chest,,,POINT
+132.428,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,reinhale,,lbn,POINT
+136.677,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,reinhale,,lbn,POINT
+141.428,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,bubble release,,,POINT
+143.046,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,reinhale,,lbn,POINT
+152.049,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,reinhale,,lbn,POINT
+153.046,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,reinhale,,hbn,POINT
+161.295,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,chest,,,POINT
+161.832,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,reinhale,,lbn,POINT
+163.351,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,reinhale,,lbn,POINT
+165.084,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,exhale,,,STOP
+165.085,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,bubble release,,,POINT
+166.087,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,end of trial,,,POINT
+166.087,GOPR0558-mahler2649.MP4,192.130,14.99,Mahler CHRI1,throat out of view,,,STOP

@@ -1,0 +1,21 @@
+Observation id,Boccia229 hide + dunk 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia229 hide + dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 15:14:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+97.955,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,start of trial,,,POINT
+113.928,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+114.136,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+114.137,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,bubble release,,,POINT
+125.471,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,end of trial,,,POINT

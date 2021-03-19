@@ -1,0 +1,20 @@
+Observation id,Boccia241 retest 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia241 retest.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-07 17:12:15,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+174.778,Boccia241 retest.MP4,245.540,23.98,Boccia 241,start of trial,,,POINT
+175.527,Boccia241 retest.MP4,245.540,23.98,Boccia 241,chest out of view,,,START
+229.528,Boccia241 retest.MP4,245.540,23.98,Boccia 241,chest out of view,,,STOP
+229.528,Boccia241 retest.MP4,245.540,23.98,Boccia 241,end of trial,,,POINT

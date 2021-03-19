@@ -1,0 +1,18 @@
+Observation id,Boccia 222 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,G:/Colombia rebreathing videos/Boccia222.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-23 18:07:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+237.180,G:/Colombia rebreathing videos/Boccia222.MP4,337.600,14.99,Boccia 222,start of trial,,,POINT
+319.308,G:/Colombia rebreathing videos/Boccia222.MP4,337.600,14.99,Boccia 222,end of trial,,,POINT

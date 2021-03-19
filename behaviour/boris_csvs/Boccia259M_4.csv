@@ -1,0 +1,71 @@
+Observation id,Boccia259M_4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia259_4.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-09 23:51:20,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.509,Boccia259_4.MP4,447.910,23.98,Boccia 259M,start of trial,,,POINT
+11.593,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+12.426,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+12.427,Boccia259_4.MP4,447.910,23.98,Boccia 259M,bubble release,,,POINT
+12.510,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+13.760,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+13.761,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,hbn,POINT
+14.387,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+14.636,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+14.637,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+15.596,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+16.346,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+16.347,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+16.389,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+17.222,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+17.223,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+17.264,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+18.349,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+19.015,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+19.016,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+19.058,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+23.561,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+23.602,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+23.603,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+23.645,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+24.519,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+24.520,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+24.604,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+24.811,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+24.812,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+24.854,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+26.396,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+26.397,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+26.439,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+26.646,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+26.647,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+26.689,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+30.608,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+30.609,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+30.859,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+31.525,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+31.526,Boccia259_4.MP4,447.910,23.98,Boccia 259M,reinhale,,soh,POINT
+31.776,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+31.901,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+31.902,Boccia259_4.MP4,447.910,23.98,Boccia 259M,bubble release,,,POINT
+31.985,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+32.151,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+32.152,Boccia259_4.MP4,447.910,23.98,Boccia 259M,bubble release,,,POINT
+40.826,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+40.991,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+40.992,Boccia259_4.MP4,447.910,23.98,Boccia 259M,bubble release,,,POINT
+44.120,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,START
+44.244,Boccia259_4.MP4,447.910,23.98,Boccia 259M,exhale,,,STOP
+44.245,Boccia259_4.MP4,447.910,23.98,Boccia 259M,bubble release,,,POINT
+58.902,Boccia259_4.MP4,447.910,23.98,Boccia 259M,end of trial,,,POINT

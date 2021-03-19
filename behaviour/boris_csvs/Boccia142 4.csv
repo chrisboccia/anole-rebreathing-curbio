@@ -1,0 +1,75 @@
+Observation id,Boccia142 4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia142 4.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 20:28:09,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+28.753,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+28.753,Boccia142 4.MP4,232.900,14.99,Boccia 142,start of trial,,,POINT
+53.502,Boccia142 4.MP4,232.900,14.99,Boccia 142,gular pump,,,POINT
+53.768,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+53.769,Boccia142 4.MP4,232.900,14.99,Boccia 142,bubble release,,,POINT
+53.769,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+54.303,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+55.102,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+55.103,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+55.237,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+57.771,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+57.772,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+57.905,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+57.905,Boccia142 4.MP4,232.900,14.99,Boccia 142,gular pump,,,POINT
+62.641,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+62.642,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+62.775,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+62.775,Boccia142 4.MP4,232.900,14.99,Boccia 142,gular pump,,,POINT
+67.778,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+67.779,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+67.912,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+78.451,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+78.452,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+78.586,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+85.323,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+85.324,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+85.590,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+105.002,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+105.003,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+105.404,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+108.339,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+111.273,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+111.274,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+111.408,Boccia142 4.MP4,232.900,14.99,Boccia 142,gular pump,,,POINT
+111.541,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+127.818,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+127.819,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+127.952,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+139.960,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+142.628,Boccia142 4.MP4,232.900,14.99,Boccia 142,gular pump,,,POINT
+151.767,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+151.768,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+160.440,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+170.446,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+170.447,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+175.984,Boccia142 4.MP4,232.900,14.99,Boccia 142,gular pump,,,POINT
+176.117,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+187.592,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+188.259,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+189.193,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,START
+190.926,Boccia142 4.MP4,232.900,14.99,Boccia 142,exhale,,,STOP
+190.927,Boccia142 4.MP4,232.900,14.99,Boccia 142,reinhale,,toh,POINT
+197.598,Boccia142 4.MP4,232.900,14.99,Boccia 142,chest out of view,,,START
+197.598,Boccia142 4.MP4,232.900,14.99,Boccia 142,head out of view,,,START
+197.598,Boccia142 4.MP4,232.900,14.99,Boccia 142,throat out of view,,,START
+224.149,Boccia142 4.MP4,232.900,14.99,Boccia 142,chest out of view,,,STOP
+224.149,Boccia142 4.MP4,232.900,14.99,Boccia 142,head out of view,,,STOP
+224.149,Boccia142 4.MP4,232.900,14.99,Boccia 142,throat out of view,,,STOP
+224.683,Boccia142 4.MP4,232.900,14.99,Boccia 142,end of trial,,,POINT

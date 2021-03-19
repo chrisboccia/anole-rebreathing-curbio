@@ -1,0 +1,43 @@
+Observation id,Boccia 224 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia224.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-24 17:37:28,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+156.352,Boccia224.MP4,327.590,14.99,Boccia 224,start of trial,,,POINT
+157.457,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+158.705,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+158.706,Boccia224.MP4,327.590,14.99,Boccia 224,gular pump,,,POINT
+158.706,Boccia224.MP4,327.590,14.99,Boccia 224,reinhale,,soh,POINT
+158.876,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+162.375,Boccia224.MP4,327.590,14.99,Boccia 224,gular pump,,,POINT
+169.376,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+169.627,Boccia224.MP4,327.590,14.99,Boccia 224,gular pump,,,POINT
+169.780,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+169.913,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+169.979,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+169.980,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+170.113,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+170.113,Boccia224.MP4,327.590,14.99,Boccia 224,reinhale,,toh,POINT
+170.180,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+170.246,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+170.247,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+170.314,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+170.579,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+170.580,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+170.580,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,START
+178.919,Boccia224.MP4,327.590,14.99,Boccia 224,reinhale,,toh,POINT
+192.060,Boccia224.MP4,327.590,14.99,Boccia 224,exhale,,,STOP
+192.061,Boccia224.MP4,327.590,14.99,Boccia 224,bubble release,,,POINT
+205.315,Boccia224.MP4,327.590,14.99,Boccia 224,gular pump,,,POINT
+212.959,Boccia224.MP4,327.590,14.99,Boccia 224,end of trial,,,POINT

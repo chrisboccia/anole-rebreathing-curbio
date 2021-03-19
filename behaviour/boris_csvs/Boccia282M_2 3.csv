@@ -1,0 +1,66 @@
+Observation id,Boccia282M_2 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia282_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-19 17:28:54,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+126.731,Boccia282_2.MP4,365.200,23.98,Boccia 282M,chest out of view,,,START
+126.731,Boccia282_2.MP4,365.200,23.98,Boccia 282M,start of trial,,,POINT
+127.147,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,START
+127.148,Boccia282_2.MP4,365.200,23.98,Boccia 282M,bubble release,,,POINT
+127.148,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,STOP
+127.230,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,START
+127.231,Boccia282_2.MP4,365.200,23.98,Boccia 282M,bubble release,,,POINT
+127.231,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,STOP
+127.313,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,START
+127.314,Boccia282_2.MP4,365.200,23.98,Boccia 282M,bubble release,,,POINT
+127.314,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,STOP
+131.483,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+132.730,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+136.979,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+139.981,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+142.483,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+143.728,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+145.230,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+146.980,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+148.732,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+150.231,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+152.731,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+155.232,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+159.233,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+160.731,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+163.480,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+166.732,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+168.481,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+171.733,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+174.981,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+176.981,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+177.231,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,START
+177.398,Boccia282_2.MP4,365.200,23.98,Boccia 282M,bubble release,,,POINT
+179.596,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+182.532,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+184.782,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+188.783,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+190.784,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+194.804,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+196.783,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+198.284,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+198.780,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,STOP
+198.781,Boccia282_2.MP4,365.200,23.98,Boccia 282M,bubble release,,,POINT
+206.283,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+208.285,Boccia282_2.MP4,365.200,23.98,Boccia 282M,gular pump,,,POINT
+208.465,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,START
+208.548,Boccia282_2.MP4,365.200,23.98,Boccia 282M,exhale,,,STOP
+208.549,Boccia282_2.MP4,365.200,23.98,Boccia 282M,bubble release,,,POINT
+216.064,Boccia282_2.MP4,365.200,23.98,Boccia 282M,chest out of view,,,STOP
+216.064,Boccia282_2.MP4,365.200,23.98,Boccia 282M,end of trial,,,POINT

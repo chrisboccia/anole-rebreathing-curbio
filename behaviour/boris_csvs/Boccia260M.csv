@@ -1,0 +1,20 @@
+Observation id,Boccia260M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia260.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-10 13:39:03,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+73.672,Boccia260.MP4,364.110,23.98,Boccia 260M,start of trial,,,POINT
+267.869,Boccia260.MP4,364.110,23.98,Boccia 260M,exhale,,,START
+349.870,Boccia260.MP4,364.110,23.98,Boccia 260M,end of trial,,,POINT
+349.870,Boccia260.MP4,364.110,23.98,Boccia 260M,exhale,,,STOP

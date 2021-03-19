@@ -1,0 +1,29 @@
+Observation id,MILP KT 02,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-23 23:42:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+97.310,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,start of trial,,,POINT
+103.770,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,exhale,,,START
+107.720,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,gular pump,,,POINT
+110.216,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,gular pump,,,POINT
+117.223,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,gular pump,,,POINT
+118.857,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,gular pump,,,POINT
+120.829,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,gular pump,,,POINT
+126.834,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,exhale,,,STOP
+126.835,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,bubble release,,,POINT
+126.835,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,exhale,,,START
+130.355,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,gular pump,,,POINT
+134.750,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,end of trial,,,POINT
+134.750,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 1/C0001_MILP KT 02.MP4,142.640,119.88,MILP KT 02,exhale,,,STOP

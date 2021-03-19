@@ -1,0 +1,32 @@
+Observation id,MORE DLM 09_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE DLM 09_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 17:18:41,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+11.831,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,start of trial,,,POINT
+12.829,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,START
+13.081,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,STOP
+13.082,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,bubble release,,,POINT
+13.082,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,START
+13.588,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,reinhale,,toh,POINT
+16.584,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,STOP
+16.585,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,bubble release,,,POINT
+16.585,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,START
+16.833,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,STOP
+16.834,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,reinhale,,toh,POINT
+19.592,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,START
+25.090,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,reinhale,,toh,POINT
+32.851,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,reinhale,,toh,POINT
+56.124,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,end of trial,,,POINT
+56.124,MORE DLM 09_2.MP4,62.060,29.97,MORE DLM 09,exhale,,,STOP

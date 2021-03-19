@@ -1,0 +1,43 @@
+Observation id,Boccia255M_2 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia255_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-07 18:53:45,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+231.079,Boccia255_2.MP4,369.950,23.98,Boccia 255M,start of trial,,,POINT
+231.234,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+231.400,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+231.401,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,soh,POINT
+231.402,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+232.067,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+232.068,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,lbn,POINT
+232.694,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+232.943,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+232.944,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,lbn,POINT
+236.113,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+239.115,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+239.116,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,lbn,POINT
+240.659,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+244.411,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+244.412,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,hbn,POINT
+257.355,Boccia255_2.MP4,369.950,23.98,Boccia 255M,gular pump,,,POINT
+273.356,Boccia255_2.MP4,369.950,23.98,Boccia 255M,gular pump,,,POINT
+275.063,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+275.520,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+275.521,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,soh,POINT
+275.563,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+283.635,Boccia255_2.MP4,369.950,23.98,Boccia 255M,gular pump,,,POINT
+294.635,Boccia255_2.MP4,369.950,23.98,Boccia 255M,gular pump,,,POINT
+298.082,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+298.207,Boccia255_2.MP4,369.950,23.98,Boccia 255M,bubble release,,,POINT
+301.751,Boccia255_2.MP4,369.950,23.98,Boccia 255M,end of trial,,,POINT

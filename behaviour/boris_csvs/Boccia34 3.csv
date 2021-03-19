@@ -1,0 +1,30 @@
+Observation id,Boccia34 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia34 3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 14:46:36,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia34 3.MP4,60.690,59.94,Boccia 34,exhale,,,START
+0.000,Boccia34 3.MP4,60.690,59.94,Boccia 34,start of trial,,,POINT
+1.358,Boccia34 3.MP4,60.690,59.94,Boccia 34,reinhale,,toh,POINT
+8.041,Boccia34 3.MP4,60.690,59.94,Boccia 34,chest,,,POINT
+9.293,Boccia34 3.MP4,60.690,59.94,Boccia 34,reinhale,,toh,POINT
+12.462,Boccia34 3.MP4,60.690,59.94,Boccia 34,chest,,,POINT
+13.514,Boccia34 3.MP4,60.690,59.94,Boccia 34,reinhale,,toh,POINT
+40.125,Boccia34 3.MP4,60.690,59.94,Boccia 34,gular pump,,,POINT
+44.711,Boccia34 3.MP4,60.690,59.94,Boccia 34,chest,,,POINT
+46.396,Boccia34 3.MP4,60.690,59.94,Boccia 34,reinhale,,toh,POINT
+52.903,Boccia34 3.MP4,60.690,59.94,Boccia 34,chest,,,POINT
+54.087,Boccia34 3.MP4,60.690,59.94,Boccia 34,reinhale,,toh,POINT
+60.667,Boccia34 3.MP4,60.690,59.94,Boccia 34,end of trial,,,POINT
+60.667,Boccia34 3.MP4,60.690,59.94,Boccia 34,exhale,,,STOP

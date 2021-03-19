@@ -1,0 +1,48 @@
+Observation id,Boccia234M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,D:/Mexico rebreathing videos/Boccia234M.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-30 17:08:53,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+244.871,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,start of trial,,,POINT
+245.246,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,START
+246.037,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,STOP
+246.038,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+246.163,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,START
+253.100,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+254.003,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+262.135,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+265.367,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,STOP
+265.368,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+276.314,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,START
+294.383,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,STOP
+294.384,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+304.381,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,chest out of view,,,START
+305.463,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,START
+305.587,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,STOP
+305.588,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+311.412,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,chest out of view,,,STOP
+314.262,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,START
+314.553,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,STOP
+314.554,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+326.856,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,START
+327.063,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,STOP
+327.064,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+332.235,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,START
+332.359,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,exhale,,,STOP
+332.360,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,reinhale,,soh,POINT
+354.955,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,gular pump,,,POINT
+362.964,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,gular pump,,,POINT
+370.464,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,gular pump,,,POINT
+387.972,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,gular pump,,,POINT
+390.230,D:/Mexico rebreathing videos/Boccia234M.MP4,424.840,23.98,Boccia 234M,end of trial,,,POINT

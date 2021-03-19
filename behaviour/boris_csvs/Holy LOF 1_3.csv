@@ -1,0 +1,23 @@
+Observation id,Holy LOF 1_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-15 20:32:47,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+183.263,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,228.440,23.98,Holy LOF 1,start of trial,,,POINT
+217.932,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,228.440,23.98,Holy LOF 1,exhale,,,START
+218.181,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,228.440,23.98,Holy LOF 1,exhale,,,STOP
+218.182,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,228.440,23.98,Holy LOF 1,bubble release,,,POINT
+218.182,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,228.440,23.98,Holy LOF 1,exhale,,,START
+222.073,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,228.440,23.98,Holy LOF 1,end of trial,,,POINT
+222.073,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY LOF 1.MP4,228.440,23.98,Holy LOF 1,exhale,,,STOP

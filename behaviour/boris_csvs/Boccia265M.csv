@@ -1,0 +1,19 @@
+Observation id,Boccia265M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia265.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-11 11:22:42,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+440.992,Boccia265.MP4,563.940,23.98,Boccia 265M,start of trial,,,POINT
+557.661,Boccia265.MP4,563.940,23.98,Boccia 265M,gular pump,,,POINT
+558.908,Boccia265.MP4,563.940,23.98,Boccia 265M,end of trial,,,POINT

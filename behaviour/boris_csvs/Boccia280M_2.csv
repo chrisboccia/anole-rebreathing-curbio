@@ -1,0 +1,83 @@
+Observation id,Boccia280M_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia280_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-19 00:05:40,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+24.354,Boccia280_2.MP4,366.450,23.98,Boccia 280M,start of trial,,,POINT
+26.647,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+28.064,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+28.065,Boccia280_2.MP4,366.450,23.98,Boccia 280M,bubble release,,,POINT
+31.068,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+35.737,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+35.738,Boccia280_2.MP4,366.450,23.98,Boccia 280M,bubble release,,,POINT
+39.199,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+42.284,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+42.285,Boccia280_2.MP4,366.450,23.98,Boccia 280M,bubble release,,,POINT
+45.204,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+45.538,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+49.901,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+49.902,Boccia280_2.MP4,366.450,23.98,Boccia 280M,bubble release,,,POINT
+60.175,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+68.425,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+68.426,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+72.185,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+73.103,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+76.605,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+76.606,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+77.106,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+77.690,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+84.191,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+84.192,Boccia280_2.MP4,366.450,23.98,Boccia 280M,bubble release,,,POINT
+84.200,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+85.693,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+85.694,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+87.440,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+89.691,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP
+89.692,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+89.695,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,START
+102.458,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+108.708,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+113.213,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+116.715,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+121.464,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+124.215,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+128.715,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+135.220,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+139.745,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+144.496,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+157.245,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+160.249,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+165.743,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+167.524,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+170.775,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+180.535,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+185.782,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+190.285,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+193.788,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+198.038,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+202.286,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+208.534,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+212.534,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+238.332,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+243.336,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+247.586,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+251.357,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+258.106,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+266.370,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+270.122,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+290.147,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+295.395,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+302.394,Boccia280_2.MP4,366.450,23.98,Boccia 280M,reinhale,,soh,POINT
+354.394,Boccia280_2.MP4,366.450,23.98,Boccia 280M,end of trial,,,POINT
+354.394,Boccia280_2.MP4,366.450,23.98,Boccia 280M,exhale,,,STOP

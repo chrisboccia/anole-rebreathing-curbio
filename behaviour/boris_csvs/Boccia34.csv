@@ -1,0 +1,56 @@
+Observation id,Boccia34,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia34.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 14:13:53,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia34.MP4,164.230,14.99,Boccia 34,chest out of view,,,START
+0.000,Boccia34.MP4,164.230,14.99,Boccia 34,head out of view,,,START
+0.000,Boccia34.MP4,164.230,14.99,Boccia 34,start of trial,,,POINT
+0.000,Boccia34.MP4,164.230,14.99,Boccia 34,throat out of view,,,START
+8.072,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+8.103,Boccia34.MP4,164.230,14.99,Boccia 34,chest out of view,,,STOP
+8.103,Boccia34.MP4,164.230,14.99,Boccia 34,head out of view,,,STOP
+8.103,Boccia34.MP4,164.230,14.99,Boccia 34,throat out of view,,,STOP
+12.941,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+12.942,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+13.542,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+15.276,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+15.277,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+15.477,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+17.744,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+17.745,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+18.279,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+21.814,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+21.815,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+21.948,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+25.750,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+25.751,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+25.817,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+25.950,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+25.951,Boccia34.MP4,164.230,14.99,Boccia 34,bubble release,,,POINT
+25.951,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+26.350,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+26.351,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,toh,POINT
+29.086,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+30.019,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+30.020,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+30.487,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+37.691,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+37.692,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+37.825,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+38.825,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP
+38.826,Boccia34.MP4,164.230,14.99,Boccia 34,reinhale,,soh,POINT
+38.959,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,START
+40.027,Boccia34.MP4,164.230,14.99,Boccia 34,end of trial,,,POINT
+40.027,Boccia34.MP4,164.230,14.99,Boccia 34,exhale,,,STOP

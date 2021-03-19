@@ -1,0 +1,42 @@
+Observation id,BILS FA 01 id_g1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 01 id_g1.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 08:56:43,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.355,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,start of trial,,,POINT
+15.077,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+15.581,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,START
+27.096,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,bubble release,,,POINT
+27.580,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,STOP
+27.581,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,reinhale,,toh,POINT
+28.079,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+33.584,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,START
+34.580,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+34.582,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,STOP
+34.583,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,reinhale,,toh,POINT
+38.605,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,START
+39.077,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+39.101,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,STOP
+39.102,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,reinhale,,toh,POINT
+44.111,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,START
+44.577,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+44.612,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,exhale,,,STOP
+44.613,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,reinhale,,toh,POINT
+49.081,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+53.581,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+61.078,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+66.080,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+72.581,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+77.828,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,chest,,,POINT
+84.623,BILS FA 01 id_g1.MP4,115.620,29.97,BILS FA 01,end of trial,,,POINT

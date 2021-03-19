@@ -1,0 +1,37 @@
+Observation id,ANOX306,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,ANOX306.MOV,,,,,,,
+,,,,,,,,
+Observation date,2019-10-20 20:30:25,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+241.836,ANOX306.MOV,440.500,60.0,ANOX3,start of trial,,,POINT
+244.586,ANOX306.MOV,440.500,60.0,ANOX3,gular pump,,,POINT
+261.585,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,START
+283.834,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,STOP
+283.835,ANOX306.MOV,440.500,60.0,ANOX3,bubble release,,,POINT
+286.585,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,START
+299.087,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,STOP
+299.088,ANOX306.MOV,440.500,60.0,ANOX3,reinhale,,soh,POINT
+300.338,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,START
+324.585,ANOX306.MOV,440.500,60.0,ANOX3,chest,,,POINT
+324.585,ANOX306.MOV,440.500,60.0,ANOX3,gular pump,,,POINT
+332.086,ANOX306.MOV,440.500,60.0,ANOX3,chest,,,POINT
+338.085,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,STOP
+341.587,ANOX306.MOV,440.500,60.0,ANOX3,bubble release,,,POINT
+357.085,ANOX306.MOV,440.500,60.0,ANOX3,chest,,,POINT
+368.586,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,START
+394.836,ANOX306.MOV,440.500,60.0,ANOX3,reinhale,,soh,POINT
+394.838,ANOX306.MOV,440.500,60.0,ANOX3,chest,,,POINT
+394.838,ANOX306.MOV,440.500,60.0,ANOX3,gular pump,,,POINT
+432.605,ANOX306.MOV,440.500,60.0,ANOX3,end of trial,,,POINT
+432.605,ANOX306.MOV,440.500,60.0,ANOX3,exhale,,,STOP

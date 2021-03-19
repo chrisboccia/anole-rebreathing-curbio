@@ -1,0 +1,27 @@
+Observation id,Boccia314,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia314 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-06 20:28:37,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+5.356,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,start of trial,,,POINT
+6.357,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,gular pump,,,POINT
+8.132,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,exhale,,,START
+12.219,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,gular pump,,,POINT
+12.718,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,exhale,,,STOP
+12.719,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,bubble release,,,POINT
+17.123,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,gular pump,,,POINT
+17.389,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,bubble release,,,POINT
+55.653,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,gular pump,,,POINT
+56.155,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,bubble release,,,POINT
+58.154,Boccia314 dunk.MP4,62.810,23.98,Boccia 314,end of trial,,,POINT

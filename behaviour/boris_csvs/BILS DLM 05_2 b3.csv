@@ -1,0 +1,26 @@
+Observation id,BILS DLM 05_2 b3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS DLM 05_2 b3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-13 23:13:15,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+4.072,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,start of trial,,,POINT
+8.079,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,exhale,,,START
+58.581,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,exhale,,,STOP
+58.582,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,reinhale,,toh,POINT
+60.132,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,exhale,,,START
+61.133,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,exhale,,,STOP
+61.134,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,reinhale,,toh,POINT
+71.138,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,exhale,,,START
+180.996,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,end of trial,,,POINT
+180.996,BILS DLM 05_2 b3.MP4,182.680,29.97,BILS DLM 05,exhale,,,STOP

@@ -1,0 +1,57 @@
+Observation id,Boccia235,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia235.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-07 01:32:33,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.762,Boccia235.MP4,308.370,14.99,Boccia 235,start of trial,,,POINT
+11.254,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+33.622,Boccia235.MP4,308.370,14.99,Boccia 235,bubble release,,,POINT
+34.022,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+34.023,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+37.149,Boccia235.MP4,308.370,14.99,Boccia 235,chest out of view,,,START
+37.149,Boccia235.MP4,308.370,14.99,Boccia 235,head out of view,,,START
+37.149,Boccia235.MP4,308.370,14.99,Boccia 235,throat out of view,,,START
+139.140,Boccia235.MP4,308.370,14.99,Boccia 235,chest out of view,,,STOP
+139.140,Boccia235.MP4,308.370,14.99,Boccia 235,head out of view,,,STOP
+139.140,Boccia235.MP4,308.370,14.99,Boccia 235,throat out of view,,,STOP
+155.704,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+156.103,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+156.104,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+175.090,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+175.587,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+175.588,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+177.461,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+193.714,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+193.715,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+193.863,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+203.363,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+203.364,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+203.612,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+204.007,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+204.007,Boccia235.MP4,308.370,14.99,Boccia 235,gular pump,,,POINT
+204.008,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+204.288,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+218.040,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+218.041,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+218.420,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+229.210,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+229.211,Boccia235.MP4,308.370,14.99,Boccia 235,gular pump,,,POINT
+229.211,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+237.471,Boccia235.MP4,308.370,14.99,Boccia 235,gular pump,,,POINT
+238.389,Boccia235.MP4,308.370,14.99,Boccia 235,throat out of view,,,START
+286.791,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,START
+287.324,Boccia235.MP4,308.370,14.99,Boccia 235,exhale,,,STOP
+287.325,Boccia235.MP4,308.370,14.99,Boccia 235,reinhale,,soh,POINT
+302.356,Boccia235.MP4,308.370,14.99,Boccia 235,end of trial,,,POINT
+302.356,Boccia235.MP4,308.370,14.99,Boccia 235,throat out of view,,,STOP

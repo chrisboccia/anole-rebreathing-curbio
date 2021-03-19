@@ -1,0 +1,18 @@
+Observation id,Boccia234natural dive,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia234natural dive.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-06 23:21:32,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia234natural dive.MP4,48.580,14.99,Boccia 234,start of trial,,,POINT
+41.792,Boccia234natural dive.MP4,48.580,14.99,Boccia 234,end of trial,,,POINT

@@ -1,0 +1,24 @@
+Observation id,Boccia317M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia317.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-05-02 20:59:45,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+41.648,Boccia317.MP4,63.270,23.98,Boccia 317M,chest out of view,,,START
+41.648,Boccia317.MP4,63.270,23.98,Boccia 317M,exhale,,,START
+41.648,Boccia317.MP4,63.270,23.98,Boccia 317M,start of trial,,,POINT
+44.645,Boccia317.MP4,63.270,23.98,Boccia 317M,chest out of view,,,STOP
+44.901,Boccia317.MP4,63.270,23.98,Boccia 317M,chest,,,POINT
+49.899,Boccia317.MP4,63.270,23.98,Boccia 317M,gular pump,,,POINT
+57.902,Boccia317.MP4,63.270,23.98,Boccia 317M,end of trial,,,POINT
+57.902,Boccia317.MP4,63.270,23.98,Boccia 317M,exhale,,,STOP

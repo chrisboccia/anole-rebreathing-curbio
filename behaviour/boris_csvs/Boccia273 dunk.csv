@@ -1,0 +1,18 @@
+Observation id,Boccia273 dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia273 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-05 21:56:27,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+24.352,Boccia273 dunk.MP4,47.010,23.98,Boccia 273,start of trial,,,POINT
+46.701,Boccia273 dunk.MP4,47.010,23.98,Boccia 273,end of trial,,,POINT

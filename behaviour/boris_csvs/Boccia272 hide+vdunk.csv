@@ -1,0 +1,27 @@
+Observation id,Boccia272 hide+vdunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia272 hide+vdive.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-05 16:35:52,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+18.869,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,start of trial,,,POINT
+21.874,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,exhale,,,START
+137.781,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,reinhale,,toh,POINT
+142.244,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,reinhale,,toh,POINT
+145.371,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,reinhale,,toh,POINT
+146.163,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,reinhale,,toh,POINT
+148.957,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,reinhale,,toh,POINT
+150.000,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,reinhale,,toh,POINT
+153.008,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,exhale,,,STOP
+153.009,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,reinhale,,toh,POINT
+154.508,Boccia272 hide+vdive.MP4,506.340,23.98,Boccia 272,end of trial,,,POINT

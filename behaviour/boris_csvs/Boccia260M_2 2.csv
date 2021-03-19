@@ -1,0 +1,71 @@
+Observation id,Boccia260M_2 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia260_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-10 14:28:50,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+185.446,Boccia260_2.MP4,464.630,23.98,Boccia 260M,start of trial,,,POINT
+186.289,Boccia260_2.MP4,464.630,23.98,Boccia 260M,chest out of view,,,START
+186.322,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+187.489,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+187.490,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+197.998,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+206.213,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+206.214,Boccia260_2.MP4,464.630,23.98,Boccia 260M,bubble release,,,POINT
+213.344,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+213.802,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+213.803,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+214.762,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+216.930,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+216.931,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+220.309,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+221.684,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+221.685,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+222.060,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+225.270,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+225.271,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+227.148,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+230.776,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+245.704,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+245.705,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+245.997,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+255.099,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+255.100,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+255.880,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+262.864,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+269.614,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+269.615,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+276.689,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+281.401,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+283.402,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+283.403,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+290.242,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+292.743,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+292.744,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+293.453,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+297.122,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+297.123,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+343.453,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+343.911,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+343.912,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,soh,POINT
+425.563,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+428.314,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+428.315,Boccia260_2.MP4,464.630,23.98,Boccia 260M,bubble release,,,POINT
+429.566,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+432.443,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+432.444,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,hbn,POINT
+452.877,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,START
+453.877,Boccia260_2.MP4,464.630,23.98,Boccia 260M,exhale,,,STOP
+453.878,Boccia260_2.MP4,464.630,23.98,Boccia 260M,reinhale,,hbn,POINT
+456.316,Boccia260_2.MP4,464.630,23.98,Boccia 260M,chest out of view,,,STOP
+456.316,Boccia260_2.MP4,464.630,23.98,Boccia 260M,end of trial,,,POINT

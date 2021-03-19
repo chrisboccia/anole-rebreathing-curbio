@@ -1,0 +1,24 @@
+Observation id,Holy DLM 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-14 15:38:27,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+20.183,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,start of trial,,,POINT
+26.128,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,chest,,,POINT
+26.128,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,gular pump,,,POINT
+31.129,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,chest out of view,,,START
+32.878,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,chest out of view,,,STOP
+37.631,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,chest,,,POINT
+37.631,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,gular pump,,,POINT
+44.380,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 3.MP4,178.220,23.98,Holy DLM 3,end of trial,,,POINT

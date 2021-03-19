@@ -1,0 +1,27 @@
+Observation id,Boccia 223,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,F:/Colombia rebreathing videos/Boccia223.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-23 19:03:59,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+37.317,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,start of trial,,,POINT
+37.892,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,exhale,,,START
+38.024,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,exhale,,,STOP
+38.025,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,bubble release,,,POINT
+40.227,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,exhale,,,START
+40.293,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,exhale,,,STOP
+40.294,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,bubble release,,,POINT
+41.027,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,exhale,,,START
+41.160,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,exhale,,,STOP
+41.161,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,bubble release,,,POINT
+43.248,F:/Colombia rebreathing videos/Boccia223.MP4,159.760,14.99,Boccia 223,end of trial,,,POINT

@@ -1,0 +1,26 @@
+Observation id,Mahler EUGR1_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,eugenegrahami.MPG.re-encoded.720px.7578k.avi,,,,,,,
+,,,,,,,,
+Observation date,2020-05-05 11:06:52,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+264.927,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,START
+264.927,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,START
+264.927,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,start of trial,,,POINT
+264.927,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,throat out of view,,,START
+286.067,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,chest out of view,,,STOP
+286.067,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,exhale,,,START
+286.067,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,head out of view,,,STOP
+286.067,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,throat out of view,,,STOP
+294.047,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,end of trial,,,POINT
+294.047,eugenegrahami.MPG.re-encoded.720px.7578k.avi,344.910,29.97,Mahler EUGR1,exhale,,,STOP

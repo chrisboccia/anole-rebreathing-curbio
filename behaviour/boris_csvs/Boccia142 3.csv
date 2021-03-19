@@ -1,0 +1,25 @@
+Observation id,Boccia142 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia142 3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 20:17:24,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+18.850,Boccia142 3.MP4,122.660,14.99,Boccia 142,start of trial,,,POINT
+24.083,Boccia142 3.MP4,122.660,14.99,Boccia 142,exhale,,,START
+27.952,Boccia142 3.MP4,122.660,14.99,Boccia 142,reinhale,,toh,POINT
+28.085,Boccia142 3.MP4,122.660,14.99,Boccia 142,gular pump,,,POINT
+28.352,Boccia142 3.MP4,122.660,14.99,Boccia 142,bubble release,,,POINT
+28.885,Boccia142 3.MP4,122.660,14.99,Boccia 142,exhale,,,STOP
+28.886,Boccia142 3.MP4,122.660,14.99,Boccia 142,reinhale,,toh,POINT
+96.064,Boccia142 3.MP4,122.660,14.99,Boccia 142,gular pump,,,POINT
+118.941,Boccia142 3.MP4,122.660,14.99,Boccia 142,end of trial,,,POINT

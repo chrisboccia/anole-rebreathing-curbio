@@ -1,0 +1,49 @@
+Observation id,Boccia254M_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia254_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-06 17:25:19,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+25.813,Boccia254_3.MP4,219.930,23.98,Boccia 254M,start of trial,,,POINT
+26.314,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+26.563,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+26.564,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+26.939,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+28.273,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+28.274,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+29.441,Boccia254_3.MP4,219.930,23.98,Boccia 254M,chest out of view,,,START
+36.641,Boccia254_3.MP4,219.930,23.98,Boccia 254M,gular pump,,,POINT
+40.141,Boccia254_3.MP4,219.930,23.98,Boccia 254M,gular pump,,,POINT
+41.493,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+47.705,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+47.706,Boccia254_3.MP4,219.930,23.98,Boccia 254M,bubble release,,,POINT
+47.957,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+48.414,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+48.415,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+49.166,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+49.332,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+49.333,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+50.500,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+50.666,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+50.667,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+50.709,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+52.334,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+52.335,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+52.627,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+53.293,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+53.294,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+53.420,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,START
+53.653,Boccia254_3.MP4,219.930,23.98,Boccia 254M,chest out of view,,,STOP
+74.645,Boccia254_3.MP4,219.930,23.98,Boccia 254M,exhale,,,STOP
+74.646,Boccia254_3.MP4,219.930,23.98,Boccia 254M,reinhale,,soh,POINT
+74.812,Boccia254_3.MP4,219.930,23.98,Boccia 254M,end of trial,,,POINT

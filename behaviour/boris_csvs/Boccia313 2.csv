@@ -1,0 +1,23 @@
+Observation id,Boccia313 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia313.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-06 20:24:42,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+181.782,Boccia313.MP4,234.030,23.98,Boccia 313,start of trial,,,POINT
+183.028,Boccia313.MP4,234.030,23.98,Boccia 313,exhale,,,START
+184.319,Boccia313.MP4,234.030,23.98,Boccia 313,exhale,,,STOP
+184.320,Boccia313.MP4,234.030,23.98,Boccia 313,reinhale,,toh,POINT
+185.196,Boccia313.MP4,234.030,23.98,Boccia 313,exhale,,,START
+226.575,Boccia313.MP4,234.030,23.98,Boccia 313,end of trial,,,POINT
+226.575,Boccia313.MP4,234.030,23.98,Boccia 313,exhale,,,STOP

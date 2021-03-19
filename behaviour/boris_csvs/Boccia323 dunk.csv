@@ -1,0 +1,35 @@
+Observation id,Boccia323 dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia323 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-23 13:22:09,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+7.863,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,start of trial,,,POINT
+21.615,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,gular pump,,,POINT
+24.354,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,gular pump,,,POINT
+24.520,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,START
+24.603,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,STOP
+24.604,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,bubble release,,,POINT
+26.641,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,gular pump,,,POINT
+27.635,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,START
+28.637,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,STOP
+28.638,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,reinhale,,lbn,POINT
+32.379,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,gular pump,,,POINT
+35.134,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,gular pump,,,POINT
+36.113,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,START
+36.363,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,STOP
+36.364,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,reinhale,,lbn,POINT
+37.114,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,START
+37.197,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,exhale,,,STOP
+37.198,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,bubble release,,,POINT
+37.656,Boccia323 dunk.MP4,84.420,23.98,Boccia 323,end of trial,,,POINT

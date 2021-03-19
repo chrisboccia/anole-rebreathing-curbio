@@ -1,0 +1,27 @@
+Observation id,ANOX206_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,ANOX206.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-02-11 15:17:51,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+369.337,ANOX206.MOV,872.500,60.0,ANOX2,start of trial,,,POINT
+424.086,ANOX206.MOV,872.500,60.0,ANOX2,gular pump,,,POINT
+494.633,ANOX206.MOV,872.500,60.0,ANOX2,exhale,,,START
+494.732,ANOX206.MOV,872.500,60.0,ANOX2,exhale,,,STOP
+494.733,ANOX206.MOV,872.500,60.0,ANOX2,reinhale,,lbn,POINT
+520.086,ANOX206.MOV,872.500,60.0,ANOX2,chest,,,POINT
+520.086,ANOX206.MOV,872.500,60.0,ANOX2,gular pump,,,POINT
+520.090,ANOX206.MOV,872.500,60.0,ANOX2,exhale,,,START
+520.334,ANOX206.MOV,872.500,60.0,ANOX2,exhale,,,STOP
+520.335,ANOX206.MOV,872.500,60.0,ANOX2,reinhale,,lbn,POINT
+544.087,ANOX206.MOV,872.500,60.0,ANOX2,end of trial,,,POINT

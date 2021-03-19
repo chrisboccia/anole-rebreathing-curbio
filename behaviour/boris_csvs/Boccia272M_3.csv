@@ -1,0 +1,70 @@
+Observation id,Boccia272M_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia272_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-16 16:40:17,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+25.730,Boccia272_3.MP4,239.860,23.98,Boccia 272M,chest out of view,,,START
+25.730,Boccia272_3.MP4,239.860,23.98,Boccia 272M,start of trial,,,POINT
+80.067,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+80.233,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+80.234,Boccia272_3.MP4,239.860,23.98,Boccia 272M,bubble release,,,POINT
+85.229,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+89.687,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+99.875,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+99.958,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+100.625,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+100.626,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+114.637,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+114.952,Boccia272_3.MP4,239.860,23.98,Boccia 272M,chest out of view,,,STOP
+126.271,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+126.272,Boccia272_3.MP4,239.860,23.98,Boccia 272M,bubble release,,,POINT
+126.314,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+126.730,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+126.731,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+126.732,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+131.651,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+131.984,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+131.985,Boccia272_3.MP4,239.860,23.98,Boccia 272M,bubble release,,,POINT
+151.084,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+151.251,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+154.086,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+154.087,Boccia272_3.MP4,239.860,23.98,Boccia 272M,bubble release,,,POINT
+156.839,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+161.342,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+161.343,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+165.430,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+166.263,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+166.264,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+168.515,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+172.601,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+172.602,Boccia272_3.MP4,239.860,23.98,Boccia 272M,bubble release,,,POINT
+175.771,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+176.105,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+176.354,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+176.355,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+179.775,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+180.107,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+180.108,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+185.071,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+185.071,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+185.487,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+185.488,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+188.866,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+189.699,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+189.700,Boccia272_3.MP4,239.860,23.98,Boccia 272M,reinhale,,soh,POINT
+199.291,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,START
+199.624,Boccia272_3.MP4,239.860,23.98,Boccia 272M,exhale,,,STOP
+199.625,Boccia272_3.MP4,239.860,23.98,Boccia 272M,bubble release,,,POINT
+206.808,Boccia272_3.MP4,239.860,23.98,Boccia 272M,gular pump,,,POINT
+210.059,Boccia272_3.MP4,239.860,23.98,Boccia 272M,end of trial,,,POINT

@@ -1,0 +1,30 @@
+Observation id,MILP LOF 01,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-28 21:17:01,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.242,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,start of trial,,,POINT
+15.832,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,exhale,,,START
+16.583,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+17.865,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,exhale,,,STOP
+17.866,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+18.118,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,exhale,,,START
+20.617,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+21.617,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+23.119,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+23.868,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+26.624,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+29.122,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,exhale,,,STOP
+29.123,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,reinhale,,toh,POINT
+30.763,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01.MP4,34.030,119.88,MILP LOF 01,end of trial,,,POINT

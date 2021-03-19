@@ -1,0 +1,36 @@
+Observation id,Boccia267M_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia267_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-12 14:47:10,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+19.016,Boccia267_3.MP4,354.850,23.98,Boccia 267M,start of trial,,,POINT
+58.132,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,START
+58.631,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,STOP
+58.632,Boccia267_3.MP4,354.850,23.98,Boccia 267M,reinhale,,soh,POINT
+71.351,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,START
+71.434,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,STOP
+71.435,Boccia267_3.MP4,354.850,23.98,Boccia 267M,bubble release,,,POINT
+83.611,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,START
+83.694,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,STOP
+83.695,Boccia267_3.MP4,354.850,23.98,Boccia 267M,bubble release,,,POINT
+100.042,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,START
+100.541,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,STOP
+100.542,Boccia267_3.MP4,354.850,23.98,Boccia 267M,reinhale,,soh,POINT
+126.355,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,START
+126.771,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,STOP
+126.772,Boccia267_3.MP4,354.850,23.98,Boccia 267M,reinhale,,soh,POINT
+131.068,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,START
+131.233,Boccia267_3.MP4,354.850,23.98,Boccia 267M,exhale,,,STOP
+131.234,Boccia267_3.MP4,354.850,23.98,Boccia 267M,bubble release,,,POINT
+350.700,Boccia267_3.MP4,354.850,23.98,Boccia 267M,end of trial,,,POINT

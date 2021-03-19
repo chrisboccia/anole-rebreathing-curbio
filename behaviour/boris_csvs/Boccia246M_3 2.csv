@@ -1,0 +1,43 @@
+Observation id,Boccia246M_3 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia246_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-03 21:53:20,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+301.126,Boccia246_3.MP4,494.290,23.98,Boccia 246M,chest out of view,,,START
+301.126,Boccia246_3.MP4,494.290,23.98,Boccia 246M,start of trial,,,POINT
+308.716,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,START
+308.923,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,STOP
+308.924,Boccia246_3.MP4,494.290,23.98,Boccia 246M,bubble release,,,POINT
+310.509,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,START
+311.008,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,STOP
+311.009,Boccia246_3.MP4,494.290,23.98,Boccia 246M,reinhale,,soh,POINT
+312.093,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,START
+312.385,Boccia246_3.MP4,494.290,23.98,Boccia 246M,bubble release,,,POINT
+312.968,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,STOP
+312.969,Boccia246_3.MP4,494.290,23.98,Boccia 246M,reinhale,,soh,POINT
+314.012,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,START
+314.304,Boccia246_3.MP4,494.290,23.98,Boccia 246M,bubble release,,,POINT
+314.761,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,STOP
+314.762,Boccia246_3.MP4,494.290,23.98,Boccia 246M,reinhale,,soh,POINT
+317.431,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,START
+318.348,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,STOP
+318.349,Boccia246_3.MP4,494.290,23.98,Boccia 246M,reinhale,,soh,POINT
+324.687,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,START
+325.312,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,STOP
+325.313,Boccia246_3.MP4,494.290,23.98,Boccia 246M,reinhale,,soh,POINT
+346.706,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,START
+347.288,Boccia246_3.MP4,494.290,23.98,Boccia 246M,exhale,,,STOP
+347.289,Boccia246_3.MP4,494.290,23.98,Boccia 246M,reinhale,,soh,POINT
+482.498,Boccia246_3.MP4,494.290,23.98,Boccia 246M,chest out of view,,,STOP
+482.498,Boccia246_3.MP4,494.290,23.98,Boccia 246M,end of trial,,,POINT

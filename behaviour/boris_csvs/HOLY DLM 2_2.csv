@@ -1,0 +1,46 @@
+Observation id,HOLY DLM 2_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-12 23:06:10,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+215.555,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,start of trial,,,POINT
+226.188,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,START
+226.439,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,bubble release,,,POINT
+226.689,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,bubble release,,,POINT
+227.606,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+244.358,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,reinhale,,soh,POINT
+261.510,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+285.822,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+285.904,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,STOP
+285.905,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,bubble release,,,POINT
+286.638,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+307.409,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+332.965,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+333.962,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+352.585,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,START
+352.751,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,STOP
+352.752,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,reinhale,,toh,POINT
+359.383,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,START
+361.384,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+361.468,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,bubble release,,,POINT
+367.502,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,bubble release,,,POINT
+374.721,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,STOP
+374.722,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,reinhale,,toh,POINT
+377.728,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,START
+385.487,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,exhale,,,STOP
+385.488,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,bubble release,,,POINT
+387.615,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+408.255,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+410.505,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,gular pump,,,POINT
+416.005,E:/Jamaica diving videos/DCIM/100GOPRO/HOLY DLM 2.MP4,421.050,23.98,Holy DLM 2,end of trial,,,POINT

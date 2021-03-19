@@ -1,0 +1,42 @@
+Observation id,Boccia241,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia241.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-07 17:16:09,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia241.MP4,83.080,23.98,Boccia 241,start of trial,,,POINT
+5.854,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,START
+6.604,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,STOP
+6.605,Boccia241.MP4,83.080,23.98,Boccia 241,reinhale,,lbn,POINT
+12.609,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,START
+19.108,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,STOP
+19.109,Boccia241.MP4,83.080,23.98,Boccia 241,reinhale,,lbn,POINT
+25.605,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,START
+26.354,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,STOP
+26.355,Boccia241.MP4,83.080,23.98,Boccia 241,reinhale,,hbn,POINT
+35.752,Boccia241.MP4,83.080,23.98,Boccia 241,chest,,,POINT
+39.636,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,START
+43.136,Boccia241.MP4,83.080,23.98,Boccia 241,gular pump,,,POINT
+44.637,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,STOP
+44.638,Boccia241.MP4,83.080,23.98,Boccia 241,reinhale,,lbn,POINT
+48.889,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,START
+50.140,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,STOP
+50.141,Boccia241.MP4,83.080,23.98,Boccia 241,reinhale,,lbn,POINT
+51.636,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,START
+53.392,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,STOP
+53.393,Boccia241.MP4,83.080,23.98,Boccia 241,gular pump,,,POINT
+53.393,Boccia241.MP4,83.080,23.98,Boccia 241,reinhale,,lbn,POINT
+53.878,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,START
+54.836,Boccia241.MP4,83.080,23.98,Boccia 241,exhale,,,STOP
+54.837,Boccia241.MP4,83.080,23.98,Boccia 241,reinhale,,hbn,POINT
+64.662,Boccia241.MP4,83.080,23.98,Boccia 241,end of trial,,,POINT

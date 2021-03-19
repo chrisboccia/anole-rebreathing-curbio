@@ -1,0 +1,18 @@
+Observation id,BILS KT 03 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS KT 03 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-13 22:11:29,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+5.356,BILS KT 03 b2.MP4,70.570,29.97,BILS KT 03,start of trial,,,POINT
+9.573,BILS KT 03 b2.MP4,70.570,29.97,BILS KT 03,end of trial,,,POINT

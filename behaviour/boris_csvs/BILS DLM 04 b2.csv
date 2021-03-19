@@ -1,0 +1,35 @@
+Observation id,BILS DLM 04 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS DLM 04 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-11 22:00:55,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+30.858,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,start of trial,,,POINT
+36.599,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,START
+44.977,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,STOP
+44.978,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+45.045,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,START
+45.111,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,STOP
+45.112,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+70.639,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,START
+81.682,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+81.748,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+81.882,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+82.415,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,STOP
+82.416,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,reinhale,,toh,POINT
+83.151,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,START
+99.199,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+99.266,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+99.532,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,exhale,,,STOP
+99.533,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,bubble release,,,POINT
+101.423,BILS DLM 04 b2.MP4,103.600,29.97,BILS DLM 04,end of trial,,,POINT

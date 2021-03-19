@@ -1,0 +1,21 @@
+Observation id,LARE M1,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE M1.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-18 17:05:39,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+32.120,E:/Jamaica diving videos/DCIM/100GOPRO/LARE M1.MP4,1062.980,23.98,LARE M1,start of trial,,,POINT
+121.119,E:/Jamaica diving videos/DCIM/100GOPRO/LARE M1.MP4,1062.980,23.98,LARE M1,gular pump,,,POINT
+197.045,E:/Jamaica diving videos/DCIM/100GOPRO/LARE M1.MP4,1062.980,23.98,LARE M1,bubble release,,,POINT
+238.586,E:/Jamaica diving videos/DCIM/100GOPRO/LARE M1.MP4,1062.980,23.98,LARE M1,gular pump,,,POINT
+249.591,E:/Jamaica diving videos/DCIM/100GOPRO/LARE M1.MP4,1062.980,23.98,LARE M1,end of trial,,,POINT

@@ -1,0 +1,23 @@
+Observation id,Boccia255M_3 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia255_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-07 22:41:02,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+320.475,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,START
+320.475,Boccia255_3.MP4,431.510,23.98,Boccia 255M,start of trial,,,POINT
+334.028,Boccia255_3.MP4,431.510,23.98,Boccia 255M,bubble release,,,POINT
+365.847,Boccia255_3.MP4,431.510,23.98,Boccia 255M,bubble release,,,POINT
+379.858,Boccia255_3.MP4,431.510,23.98,Boccia 255M,reinhale,,soh,POINT
+406.503,Boccia255_3.MP4,431.510,23.98,Boccia 255M,end of trial,,,POINT
+406.503,Boccia255_3.MP4,431.510,23.98,Boccia 255M,exhale,,,STOP

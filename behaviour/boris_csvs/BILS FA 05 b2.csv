@@ -1,0 +1,20 @@
+Observation id,BILS FA 05 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 05 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-13 22:05:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+13.102,BILS FA 05 b2.MP4,53.050,29.97,BILS FA 05,start of trial,,,POINT
+14.081,BILS FA 05 b2.MP4,53.050,29.97,BILS FA 05,exhale,,,START
+50.586,BILS FA 05 b2.MP4,53.050,29.97,BILS FA 05,end of trial,,,POINT
+50.586,BILS FA 05 b2.MP4,53.050,29.97,BILS FA 05,exhale,,,STOP

@@ -1,0 +1,29 @@
+Observation id,BILSA FA 01 b3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 01 b3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 00:27:15,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+13.583,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,chest out of view,,,START
+13.583,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,start of trial,,,POINT
+17.586,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,exhale,,,START
+24.087,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,exhale,,,STOP
+24.088,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,bubble release,,,POINT
+25.082,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,gular pump,,,POINT
+27.082,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,gular pump,,,POINT
+32.094,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,exhale,,,START
+38.583,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,gular pump,,,POINT
+40.093,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,exhale,,,STOP
+40.094,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,reinhale,,soh,POINT
+42.362,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,chest out of view,,,STOP
+42.362,BILS FA 01 b3.MP4,222.720,29.97,BILS FA 01,end of trial,,,POINT

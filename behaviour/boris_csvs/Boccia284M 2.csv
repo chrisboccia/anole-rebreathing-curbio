@@ -1,0 +1,22 @@
+Observation id,Boccia284M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia284.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-26 18:10:19,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+103.211,Boccia284.MP4,207.250,23.98,Boccia 284M,chest out of view,,,START
+103.211,Boccia284.MP4,207.250,23.98,Boccia 284M,start of trial,,,POINT
+106.130,Boccia284.MP4,207.250,23.98,Boccia 284M,exhale,,,START
+146.727,Boccia284.MP4,207.250,23.98,Boccia 284M,chest out of view,,,STOP
+146.727,Boccia284.MP4,207.250,23.98,Boccia 284M,end of trial,,,POINT
+146.727,Boccia284.MP4,207.250,23.98,Boccia 284M,exhale,,,STOP

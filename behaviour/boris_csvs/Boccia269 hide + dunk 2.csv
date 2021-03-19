@@ -1,0 +1,30 @@
+Observation id,Boccia269 hide + dunk 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia269 hide + dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-11 01:46:28,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+261.858,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,chest out of view,,,START
+261.858,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,start of trial,,,POINT
+264.554,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,exhale,,,START
+264.803,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,exhale,,,STOP
+264.804,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,reinhale,,soh,POINT
+275.617,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,gular pump,,,POINT
+275.877,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,gular pump,,,POINT
+277.885,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,chest out of view,,,STOP
+301.154,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,exhale,,,START
+301.407,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,exhale,,,STOP
+301.408,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,reinhale,,soh,POINT
+301.649,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,gular pump,,,POINT
+313.909,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,gular pump,,,POINT
+316.163,Boccia269 hide + dunk.MP4,344.470,23.98,Boccia 269,end of trial,,,POINT

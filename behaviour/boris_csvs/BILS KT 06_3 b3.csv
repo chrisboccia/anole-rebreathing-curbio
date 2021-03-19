@@ -1,0 +1,43 @@
+Observation id,BILS KT 06_3 b3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS KT 06_3 b3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 15:04:26,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+39.107,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,chest out of view,,,START
+39.107,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+39.107,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,start of trial,,,POINT
+44.478,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,exhale,,,START
+45.479,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+47.748,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+51.685,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+55.088,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+56.823,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+58.631,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+59.133,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+60.629,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+62.130,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+63.131,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+64.633,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+65.633,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+67.130,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+69.131,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+75.133,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+79.131,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+80.632,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,gular pump,,,POINT
+82.649,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,exhale,,,STOP
+82.653,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,exhale,,,START
+83.403,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,bubble release,,,POINT
+84.153,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,chest out of view,,,STOP
+84.153,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,end of trial,,,POINT
+84.153,BILS KT 06_3 b3.MP4,406.410,29.97,BILS KT 06,exhale,,,STOP

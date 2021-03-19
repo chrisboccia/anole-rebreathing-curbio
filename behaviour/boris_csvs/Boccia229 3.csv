@@ -1,0 +1,35 @@
+Observation id,Boccia229 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia229.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 16:56:16,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+130.595,Boccia229.MP4,386.450,14.99,Boccia 229,start of trial,,,POINT
+131.116,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,START
+131.366,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,STOP
+131.367,Boccia229.MP4,386.450,14.99,Boccia 229,bubble release,,,POINT
+133.002,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,START
+134.749,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,STOP
+134.750,Boccia229.MP4,386.450,14.99,Boccia 229,bubble release,,,POINT
+148.098,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,START
+148.346,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,STOP
+148.347,Boccia229.MP4,386.450,14.99,Boccia 229,reinhale,,toh,POINT
+167.718,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,START
+183.691,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,STOP
+183.692,Boccia229.MP4,386.450,14.99,Boccia 229,reinhale,,toh,POINT
+183.756,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,START
+194.761,Boccia229.MP4,386.450,14.99,Boccia 229,chest,,,POINT
+194.761,Boccia229.MP4,386.450,14.99,Boccia 229,gular pump,,,POINT
+195.251,Boccia229.MP4,386.450,14.99,Boccia 229,exhale,,,STOP
+195.252,Boccia229.MP4,386.450,14.99,Boccia 229,reinhale,,toh,POINT
+199.756,Boccia229.MP4,386.450,14.99,Boccia 229,end of trial,,,POINT

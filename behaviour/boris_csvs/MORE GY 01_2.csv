@@ -1,0 +1,24 @@
+Observation id,MORE GY 01_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE GY 01_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 17:34:40,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.068,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,start of trial,,,POINT
+11.044,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,exhale,,,START
+11.244,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,exhale,,,STOP
+11.245,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,reinhale,,toh,POINT
+11.945,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,exhale,,,START
+12.078,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,exhale,,,STOP
+12.079,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,bubble release,,,POINT
+14.834,MORE GY 01_2.MP4,31.530,29.97,MORE GY 01,end of trial,,,POINT

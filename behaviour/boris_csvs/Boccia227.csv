@@ -1,0 +1,42 @@
+Observation id,Boccia227,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia227.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 01:18:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+26.603,Boccia227.MP4,148.210,14.99,Boccia 227,start of trial,,,POINT
+30.128,Boccia227.MP4,148.210,14.99,Boccia 227,chest out of view,,,START
+41.294,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,START
+41.493,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,STOP
+41.494,Boccia227.MP4,148.210,14.99,Boccia 227,bubble release,,,POINT
+41.628,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,START
+41.694,Boccia227.MP4,148.210,14.99,Boccia 227,bubble release,,,POINT
+42.294,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,STOP
+42.295,Boccia227.MP4,148.210,14.99,Boccia 227,reinhale,,toh,POINT
+42.493,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,START
+43.992,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,STOP
+43.993,Boccia227.MP4,148.210,14.99,Boccia 227,reinhale,,toh,POINT
+45.244,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,START
+46.493,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,STOP
+46.494,Boccia227.MP4,148.210,14.99,Boccia 227,reinhale,,toh,POINT
+48.297,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,START
+50.150,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,STOP
+50.151,Boccia227.MP4,148.210,14.99,Boccia 227,reinhale,,toh,POINT
+54.773,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,START
+55.021,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,STOP
+55.022,Boccia227.MP4,148.210,14.99,Boccia 227,bubble release,,,POINT
+55.273,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,START
+56.272,Boccia227.MP4,148.210,14.99,Boccia 227,exhale,,,STOP
+56.273,Boccia227.MP4,148.210,14.99,Boccia 227,bubble release,,,POINT
+123.339,Boccia227.MP4,148.210,14.99,Boccia 227,chest out of view,,,STOP
+123.339,Boccia227.MP4,148.210,14.99,Boccia 227,end of trial,,,POINT

@@ -1,0 +1,72 @@
+Observation id,Boccia161 5,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia161 5.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-28 11:12:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+138.602,Boccia161 5.MP4,390.260,14.99,Boccia 161,start of trial,,,POINT
+146.564,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+150.233,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+151.568,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+151.568,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+152.035,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+152.835,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+153.169,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+157.839,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+157.839,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+161.308,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+164.777,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+165.177,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+165.177,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+165.377,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+170.047,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+172.180,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+172.181,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+172.181,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+172.315,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+172.382,Boccia161 5.MP4,390.260,14.99,Boccia 161,chest,,,POINT
+172.647,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+172.648,Boccia161 5.MP4,390.260,14.99,Boccia 161,bubble release,,,POINT
+180.987,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+181.121,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+181.254,Boccia161 5.MP4,390.260,14.99,Boccia 161,chest,,,POINT
+182.055,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+189.860,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+190.127,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+198.731,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+198.732,Boccia161 5.MP4,390.260,14.99,Boccia 161,bubble release,,,POINT
+198.732,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+198.998,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+198.999,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,hbn,POINT
+209.740,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+209.740,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+210.007,Boccia161 5.MP4,390.260,14.99,Boccia 161,chest,,,POINT
+210.140,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+213.409,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+213.542,Boccia161 5.MP4,390.260,14.99,Boccia 161,chest,,,POINT
+213.675,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+213.676,Boccia161 5.MP4,390.260,14.99,Boccia 161,bubble release,,,POINT
+220.414,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+220.614,Boccia161 5.MP4,390.260,14.99,Boccia 161,chest,,,POINT
+220.680,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+220.747,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+227.685,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+227.819,Boccia161 5.MP4,390.260,14.99,Boccia 161,chest,,,POINT
+228.285,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+228.286,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+236.024,Boccia161 5.MP4,390.260,14.99,Boccia 161,gular pump,,,POINT
+236.091,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,START
+236.291,Boccia161 5.MP4,390.260,14.99,Boccia 161,chest,,,POINT
+236.357,Boccia161 5.MP4,390.260,14.99,Boccia 161,exhale,,,STOP
+236.358,Boccia161 5.MP4,390.260,14.99,Boccia 161,reinhale,,toh,POINT
+247.231,Boccia161 5.MP4,390.260,14.99,Boccia 161,end of trial,,,POINT

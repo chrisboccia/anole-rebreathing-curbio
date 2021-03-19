@@ -1,0 +1,18 @@
+Observation id,MILP LOF 01_4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_4.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-28 21:17:52,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+5.719,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_4.MP4,43.540,119.88,MILP LOF 01,start of trial,,,POINT
+24.724,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_4.MP4,43.540,119.88,MILP LOF 01,end of trial,,,POINT

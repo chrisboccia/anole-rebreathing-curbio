@@ -1,0 +1,27 @@
+Observation id,Boccia321,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia321 .MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-22 16:32:48,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+12.613,Boccia321 .MP4,55.560,23.98,Boccia 321,start of trial,,,POINT
+15.614,Boccia321 .MP4,55.560,23.98,Boccia 321,gular pump,,,POINT
+16.364,Boccia321 .MP4,55.560,23.98,Boccia 321,exhale,,,START
+16.366,Boccia321 .MP4,55.560,23.98,Boccia 321,gular pump,,,POINT
+17.367,Boccia321 .MP4,55.560,23.98,Boccia 321,gular pump,,,POINT
+18.112,Boccia321 .MP4,55.560,23.98,Boccia 321,gular pump,,,POINT
+18.613,Boccia321 .MP4,55.560,23.98,Boccia 321,exhale,,,STOP
+18.614,Boccia321 .MP4,55.560,23.98,Boccia 321,reinhale,,lbn,POINT
+18.864,Boccia321 .MP4,55.560,23.98,Boccia 321,gular pump,,,POINT
+20.866,Boccia321 .MP4,55.560,23.98,Boccia 321,gular pump,,,POINT
+21.618,Boccia321 .MP4,55.560,23.98,Boccia 321,end of trial,,,POINT

@@ -1,0 +1,44 @@
+Observation id,Boccia274M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia274.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-17 02:29:14,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+224.646,Boccia274.MP4,379.800,23.98,Boccia 274M,start of trial,,,POINT
+226.814,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+231.317,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+231.318,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+231.401,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+231.650,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+231.651,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+231.735,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+231.984,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+231.985,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+232.068,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+232.318,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+232.319,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+232.402,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+232.901,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+232.902,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+232.986,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+233.569,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+233.570,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+233.653,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+234.569,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+234.570,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+238.490,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,START
+287.093,Boccia274.MP4,379.800,23.98,Boccia 274M,gular pump,,,POINT
+314.343,Boccia274.MP4,379.800,23.98,Boccia 274M,gular pump,,,POINT
+316.343,Boccia274.MP4,379.800,23.98,Boccia 274M,exhale,,,STOP
+316.344,Boccia274.MP4,379.800,23.98,Boccia 274M,bubble release,,,POINT
+320.843,Boccia274.MP4,379.800,23.98,Boccia 274M,end of trial,,,POINT

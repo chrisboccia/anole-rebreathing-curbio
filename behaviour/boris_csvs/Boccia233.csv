@@ -1,0 +1,22 @@
+Observation id,Boccia233,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia233.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-06 19:31:23,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia233.MP4,51.520,14.99,Boccia 233,chest out of view,,,START
+0.000,Boccia233.MP4,51.520,14.99,Boccia 233,start of trial,,,POINT
+12.855,Boccia233.MP4,51.520,14.99,Boccia 233,gular pump,,,POINT
+16.603,Boccia233.MP4,51.520,14.99,Boccia 233,gular pump,,,POINT
+27.854,Boccia233.MP4,51.520,14.99,Boccia 233,chest out of view,,,STOP
+27.854,Boccia233.MP4,51.520,14.99,Boccia 233,end of trial,,,POINT

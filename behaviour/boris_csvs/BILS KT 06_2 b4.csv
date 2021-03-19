@@ -1,0 +1,39 @@
+Observation id,BILS KT 06_2 b4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS KT 06_2 b4.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-17 20:51:37,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+58.370,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,chest out of view,,,START
+58.370,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,start of trial,,,POINT
+58.875,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,gular pump,,,POINT
+58.876,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,START
+59.125,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,STOP
+59.126,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,reinhale,,toh,POINT
+66.126,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,gular pump,,,POINT
+67.385,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,START
+67.386,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,STOP
+67.386,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,reinhale,,toh,POINT
+69.385,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,START
+69.386,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,STOP
+69.386,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,reinhale,,toh,POINT
+71.638,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,START
+71.639,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,exhale,,,STOP
+71.639,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,reinhale,,toh,POINT
+73.640,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,gular pump,,,POINT
+76.392,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,gular pump,,,POINT
+77.642,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,gular pump,,,POINT
+78.647,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,gular pump,,,POINT
+81.397,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,gular pump,,,POINT
+85.149,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,chest out of view,,,STOP
+85.149,BILS KT 06_2 b4.MP4,470.470,29.97,BILS KT 06,end of trial,,,POINT

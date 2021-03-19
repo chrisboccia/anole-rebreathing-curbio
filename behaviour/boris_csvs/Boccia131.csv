@@ -1,0 +1,50 @@
+Observation id,Boccia131,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia131.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-26 16:15:52,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia131.MP4,80.810,14.99,Boccia 131,start of trial,,,POINT
+4.355,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+6.604,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,toh,POINT
+13.541,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+13.542,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,toh,POINT
+13.676,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+17.678,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,toh,POINT
+22.481,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+22.482,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,toh,POINT
+22.615,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+24.882,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+24.883,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,toh,POINT
+25.150,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+27.684,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+27.685,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,toh,POINT
+35.090,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+35.356,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+35.357,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,soh,POINT
+40.827,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+41.360,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+41.361,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,soh,POINT
+44.496,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+44.762,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+44.763,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,soh,POINT
+57.438,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+57.838,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+57.839,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,soh,POINT
+63.642,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+66.977,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+66.978,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,soh,POINT
+69.847,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,START
+70.513,Boccia131.MP4,80.810,14.99,Boccia 131,exhale,,,STOP
+70.514,Boccia131.MP4,80.810,14.99,Boccia 131,reinhale,,soh,POINT
+77.877,Boccia131.MP4,80.810,14.99,Boccia 131,end of trial,,,POINT

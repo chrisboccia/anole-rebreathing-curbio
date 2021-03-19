@@ -1,0 +1,22 @@
+Observation id,LARE DLM 12,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 12.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-18 02:58:04,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+21.879,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 12.MP4,297.010,23.98,LARE DLM 12,start of trial,,,POINT
+30.108,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 12.MP4,297.010,23.98,LARE DLM 12,exhale,,,START
+30.191,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 12.MP4,297.010,23.98,LARE DLM 12,exhale,,,STOP
+30.192,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 12.MP4,297.010,23.98,LARE DLM 12,bubble release,,,POINT
+89.491,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 12.MP4,297.010,23.98,LARE DLM 12,gular pump,,,POINT
+116.727,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 12.MP4,297.010,23.98,LARE DLM 12,end of trial,,,POINT

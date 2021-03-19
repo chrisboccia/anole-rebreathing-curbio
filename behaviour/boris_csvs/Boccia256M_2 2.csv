@@ -1,0 +1,43 @@
+Observation id,Boccia256M_2 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia256_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-08 11:56:10,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+120.517,Boccia256_2.MP4,388.470,23.98,Boccia 256M,start of trial,,,POINT
+120.726,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+123.102,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+123.103,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+126.772,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+126.855,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+126.856,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+126.856,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+126.896,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+126.897,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+126.939,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+127.063,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+127.064,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+127.064,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+127.147,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+127.148,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+127.189,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+130.900,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+130.901,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+138.239,Boccia256_2.MP4,388.470,23.98,Boccia 256M,gular pump,,,POINT
+154.587,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+154.920,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+154.921,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+155.088,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,START
+178.773,Boccia256_2.MP4,388.470,23.98,Boccia 256M,exhale,,,STOP
+178.774,Boccia256_2.MP4,388.470,23.98,Boccia 256M,bubble release,,,POINT
+189.199,Boccia256_2.MP4,388.470,23.98,Boccia 256M,end of trial,,,POINT

@@ -1,0 +1,23 @@
+Observation id,Boccia285M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia285.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-27 14:18:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.634,Boccia285.MP4,170.550,23.98,Boccia 285M,start of trial,,,POINT
+11.618,Boccia285.MP4,170.550,23.98,Boccia 285M,exhale,,,START
+25.867,Boccia285.MP4,170.550,23.98,Boccia 285M,exhale,,,STOP
+25.868,Boccia285.MP4,170.550,23.98,Boccia 285M,bubble release,,,POINT
+28.621,Boccia285.MP4,170.550,23.98,Boccia 285M,exhale,,,START
+81.117,Boccia285.MP4,170.550,23.98,Boccia 285M,end of trial,,,POINT
+81.117,Boccia285.MP4,170.550,23.98,Boccia 285M,exhale,,,STOP

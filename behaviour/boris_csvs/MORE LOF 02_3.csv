@@ -1,0 +1,33 @@
+Observation id,MORE LOF 02_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE LOF 02_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 20:25:01,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+17.084,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,start of trial,,,POINT
+17.154,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,START
+19.237,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,STOP
+19.238,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,bubble release,,,POINT
+20.837,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,START
+23.838,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,STOP
+23.839,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,reinhale,,hbn,POINT
+24.090,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,START
+25.201,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,STOP
+25.202,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,reinhale,,hbn,POINT
+25.343,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,START
+26.343,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,STOP
+26.344,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,reinhale,,hbn,POINT
+26.345,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,START
+28.594,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,reinhale,,hbn,POINT
+30.095,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,end of trial,,,POINT
+30.095,MORE LOF 02_3.MP4,32.030,29.97,MORE LOF 02,exhale,,,STOP

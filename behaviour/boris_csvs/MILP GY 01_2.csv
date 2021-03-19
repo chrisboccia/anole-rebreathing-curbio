@@ -1,0 +1,32 @@
+Observation id,MILP GY 01_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-28 20:45:07,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+6.106,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,start of trial,,,POINT
+25.874,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,chest,,,POINT
+25.874,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,gular pump,,,POINT
+31.130,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,exhale,,,START
+40.141,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,exhale,,,STOP
+40.142,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,reinhale,,lbn,POINT
+40.639,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,exhale,,,START
+40.741,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,chest,,,POINT
+40.741,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,gular pump,,,POINT
+49.745,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,chest,,,POINT
+49.745,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,gular pump,,,POINT
+52.641,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,exhale,,,STOP
+52.642,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,reinhale,,lbn,POINT
+53.642,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,exhale,,,START
+54.656,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,end of trial,,,POINT
+54.656,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP GY 01_2.MP4,58.060,119.88,MILP GY 01,exhale,,,STOP

@@ -1,0 +1,28 @@
+Observation id,Boccia226,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia226.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 00:59:34,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+37.340,Boccia226.MP4,142.340,14.99,Boccia 226,start of trial,,,POINT
+49.414,Boccia226.MP4,142.340,14.99,Boccia 226,exhale,,,START
+50.162,Boccia226.MP4,142.340,14.99,Boccia 226,exhale,,,STOP
+50.163,Boccia226.MP4,142.340,14.99,Boccia 226,bubble release,,,POINT
+58.973,Boccia226.MP4,142.340,14.99,Boccia 226,exhale,,,START
+60.239,Boccia226.MP4,142.340,14.99,Boccia 226,exhale,,,STOP
+60.240,Boccia226.MP4,142.340,14.99,Boccia 226,reinhale,,toh,POINT
+60.841,Boccia226.MP4,142.340,14.99,Boccia 226,exhale,,,START
+61.974,Boccia226.MP4,142.340,14.99,Boccia 226,exhale,,,STOP
+61.975,Boccia226.MP4,142.340,14.99,Boccia 226,reinhale,,toh,POINT
+85.453,Boccia226.MP4,142.340,14.99,Boccia 226,gular pump,,,POINT
+103.203,Boccia226.MP4,142.340,14.99,Boccia 226,end of trial,,,POINT

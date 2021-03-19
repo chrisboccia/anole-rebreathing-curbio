@@ -1,0 +1,61 @@
+Observation id,Boccia265 hide + dunk 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia265 hide + dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-08 00:32:25,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+165.720,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,start of trial,,,POINT
+166.972,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+167.097,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+167.098,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+167.098,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+167.180,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+167.181,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+167.181,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+167.388,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+167.389,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+167.515,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+169.098,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+169.099,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+169.099,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+169.223,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+169.224,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+169.224,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+169.348,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+169.349,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+169.391,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+169.932,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+169.933,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,reinhale,,toh,POINT
+171.268,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+171.350,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+171.351,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+171.351,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+171.517,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+171.518,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+171.601,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+171.767,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+171.768,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,reinhale,,toh,POINT
+171.935,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+175.770,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+175.771,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+175.771,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+175.937,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+175.938,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+176.105,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+176.271,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+176.272,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,reinhale,,toh,POINT
+178.530,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,START
+190.367,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+217.572,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,exhale,,,STOP
+217.573,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,bubble release,,,POINT
+220.567,Boccia265 hide + dunk.MP4,260.640,23.98,Boccia 265,end of trial,,,POINT

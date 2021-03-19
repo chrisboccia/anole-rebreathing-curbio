@@ -1,0 +1,22 @@
+Observation id,HOLY EF2_4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2_4.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-03-02 14:06:22,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2_4.MOV,261.090,29.97,HOLY EF 02,start of trial,,,POINT
+257.108,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2_4.MOV,261.090,29.97,HOLY EF 02,gular pump,,,POINT
+257.359,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2_4.MOV,261.090,29.97,HOLY EF 02,chest,,,POINT
+258.860,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2_4.MOV,261.090,29.97,HOLY EF 02,chest,,,POINT
+258.860,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2_4.MOV,261.090,29.97,HOLY EF 02,gular pump,,,POINT
+259.359,E:/ADDITIONAL VIDEOS/3-BBVA_PO_VIDEOS/holy ef2_4.MOV,261.090,29.97,HOLY EF 02,end of trial,,,POINT

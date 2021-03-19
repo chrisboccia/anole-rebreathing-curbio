@@ -1,0 +1,31 @@
+Observation id,RGVA HM2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,,,,,,,
+,,,,,,,,
+Observation date,2020-03-02 14:08:01,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+26.654,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,head out of view,,,START
+26.654,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,start of trial,,,POINT
+30.909,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,exhale,,,START
+30.909,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,head out of view,,,STOP
+66.682,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,chest out of view,,,START
+66.682,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,head out of view,,,START
+68.682,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,chest out of view,,,STOP
+68.682,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,head out of view,,,STOP
+92.444,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,gular pump,,,POINT
+98.693,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,gular pump,,,POINT
+106.194,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,gular pump,,,POINT
+112.694,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,gular pump,,,POINT
+120.018,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,gular pump,,,POINT
+123.695,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,end of trial,,,POINT
+123.695,E:/ADDITIONAL VIDEOS/4-RGVA_SG_VIDEOS/rgva hm2.MOV,124.990,29.97,RGVA HM 02,exhale,,,STOP

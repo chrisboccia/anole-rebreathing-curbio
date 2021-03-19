@@ -1,0 +1,64 @@
+Observation id,Boccia270M_2 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia270_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-14 03:35:50,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+186.989,Boccia270_2.MP4,379.880,23.98,Boccia 270M,start of trial,,,POINT
+187.656,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+187.822,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+187.823,Boccia270_2.MP4,379.880,23.98,Boccia 270M,bubble release,,,POINT
+188.324,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+219.600,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+220.099,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+220.100,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+234.826,Boccia270_2.MP4,379.880,23.98,Boccia 270M,gular pump,,,POINT
+247.039,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+247.205,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+247.206,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+252.335,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+252.751,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+252.752,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+267.848,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+268.014,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+268.015,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+273.436,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+273.685,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+273.686,Boccia270_2.MP4,379.880,23.98,Boccia 270M,bubble release,,,POINT
+277.132,Boccia270_2.MP4,379.880,23.98,Boccia 270M,gular pump,,,POINT
+285.885,Boccia270_2.MP4,379.880,23.98,Boccia 270M,gular pump,,,POINT
+285.905,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+286.154,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+286.155,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+309.591,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+309.924,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+309.925,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+315.013,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+315.345,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+315.346,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+323.853,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+323.936,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+323.937,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+329.180,Boccia270_2.MP4,379.880,23.98,Boccia 270M,gular pump,,,POINT
+334.445,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+334.528,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+334.529,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+347.540,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+347.540,Boccia270_2.MP4,379.880,23.98,Boccia 270M,gular pump,,,POINT
+347.705,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+347.706,Boccia270_2.MP4,379.880,23.98,Boccia 270M,reinhale,,soh,POINT
+355.212,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,START
+355.213,Boccia270_2.MP4,379.880,23.98,Boccia 270M,bubble release,,,POINT
+355.213,Boccia270_2.MP4,379.880,23.98,Boccia 270M,exhale,,,STOP
+359.209,Boccia270_2.MP4,379.880,23.98,Boccia 270M,gular pump,,,POINT
+371.211,Boccia270_2.MP4,379.880,23.98,Boccia 270M,end of trial,,,POINT

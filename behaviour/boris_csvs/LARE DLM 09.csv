@@ -1,0 +1,32 @@
+Observation id,LARE DLM 09,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-18 01:17:18,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+32.640,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,chest out of view,,,START
+32.640,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,start of trial,,,POINT
+32.640,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,throat out of view,,,START
+35.571,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,exhale,,,START
+35.737,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,exhale,,,STOP
+35.738,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,bubble release,,,POINT
+39.146,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,chest out of view,,,STOP
+39.146,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,throat out of view,,,STOP
+44.579,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,exhale,,,START
+44.995,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,exhale,,,STOP
+44.996,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,bubble release,,,POINT
+61.301,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,exhale,,,START
+61.467,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,exhale,,,STOP
+61.468,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,reinhale,,lbn,POINT
+294.644,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,bubble release,,,POINT
+296.647,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 09.MP4,312.310,23.98,LARE DLM 09,end of trial,,,POINT

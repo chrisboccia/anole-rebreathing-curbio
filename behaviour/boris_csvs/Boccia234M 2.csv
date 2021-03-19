@@ -1,0 +1,19 @@
+Observation id,Boccia234M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,D:/Mexico rebreathing videos/Boccia234_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-31 02:34:18,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+30.636,D:/Mexico rebreathing videos/Boccia234_2.MP4,111.190,23.98,Boccia 234M,start of trial,,,POINT
+41.886,D:/Mexico rebreathing videos/Boccia234_2.MP4,111.190,23.98,Boccia 234M,gular pump,,,POINT
+51.132,D:/Mexico rebreathing videos/Boccia234_2.MP4,111.190,23.98,Boccia 234M,end of trial,,,POINT

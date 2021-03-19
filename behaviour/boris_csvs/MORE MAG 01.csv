@@ -1,0 +1,25 @@
+Observation id,MORE MAG 01,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE MAG 01.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 20:49:28,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+21.089,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,start of trial,,,POINT
+21.288,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,exhale,,,START
+21.590,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,exhale,,,STOP
+21.591,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,bubble release,,,POINT
+21.622,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,bubble release,,,POINT
+27.591,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,exhale,,,START
+29.842,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,exhale,,,STOP
+29.843,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,reinhale,,lbn,POINT
+38.088,MORE MAG 01.MP4,39.540,29.97,MORE MAG 01,end of trial,,,POINT

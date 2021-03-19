@@ -1,0 +1,18 @@
+Observation id,MILP DLM 04_2 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MILP DLM 04_2 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-01 00:20:00,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+7.355,MILP DLM 04_2 b2.MP4,16.020,29.97,MILP DLM 04,start of trial,,,POINT
+11.855,MILP DLM 04_2 b2.MP4,16.020,29.97,MILP DLM 04,end of trial,,,POINT

@@ -1,0 +1,32 @@
+Observation id,Boccia 225 natural dive,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia 225 natural dive.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-22 17:53:50,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,chest out of view,,,START
+0.000,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,head out of view,,,START
+0.000,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,start of trial,,,POINT
+0.000,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,throat out of view,,,START
+5.854,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,chest out of view,,,STOP
+5.854,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,head out of view,,,STOP
+5.854,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,throat out of view,,,STOP
+12.608,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,exhale,,,START
+12.941,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,exhale,,,STOP
+12.942,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,reinhale,,toh,POINT
+16.611,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,exhale,,,START
+20.200,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,chest,,,POINT
+20.200,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,gular pump,,,POINT
+20.346,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,exhale,,,STOP
+20.347,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,reinhale,,toh,POINT
+32.831,Boccia 225 natural dive.MP4,36.900,14.99,Boccia 225,end of trial,,,POINT

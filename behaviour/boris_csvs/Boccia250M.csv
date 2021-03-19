@@ -1,0 +1,33 @@
+Observation id,Boccia250M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia250.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-03 23:24:17,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+499.374,Boccia250.MP4,1063.080,23.98,Boccia 250M,start of trial,,,POINT
+504.420,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,START
+505.087,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,STOP
+505.088,Boccia250.MP4,1063.080,23.98,Boccia 250M,bubble release,,,POINT
+506.672,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,START
+507.255,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,STOP
+507.256,Boccia250.MP4,1063.080,23.98,Boccia 250M,bubble release,,,POINT
+508.173,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,START
+511.634,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,STOP
+511.635,Boccia250.MP4,1063.080,23.98,Boccia 250M,bubble release,,,POINT
+515.854,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,START
+535.109,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,STOP
+535.110,Boccia250.MP4,1063.080,23.98,Boccia 250M,bubble release,,,POINT
+680.275,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,START
+685.153,Boccia250.MP4,1063.080,23.98,Boccia 250M,exhale,,,STOP
+685.154,Boccia250.MP4,1063.080,23.98,Boccia 250M,reinhale,,soh,POINT
+916.043,Boccia250.MP4,1063.080,23.98,Boccia 250M,end of trial,,,POINT

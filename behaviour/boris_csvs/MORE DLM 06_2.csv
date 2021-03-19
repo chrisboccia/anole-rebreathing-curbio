@@ -1,0 +1,27 @@
+Observation id,MORE DLM 06_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE DLM 06_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-07 01:15:21,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+12.077,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,start of trial,,,POINT
+13.584,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,exhale,,,START
+14.336,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,exhale,,,STOP
+14.337,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,reinhale,,toh,POINT
+19.338,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,exhale,,,START
+43.109,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,exhale,,,STOP
+43.110,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,reinhale,,toh,POINT
+46.111,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,exhale,,,START
+59.359,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,exhale,,,STOP
+59.360,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,reinhale,,toh,POINT
+100.608,MORE DLM 06_2.MP4,104.100,29.97,MORE DLM 06,end of trial,,,POINT

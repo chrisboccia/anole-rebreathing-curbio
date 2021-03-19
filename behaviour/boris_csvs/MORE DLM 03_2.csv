@@ -1,0 +1,29 @@
+Observation id,MORE DLM 03_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE DLM 03_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-03 19:41:46,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+7.864,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,start of trial,,,POINT
+8.575,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,exhale,,,START
+8.582,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,exhale,,,STOP
+10.977,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,exhale,,,START
+10.978,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,reinhale,,toh,POINT
+12.093,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,gular pump,,,POINT
+15.089,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,chest,,,POINT
+15.589,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,reinhale,,toh,POINT
+18.337,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,chest,,,POINT
+18.337,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,gular pump,,,POINT
+20.595,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,gular pump,,,POINT
+58.879,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,end of trial,,,POINT
+58.879,MORE DLM 03_2.MP4,62.060,29.97,MORE DLM 03,exhale,,,STOP

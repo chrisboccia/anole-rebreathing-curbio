@@ -1,0 +1,35 @@
+Observation id,Boccia260M_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia260_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-10 15:14:13,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+32.884,Boccia260_3.MP4,285.580,23.98,Boccia 260M,chest out of view,,,START
+32.884,Boccia260_3.MP4,285.580,23.98,Boccia 260M,start of trial,,,POINT
+54.921,Boccia260_3.MP4,285.580,23.98,Boccia 260M,exhale,,,START
+55.087,Boccia260_3.MP4,285.580,23.98,Boccia 260M,exhale,,,STOP
+55.088,Boccia260_3.MP4,285.580,23.98,Boccia 260M,bubble release,,,POINT
+68.920,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+73.269,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+73.353,Boccia260_3.MP4,285.580,23.98,Boccia 260M,exhale,,,START
+73.560,Boccia260_3.MP4,285.580,23.98,Boccia 260M,exhale,,,STOP
+73.561,Boccia260_3.MP4,285.580,23.98,Boccia 260M,bubble release,,,POINT
+87.678,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+93.181,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+100.429,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+111.179,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+131.179,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+135.680,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+154.929,Boccia260_3.MP4,285.580,23.98,Boccia 260M,gular pump,,,POINT
+161.430,Boccia260_3.MP4,285.580,23.98,Boccia 260M,chest out of view,,,STOP
+161.430,Boccia260_3.MP4,285.580,23.98,Boccia 260M,end of trial,,,POINT

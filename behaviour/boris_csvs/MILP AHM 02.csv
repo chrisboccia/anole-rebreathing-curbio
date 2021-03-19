@@ -1,0 +1,73 @@
+Observation id,MILP AHM 02,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-25 19:07:24,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+12.741,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,start of trial,,,POINT
+16.300,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+18.217,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+18.218,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+18.744,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+20.469,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+20.470,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+20.913,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+22.722,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+22.723,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+23.124,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+24.373,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+26.763,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+26.764,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+29.121,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+29.242,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+31.589,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+31.590,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+38.132,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+38.132,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+42.758,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+42.759,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+42.759,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+42.894,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+47.267,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+47.268,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+47.649,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+47.798,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,START
+55.654,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+62.775,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+71.269,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+73.774,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+85.252,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+90.206,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,exhale,,,STOP
+90.207,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,reinhale,,lbn,POINT
+90.270,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+111.711,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+121.838,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+127.325,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+132.729,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+137.854,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+139.342,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+145.351,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+151.349,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+156.346,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+167.887,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+175.015,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+223.834,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+227.448,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+233.953,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+249.446,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+269.996,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+277.984,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+283.983,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+291.987,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+297.990,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,gular pump,,,POINT
+300.740,E:/2019 Ecuador Videos/Submersion Trials/2019-05-25/Batch 1/CLIP/MILP AMH 02.MP4,300.800,119.88,MILP AHM 02,end of trial,,,POINT

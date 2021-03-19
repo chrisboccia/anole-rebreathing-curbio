@@ -1,0 +1,41 @@
+Observation id,Boccia229 hide+ dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia229 hide + dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 13:30:52,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+60.650,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,start of trial,,,POINT
+61.134,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+61.258,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+61.259,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,bubble release,,,POINT
+61.259,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+61.634,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+61.635,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,bubble release,,,POINT
+61.676,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+63.302,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+63.303,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,bubble release,,,POINT
+63.386,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+67.515,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,reinhale,,soh,POINT
+69.516,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,reinhale,,soh,POINT
+71.200,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+71.679,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,bubble release,,,POINT
+74.062,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+74.228,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+74.229,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,reinhale,,soh,POINT
+74.312,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+76.814,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+79.608,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,gular pump,,,POINT
+80.025,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,START
+85.320,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,exhale,,,STOP
+85.321,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,bubble release,,,POINT
+96.700,Boccia229 hide + dunk.MP4,137.100,23.98,Boccia 229,end of trial,,,POINT

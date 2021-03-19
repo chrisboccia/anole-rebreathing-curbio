@@ -1,0 +1,20 @@
+Observation id,Boccia266M_3 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia266_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-12 00:45:48,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+60.161,Boccia266_3.MP4,145.940,23.98,Boccia 266M,chest out of view,,,START
+60.161,Boccia266_3.MP4,145.940,23.98,Boccia 266M,start of trial,,,POINT
+124.733,Boccia266_3.MP4,145.940,23.98,Boccia 266M,chest out of view,,,STOP
+124.733,Boccia266_3.MP4,145.940,23.98,Boccia 266M,end of trial,,,POINT

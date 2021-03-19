@@ -1,0 +1,27 @@
+Observation id,Boccia233_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia233_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-06 20:05:33,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+33.751,Boccia233_2.MP4,216.950,14.99,Boccia 233,start of trial,,,POINT
+42.236,Boccia233_2.MP4,216.950,14.99,Boccia 233,gular pump,,,POINT
+52.778,Boccia233_2.MP4,216.950,14.99,Boccia 233,exhale,,,START
+70.034,Boccia233_2.MP4,216.950,14.99,Boccia 233,exhale,,,STOP
+70.035,Boccia233_2.MP4,216.950,14.99,Boccia 233,reinhale,,toh,POINT
+80.034,Boccia233_2.MP4,216.950,14.99,Boccia 233,exhale,,,START
+104.034,Boccia233_2.MP4,216.950,14.99,Boccia 233,exhale,,,STOP
+104.035,Boccia233_2.MP4,216.950,14.99,Boccia 233,chest,,,POINT
+104.035,Boccia233_2.MP4,216.950,14.99,Boccia 233,gular pump,,,POINT
+104.035,Boccia233_2.MP4,216.950,14.99,Boccia 233,reinhale,,toh,POINT
+148.463,Boccia233_2.MP4,216.950,14.99,Boccia 233,end of trial,,,POINT

@@ -1,0 +1,40 @@
+Observation id,Boccia142,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia142.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 19:48:46,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+31.288,Boccia142.MP4,149.080,14.99,Boccia 142,start of trial,,,POINT
+32.088,Boccia142.MP4,149.080,14.99,Boccia 142,chest out of view,,,START
+32.088,Boccia142.MP4,149.080,14.99,Boccia 142,throat out of view,,,START
+35.357,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,START
+36.023,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,STOP
+36.024,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,START
+36.024,Boccia142.MP4,149.080,14.99,Boccia 142,reinhale,,toh,POINT
+51.033,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,STOP
+51.034,Boccia142.MP4,149.080,14.99,Boccia 142,reinhale,,toh,POINT
+51.167,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,START
+54.168,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,STOP
+54.169,Boccia142.MP4,149.080,14.99,Boccia 142,reinhale,,toh,POINT
+54.236,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,START
+54.902,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,STOP
+54.903,Boccia142.MP4,149.080,14.99,Boccia 142,reinhale,,toh,POINT
+55.504,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,START
+58.905,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,STOP
+58.906,Boccia142.MP4,149.080,14.99,Boccia 142,reinhale,,toh,POINT
+58.973,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,START
+59.305,Boccia142.MP4,149.080,14.99,Boccia 142,exhale,,,STOP
+59.306,Boccia142.MP4,149.080,14.99,Boccia 142,reinhale,,toh,POINT
+140.346,Boccia142.MP4,149.080,14.99,Boccia 142,chest out of view,,,STOP
+140.346,Boccia142.MP4,149.080,14.99,Boccia 142,end of trial,,,POINT
+140.346,Boccia142.MP4,149.080,14.99,Boccia 142,throat out of view,,,STOP

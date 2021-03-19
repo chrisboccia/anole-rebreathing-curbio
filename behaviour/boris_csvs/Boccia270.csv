@@ -1,0 +1,48 @@
+Observation id,Boccia270,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia270.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-13 17:39:20,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+95.446,Boccia270.MP4,220.050,23.98,Boccia 270,start of trial,,,POINT
+95.580,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,START
+96.121,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,STOP
+96.122,Boccia270.MP4,220.050,23.98,Boccia 270,reinhale,,toh,POINT
+98.165,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,START
+98.295,Boccia270.MP4,220.050,23.98,Boccia 270,gular pump,,,POINT
+101.455,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,STOP
+101.456,Boccia270.MP4,220.050,23.98,Boccia 270,bubble release,,,POINT
+101.456,Boccia270.MP4,220.050,23.98,Boccia 270,gular pump,,,POINT
+103.003,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,START
+105.712,Boccia270.MP4,220.050,23.98,Boccia 270,gular pump,,,POINT
+116.221,Boccia270.MP4,220.050,23.98,Boccia 270,reinhale,,toh,POINT
+116.719,Boccia270.MP4,220.050,23.98,Boccia 270,bubble release,,,POINT
+117.723,Boccia270.MP4,220.050,23.98,Boccia 270,reinhale,,toh,POINT
+129.226,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,STOP
+129.227,Boccia270.MP4,220.050,23.98,Boccia 270,gular pump,,,POINT
+129.227,Boccia270.MP4,220.050,23.98,Boccia 270,reinhale,,soh,POINT
+129.858,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,START
+132.246,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,STOP
+132.247,Boccia270.MP4,220.050,23.98,Boccia 270,gular pump,,,POINT
+132.247,Boccia270.MP4,220.050,23.98,Boccia 270,reinhale,,soh,POINT
+144.239,Boccia270.MP4,220.050,23.98,Boccia 270,gular pump,,,POINT
+144.746,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,START
+145.120,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,STOP
+145.121,Boccia270.MP4,220.050,23.98,Boccia 270,bubble release,,,POINT
+145.371,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,START
+147.914,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,STOP
+147.915,Boccia270.MP4,220.050,23.98,Boccia 270,reinhale,,toh,POINT
+179.260,Boccia270.MP4,220.050,23.98,Boccia 270,gular pump,,,POINT
+180.005,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,START
+186.267,Boccia270.MP4,220.050,23.98,Boccia 270,end of trial,,,POINT
+186.267,Boccia270.MP4,220.050,23.98,Boccia 270,exhale,,,STOP

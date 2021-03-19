@@ -1,0 +1,26 @@
+Observation id,Boccia282M_3 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia282_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-25 12:54:26,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+197.415,Boccia282_3.MP4,332.870,23.98,Boccia 282M,exhale,,,START
+197.415,Boccia282_3.MP4,332.870,23.98,Boccia 282M,start of trial,,,POINT
+217.889,Boccia282_3.MP4,332.870,23.98,Boccia 282M,exhale,,,STOP
+217.890,Boccia282_3.MP4,332.870,23.98,Boccia 282M,reinhale,,soh,POINT
+218.224,Boccia282_3.MP4,332.870,23.98,Boccia 282M,exhale,,,START
+224.823,Boccia282_3.MP4,332.870,23.98,Boccia 282M,exhale,,,STOP
+224.824,Boccia282_3.MP4,332.870,23.98,Boccia 282M,reinhale,,soh,POINT
+230.828,Boccia282_3.MP4,332.870,23.98,Boccia 282M,gular pump,,,POINT
+244.829,Boccia282_3.MP4,332.870,23.98,Boccia 282M,gular pump,,,POINT
+320.925,Boccia282_3.MP4,332.870,23.98,Boccia 282M,end of trial,,,POINT

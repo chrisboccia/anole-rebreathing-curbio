@@ -1,0 +1,9 @@
+.Rhistory
+*.png
+*.pdf
+*.xlsx
+*.Rdata
+*.Rhistory
+propagate_monte_carlo.R
+plots_and_output
+backups_old_code

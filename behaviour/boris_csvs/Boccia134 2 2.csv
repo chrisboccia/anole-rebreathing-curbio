@@ -1,0 +1,55 @@
+Observation id,Boccia134 2 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia134 2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-26 22:14:16,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+72.006,Boccia134 2.MP4,418.080,14.99,Boccia 134,start of trial,,,POINT
+88.526,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+88.725,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP
+88.726,Boccia134 2.MP4,418.080,14.99,Boccia 134,bubble release,,,POINT
+91.528,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+91.727,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP
+91.728,Boccia134 2.MP4,418.080,14.99,Boccia 134,bubble release,,,POINT
+96.398,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+96.930,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP
+96.931,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,toh,POINT
+100.000,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+100.534,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,toh,POINT
+105.806,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+106.795,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP
+106.796,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,toh,POINT
+113.043,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+113.308,Boccia134 2.MP4,418.080,14.99,Boccia 134,bubble release,,,POINT
+117.046,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+119.546,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+119.947,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+120.746,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP
+120.747,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,soh,POINT
+124.261,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+124.283,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+125.684,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,soh,POINT
+129.315,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+129.320,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP
+129.321,Boccia134 2.MP4,418.080,14.99,Boccia 134,bubble release,,,POINT
+129.553,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,toh,POINT
+136.624,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+136.624,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+136.824,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP
+136.825,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,soh,POINT
+140.027,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+144.284,Boccia134 2.MP4,418.080,14.99,Boccia 134,gular pump,,,POINT
+155.037,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,START
+156.104,Boccia134 2.MP4,418.080,14.99,Boccia 134,reinhale,,toh,POINT
+160.253,Boccia134 2.MP4,418.080,14.99,Boccia 134,end of trial,,,POINT
+160.253,Boccia134 2.MP4,418.080,14.99,Boccia 134,exhale,,,STOP

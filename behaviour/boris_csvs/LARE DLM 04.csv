@@ -1,0 +1,30 @@
+Observation id,LARE DLM 04,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-17 19:31:21,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+35.648,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,chest out of view,,,START
+35.648,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,start of trial,,,POINT
+42.410,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,exhale,,,START
+42.660,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,exhale,,,STOP
+42.661,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,bubble release,,,POINT
+44.402,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,gular pump,,,POINT
+47.498,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,gular pump,,,POINT
+47.915,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,exhale,,,START
+48.414,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,exhale,,,STOP
+48.415,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,bubble release,,,POINT
+49.500,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,gular pump,,,POINT
+51.652,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,gular pump,,,POINT
+52.896,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,chest out of view,,,STOP
+67.169,E:/Jamaica diving videos/DCIM/100GOPRO/LARE DLM 04.MP4,426.760,23.98,LARE DLM 04,end of trial,,,POINT

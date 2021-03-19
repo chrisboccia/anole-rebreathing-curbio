@@ -1,0 +1,26 @@
+Observation id,MORE GY 03 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE GY 03 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-09 16:20:21,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+9.105,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,start of trial,,,POINT
+13.079,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,exhale,,,START
+31.081,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,exhale,,,STOP
+31.082,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,reinhale,,lbn,POINT
+32.582,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,exhale,,,START
+33.330,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,exhale,,,STOP
+33.331,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,gular pump,,,POINT
+33.331,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,reinhale,,hbn,POINT
+36.591,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,bubble release,,,POINT
+36.601,MORE GY 03 b2.MP4,39.540,29.97,MORE GY 03,end of trial,,,POINT

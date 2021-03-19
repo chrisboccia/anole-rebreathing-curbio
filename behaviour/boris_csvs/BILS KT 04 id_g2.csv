@@ -1,0 +1,44 @@
+Observation id,BILS KT 04 id_g2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS KT 04 id_g2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 10:21:37,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+27.343,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,start of trial,,,POINT
+30.344,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,head out of view,,,START
+32.597,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,throat out of view,,,START
+38.352,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+39.353,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+42.851,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+43.853,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+44.604,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+46.118,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+48.112,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+56.352,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,throat out of view,,,STOP
+57.849,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,exhale,,,START
+57.849,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,head out of view,,,STOP
+63.849,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,exhale,,,STOP
+63.850,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,bubble release,,,POINT
+65.604,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+71.609,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+93.660,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,exhale,,,START
+93.960,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,exhale,,,STOP
+93.961,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,reinhale,,toh,POINT
+100.170,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+105.506,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,exhale,,,START
+105.675,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+105.839,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,reinhale,,toh,POINT
+110.670,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,chest,,,POINT
+111.678,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,reinhale,,toh,POINT
+119.180,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,end of trial,,,POINT
+119.180,BILS KT 04 id_g2.MP4,155.660,29.97,BILS KT 04,exhale,,,STOP

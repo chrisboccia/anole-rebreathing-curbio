@@ -1,0 +1,25 @@
+Observation id,Boccia255M_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia255_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-07 11:46:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+14.618,Boccia255_2.MP4,369.950,23.98,Boccia 255M,start of trial,,,POINT
+17.973,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+19.807,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+19.808,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,hbn,POINT
+20.726,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,START
+23.560,Boccia255_2.MP4,369.950,23.98,Boccia 255M,exhale,,,STOP
+23.561,Boccia255_2.MP4,369.950,23.98,Boccia 255M,reinhale,,lbn,POINT
+53.635,Boccia255_2.MP4,369.950,23.98,Boccia 255M,gular pump,,,POINT
+55.138,Boccia255_2.MP4,369.950,23.98,Boccia 255M,end of trial,,,POINT

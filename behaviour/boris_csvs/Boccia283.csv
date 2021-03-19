@@ -1,0 +1,29 @@
+Observation id,Boccia283,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,G:/Colombia rebreathing videos/Boccia283.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-06 11:54:44,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,start of trial,,,POINT
+1.942,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,gular pump,,,POINT
+2.352,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,chest,,,POINT
+7.102,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,gular pump,,,POINT
+44.647,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,gular pump,,,POINT
+44.746,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,exhale,,,START
+44.786,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,exhale,,,STOP
+44.787,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,bubble release,,,POINT
+45.395,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,chest,,,POINT
+46.539,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,exhale,,,START
+46.579,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,exhale,,,STOP
+46.580,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,bubble release,,,POINT
+47.149,G:/Colombia rebreathing videos/Boccia283.MP4,52.680,23.98,Boccia 283,end of trial,,,POINT

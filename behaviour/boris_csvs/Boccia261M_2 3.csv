@@ -1,0 +1,24 @@
+Observation id,Boccia261M_2 3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia261_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-10 18:42:44,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+97.447,Boccia261_2.MP4,166.790,23.98,Boccia 261M,start of trial,,,POINT
+105.698,Boccia261_2.MP4,166.790,23.98,Boccia 261M,chest out of view,,,START
+148.748,Boccia261_2.MP4,166.790,23.98,Boccia 261M,head out of view,,,START
+148.748,Boccia261_2.MP4,166.790,23.98,Boccia 261M,throat out of view,,,START
+155.246,Boccia261_2.MP4,166.790,23.98,Boccia 261M,chest out of view,,,STOP
+155.246,Boccia261_2.MP4,166.790,23.98,Boccia 261M,end of trial,,,POINT
+155.246,Boccia261_2.MP4,166.790,23.98,Boccia 261M,head out of view,,,STOP
+155.246,Boccia261_2.MP4,166.790,23.98,Boccia 261M,throat out of view,,,STOP

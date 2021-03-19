@@ -1,0 +1,28 @@
+Observation id,Boccia322,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia322.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-22 16:39:07,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+24.632,Boccia322.MP4,75.280,23.98,Boccia 322,start of trial,,,POINT
+57.655,Boccia322.MP4,75.280,23.98,Boccia 322,gular pump,,,POINT
+59.903,Boccia322.MP4,75.280,23.98,Boccia 322,exhale,,,START
+59.904,Boccia322.MP4,75.280,23.98,Boccia 322,bubble release,,,POINT
+59.904,Boccia322.MP4,75.280,23.98,Boccia 322,exhale,,,STOP
+60.128,Boccia322.MP4,75.280,23.98,Boccia 322,gular pump,,,POINT
+60.406,Boccia322.MP4,75.280,23.98,Boccia 322,gular pump,,,POINT
+62.154,Boccia322.MP4,75.280,23.98,Boccia 322,bubble release,,,POINT
+62.154,Boccia322.MP4,75.280,23.98,Boccia 322,exhale,,,START
+62.154,Boccia322.MP4,75.280,23.98,Boccia 322,gular pump,,,POINT
+72.165,Boccia322.MP4,75.280,23.98,Boccia 322,end of trial,,,POINT
+72.165,Boccia322.MP4,75.280,23.98,Boccia 322,exhale,,,STOP

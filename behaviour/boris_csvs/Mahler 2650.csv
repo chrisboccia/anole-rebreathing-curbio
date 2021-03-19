@@ -1,0 +1,20 @@
+Observation id,Mahler 2650,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,GOPR0556-mahler2650.MP4,,,,,,,
+,,,,,,,,
+Observation date,2020-05-05 11:21:22,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+73.572,GOPR0556-mahler2650.MP4,256.720,14.99,Mahler CHRI2,start of trial,,,POINT
+73.572,GOPR0556-mahler2650.MP4,256.720,14.99,Mahler CHRI2,throat out of view,,,START
+182.081,GOPR0556-mahler2650.MP4,256.720,14.99,Mahler CHRI2,end of trial,,,POINT
+182.081,GOPR0556-mahler2650.MP4,256.720,14.99,Mahler CHRI2,throat out of view,,,STOP

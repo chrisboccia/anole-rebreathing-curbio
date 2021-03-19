@@ -1,0 +1,19 @@
+Observation id,Boccia238M 4,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia238.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-01 16:49:08,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+322.927,Boccia238.MP4,402.030,23.98,Boccia 238M,start of trial,,,POINT
+385.737,Boccia238.MP4,402.030,23.98,Boccia 238M,gular pump,,,POINT
+390.987,Boccia238.MP4,402.030,23.98,Boccia 238M,end of trial,,,POINT

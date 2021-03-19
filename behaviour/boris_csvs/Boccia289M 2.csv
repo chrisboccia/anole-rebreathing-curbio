@@ -1,0 +1,25 @@
+Observation id,Boccia289M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia289.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-29 13:44:08,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+50.334,Boccia289.MP4,110.860,23.98,Boccia 289M,start of trial,,,POINT
+50.654,Boccia289.MP4,110.860,23.98,Boccia 289M,exhale,,,START
+52.153,Boccia289.MP4,110.860,23.98,Boccia 289M,gular pump,,,POINT
+84.691,Boccia289.MP4,110.860,23.98,Boccia 289M,gular pump,,,POINT
+93.437,Boccia289.MP4,110.860,23.98,Boccia 289M,gular pump,,,POINT
+96.186,Boccia289.MP4,110.860,23.98,Boccia 289M,gular pump,,,POINT
+99.187,Boccia289.MP4,110.860,23.98,Boccia 289M,gular pump,,,POINT
+101.686,Boccia289.MP4,110.860,23.98,Boccia 289M,end of trial,,,POINT
+101.686,Boccia289.MP4,110.860,23.98,Boccia 289M,exhale,,,STOP

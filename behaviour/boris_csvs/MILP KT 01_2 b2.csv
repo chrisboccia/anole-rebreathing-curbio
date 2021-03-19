@@ -1,0 +1,19 @@
+Observation id,MILP KT 01_2 b2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP KT 01_2 b2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-28 21:16:39,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+6.728,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP KT 01_2 b2.MP4,14.510,119.88,MILP KT 01,start of trial,,,POINT
+10.357,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP KT 01_2 b2.MP4,14.510,119.88,MILP KT 01,bubble release,,,POINT
+10.858,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP KT 01_2 b2.MP4,14.510,119.88,MILP KT 01,end of trial,,,POINT

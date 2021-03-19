@@ -1,0 +1,18 @@
+Observation id,Boccia258 dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia258 dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-07 17:37:56,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+4.355,Boccia258 dunk.MP4,115.070,23.98,Boccia 258,start of trial,,,POINT
+90.191,Boccia258 dunk.MP4,115.070,23.98,Boccia 258,end of trial,,,POINT

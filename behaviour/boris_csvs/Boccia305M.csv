@@ -1,0 +1,34 @@
+Observation id,Boccia305M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia305.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-30 01:34:53,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+11.259,Boccia305.MP4,83.040,23.98,Boccia 305M,start of trial,,,POINT
+16.115,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,START
+16.429,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,STOP
+16.430,Boccia305.MP4,83.040,23.98,Boccia 305M,reinhale,,soh,POINT
+16.639,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,START
+17.222,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,STOP
+17.223,Boccia305.MP4,83.040,23.98,Boccia 305M,reinhale,,soh,POINT
+17.598,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,START
+18.181,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,STOP
+18.182,Boccia305.MP4,83.040,23.98,Boccia 305M,reinhale,,soh,POINT
+18.599,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,START
+19.515,Boccia305.MP4,83.040,23.98,Boccia 305M,exhale,,,STOP
+19.516,Boccia305.MP4,83.040,23.98,Boccia 305M,reinhale,,soh,POINT
+28.128,Boccia305.MP4,83.040,23.98,Boccia 305M,gular pump,,,POINT
+45.145,Boccia305.MP4,83.040,23.98,Boccia 305M,gular pump,,,POINT
+53.145,Boccia305.MP4,83.040,23.98,Boccia 305M,gular pump,,,POINT
+56.897,Boccia305.MP4,83.040,23.98,Boccia 305M,gular pump,,,POINT
+59.147,Boccia305.MP4,83.040,23.98,Boccia 305M,end of trial,,,POINT

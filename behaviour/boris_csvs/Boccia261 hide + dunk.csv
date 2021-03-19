@@ -1,0 +1,32 @@
+Observation id,Boccia261 hide + dunk,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia261 hide + dunk.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-02-07 17:49:19,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+200.404,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,start of trial,,,POINT
+207.381,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,START
+209.299,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,bubble release,,,POINT
+209.799,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,STOP
+209.800,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,reinhale,,toh,POINT
+218.265,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,START
+218.598,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,STOP
+218.599,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,bubble release,,,POINT
+226.147,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,START
+226.438,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,STOP
+226.439,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,bubble release,,,POINT
+251.101,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,START
+254.103,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,exhale,,,STOP
+254.104,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,reinhale,,soh,POINT
+339.691,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,gular pump,,,POINT
+384.942,Boccia261 hide + dunk.MP4,430.810,23.98,Boccia 261,end of trial,,,POINT

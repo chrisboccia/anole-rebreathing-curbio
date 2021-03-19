@@ -1,0 +1,21 @@
+Observation id,Boccia277M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia277.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-17 13:50:46,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+150.000,Boccia277.MP4,187.600,23.98,Boccia 277M,start of trial,,,POINT
+151.003,Boccia277.MP4,187.600,23.98,Boccia 277M,exhale,,,START
+169.755,Boccia277.MP4,187.600,23.98,Boccia 277M,gular pump,,,POINT
+173.255,Boccia277.MP4,187.600,23.98,Boccia 277M,end of trial,,,POINT
+173.255,Boccia277.MP4,187.600,23.98,Boccia 277M,exhale,,,STOP

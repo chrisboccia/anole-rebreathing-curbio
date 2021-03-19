@@ -1,0 +1,18 @@
+Observation id,MORE AHM 05,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE AHM 05.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-02 19:37:46,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+13.854,MORE AHM 05.MP4,21.020,29.97,MORE AHM 05,start of trial,,,POINT
+16.854,MORE AHM 05.MP4,21.020,29.97,MORE AHM 05,end of trial,,,POINT

@@ -1,0 +1,19 @@
+Observation id,BILS DLM 02,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS DLM 02.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-10 15:01:17,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+36.103,BILS DLM 02.MP4,57.060,29.97,BILS DLM 02,start of trial,,,POINT
+38.355,BILS DLM 02.MP4,57.060,29.97,BILS DLM 02,gular pump,,,POINT
+42.105,BILS DLM 02.MP4,57.060,29.97,BILS DLM 02,end of trial,,,POINT

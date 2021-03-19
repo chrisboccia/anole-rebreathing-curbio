@@ -1,0 +1,18 @@
+Observation id,MORE GY 01_3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE GY 01_3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 17:40:50,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+8.583,MORE GY 01_3.MP4,24.520,29.97,MORE GY 01,start of trial,,,POINT
+22.087,MORE GY 01_3.MP4,24.520,29.97,MORE GY 01,end of trial,,,POINT

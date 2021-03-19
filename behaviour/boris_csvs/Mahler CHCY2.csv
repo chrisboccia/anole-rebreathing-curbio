@@ -1,0 +1,23 @@
+Observation id,Mahler CHCY2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,GOPR0550-chlorocyanus2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2020-05-05 11:18:15,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+45.647,GOPR0550-chlorocyanus2.MP4,205.390,59.94,Mahler CHCY2,start of trial,,,POINT
+45.647,GOPR0550-chlorocyanus2.MP4,205.390,59.94,Mahler CHCY2,throat out of view,,,START
+47.148,GOPR0550-chlorocyanus2.MP4,205.390,59.94,Mahler CHCY2,exhale,,,START
+51.397,GOPR0550-chlorocyanus2.MP4,205.390,59.94,Mahler CHCY2,exhale,,,STOP
+51.398,GOPR0550-chlorocyanus2.MP4,205.390,59.94,Mahler CHCY2,bubble release,,,POINT
+114.215,GOPR0550-chlorocyanus2.MP4,205.390,59.94,Mahler CHCY2,end of trial,,,POINT
+114.215,GOPR0550-chlorocyanus2.MP4,205.390,59.94,Mahler CHCY2,throat out of view,,,STOP

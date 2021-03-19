@@ -1,0 +1,20 @@
+Observation id,BILS AHM 01_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS AHM 01_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-09 19:53:15,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+8.075,BILS AHM 01_2.MP4,20.520,29.97,BILS AHM 01,start of trial,,,POINT
+8.578,BILS AHM 01_2.MP4,20.520,29.97,BILS AHM 01,exhale,,,START
+9.077,BILS AHM 01_2.MP4,20.520,29.97,BILS AHM 01,end of trial,,,POINT
+9.077,BILS AHM 01_2.MP4,20.520,29.97,BILS AHM 01,exhale,,,STOP

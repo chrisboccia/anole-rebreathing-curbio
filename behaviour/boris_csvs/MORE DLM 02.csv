@@ -1,0 +1,36 @@
+Observation id,MORE DLM 02,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE DLM 02.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-02 00:45:32,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+10.362,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,start of trial,,,POINT
+12.079,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,START
+13.331,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,STOP
+13.332,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,START
+13.332,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,reinhale,,toh,POINT
+16.596,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,gular pump,,,POINT
+18.586,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,STOP
+18.587,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,bubble release,,,POINT
+19.336,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,START
+28.088,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,STOP
+28.089,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,bubble release,,,POINT
+28.089,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,START
+56.874,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,chest out of view,,,START
+56.874,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,head out of view,,,START
+56.874,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,throat out of view,,,START
+70.134,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,chest out of view,,,STOP
+70.134,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,head out of view,,,STOP
+70.134,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,throat out of view,,,STOP
+95.384,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,end of trial,,,POINT
+95.384,MORE DLM 02.MP4,98.100,29.97,MORE DLM 02,exhale,,,STOP

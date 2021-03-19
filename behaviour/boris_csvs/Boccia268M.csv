@@ -1,0 +1,51 @@
+Observation id,Boccia268M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia268.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-12 15:07:50,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+89.283,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+89.283,Boccia268.MP4,777.570,23.98,Boccia 268M,start of trial,,,POINT
+89.365,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP
+89.366,Boccia268.MP4,777.570,23.98,Boccia 268M,bubble release,,,POINT
+95.455,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+95.620,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP
+95.621,Boccia268.MP4,777.570,23.98,Boccia 268M,bubble release,,,POINT
+97.289,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+99.373,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP
+99.374,Boccia268.MP4,777.570,23.98,Boccia 268M,reinhale,,soh,POINT
+99.541,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+103.878,Boccia268.MP4,777.570,23.98,Boccia 268M,bubble release,,,POINT
+103.878,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+104.127,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP
+104.128,Boccia268.MP4,777.570,23.98,Boccia 268M,reinhale,,soh,POINT
+106.797,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+128.224,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP
+128.225,Boccia268.MP4,777.570,23.98,Boccia 268M,reinhale,,soh,POINT
+130.232,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+137.489,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP
+137.490,Boccia268.MP4,777.570,23.98,Boccia 268M,reinhale,,soh,POINT
+137.740,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+139.740,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP
+139.741,Boccia268.MP4,777.570,23.98,Boccia 268M,reinhale,,soh,POINT
+139.908,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,START
+145.248,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+145.248,Boccia268.MP4,777.570,23.98,Boccia 268M,reinhale,,soh,POINT
+157.261,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+164.761,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+172.770,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+179.521,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+193.269,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+207.771,Boccia268.MP4,777.570,23.98,Boccia 268M,gular pump,,,POINT
+219.772,Boccia268.MP4,777.570,23.98,Boccia 268M,end of trial,,,POINT
+219.772,Boccia268.MP4,777.570,23.98,Boccia 268M,exhale,,,STOP

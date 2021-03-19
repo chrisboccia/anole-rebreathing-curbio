@@ -1,0 +1,27 @@
+Observation id,MILP AMR 01,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-28 16:59:22,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+12.393,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,start of trial,,,POINT
+12.629,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,exhale,,,START
+14.146,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,exhale,,,STOP
+14.147,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,reinhale,,toh,POINT
+14.380,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,gular pump,,,POINT
+15.332,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,exhale,,,START
+16.720,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,exhale,,,STOP
+16.721,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,reinhale,,toh,POINT
+17.134,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,exhale,,,START
+20.873,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,end of trial,,,POINT
+20.873,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP AMR 01.MP4,23.520,119.88,MILP AMR 01,exhale,,,STOP

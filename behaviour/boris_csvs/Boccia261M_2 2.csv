@@ -1,0 +1,40 @@
+Observation id,Boccia261M_2 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia261_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-10 18:26:01,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+35.822,Boccia261_2.MP4,166.790,23.98,Boccia 261M,start of trial,,,POINT
+36.572,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,START
+36.988,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,STOP
+36.989,Boccia261_2.MP4,166.790,23.98,Boccia 261M,bubble release,,,POINT
+37.114,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,START
+37.280,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,STOP
+37.281,Boccia261_2.MP4,166.790,23.98,Boccia 261M,reinhale,,soh,POINT
+38.282,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,START
+39.615,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,STOP
+39.616,Boccia261_2.MP4,166.790,23.98,Boccia 261M,reinhale,,soh,POINT
+39.700,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,START
+41.642,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,STOP
+41.643,Boccia261_2.MP4,166.790,23.98,Boccia 261M,reinhale,,soh,POINT
+42.202,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,START
+44.537,Boccia261_2.MP4,166.790,23.98,Boccia 261M,reinhale,,soh,POINT
+46.872,Boccia261_2.MP4,166.790,23.98,Boccia 261M,reinhale,,soh,POINT
+50.583,Boccia261_2.MP4,166.790,23.98,Boccia 261M,exhale,,,STOP
+50.584,Boccia261_2.MP4,166.790,23.98,Boccia 261M,bubble release,,,POINT
+55.908,Boccia261_2.MP4,166.790,23.98,Boccia 261M,gular pump,,,POINT
+56.907,Boccia261_2.MP4,166.790,23.98,Boccia 261M,gular pump,,,POINT
+58.654,Boccia261_2.MP4,166.790,23.98,Boccia 261M,gular pump,,,POINT
+60.157,Boccia261_2.MP4,166.790,23.98,Boccia 261M,gular pump,,,POINT
+63.655,Boccia261_2.MP4,166.790,23.98,Boccia 261M,gular pump,,,POINT
+75.154,Boccia261_2.MP4,166.790,23.98,Boccia 261M,end of trial,,,POINT

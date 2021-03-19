@@ -1,0 +1,18 @@
+Observation id,Boccia226 natural dive,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia226 natural dive.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-01-28 00:54:04,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+0.000,Boccia226 natural dive.MP4,132.870,14.99,Boccia 226,start of trial,,,POINT
+34.749,Boccia226 natural dive.MP4,132.870,14.99,Boccia 226,end of trial,,,POINT

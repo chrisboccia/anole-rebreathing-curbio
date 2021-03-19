@@ -1,0 +1,38 @@
+Observation id,BILS KT 06_4 b3,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS KT 06_4 b3.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-14 17:34:58,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+29.362,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,chest out of view,,,START
+29.362,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,start of trial,,,POINT
+30.030,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,START
+30.111,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,gular pump,,,POINT
+30.429,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,STOP
+30.430,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,reinhale,,toh,POINT
+30.631,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,START
+30.763,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,STOP
+30.764,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,reinhale,,toh,POINT
+33.610,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,START
+40.108,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,gular pump,,,POINT
+40.109,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,STOP
+40.110,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,reinhale,,toh,POINT
+40.351,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,START
+57.112,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,gular pump,,,POINT
+57.613,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,reinhale,,toh,POINT
+69.634,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,gular pump,,,POINT
+72.131,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,gular pump,,,POINT
+73.630,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,gular pump,,,POINT
+80.634,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,chest out of view,,,STOP
+80.634,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,end of trial,,,POINT
+80.634,BILS KT 06_4 b3.MP4,100.100,29.97,BILS KT 06,exhale,,,STOP

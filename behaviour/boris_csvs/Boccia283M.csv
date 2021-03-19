@@ -1,0 +1,31 @@
+Observation id,Boccia283M,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia283.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-25 13:26:15,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+67.710,Boccia283.MP4,282.240,23.98,Boccia 283M,chest out of view,,,START
+67.710,Boccia283.MP4,282.240,23.98,Boccia 283M,start of trial,,,POINT
+67.973,Boccia283.MP4,282.240,23.98,Boccia 283M,exhale,,,START
+89.688,Boccia283.MP4,282.240,23.98,Boccia 283M,reinhale,,soh,POINT
+99.189,Boccia283.MP4,282.240,23.98,Boccia 283M,chest out of view,,,STOP
+99.189,Boccia283.MP4,282.240,23.98,Boccia 283M,exhale,,,STOP
+99.190,Boccia283.MP4,282.240,23.98,Boccia 283M,bubble release,,,POINT
+133.485,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+154.757,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+161.012,Boccia283.MP4,282.240,23.98,Boccia 283M,chest out of view,,,START
+164.757,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+169.256,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+173.757,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+178.006,Boccia283.MP4,282.240,23.98,Boccia 283M,chest out of view,,,STOP
+178.006,Boccia283.MP4,282.240,23.98,Boccia 283M,end of trial,,,POINT

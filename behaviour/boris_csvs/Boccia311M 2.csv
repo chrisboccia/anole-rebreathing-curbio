@@ -1,0 +1,26 @@
+Observation id,Boccia311M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia311.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-05-02 01:45:50,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+86.280,Boccia311.MP4,131.880,23.98,Boccia 311M,start of trial,,,POINT
+92.692,Boccia311.MP4,131.880,23.98,Boccia 311M,gular pump,,,POINT
+93.195,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+96.193,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+96.193,Boccia311.MP4,131.880,23.98,Boccia 311M,gular pump,,,POINT
+99.699,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+106.449,Boccia311.MP4,131.880,23.98,Boccia 311M,chest,,,POINT
+107.089,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,START
+107.798,Boccia311.MP4,131.880,23.98,Boccia 311M,end of trial,,,POINT
+107.798,Boccia311.MP4,131.880,23.98,Boccia 311M,exhale,,,STOP

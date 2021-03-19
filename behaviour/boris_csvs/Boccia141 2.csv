@@ -1,0 +1,24 @@
+Observation id,Boccia141 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia141.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-03-27 19:39:20,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+49.767,Boccia141.MP4,117.780,14.99,Boccia 141,start of trial,,,POINT
+53.769,Boccia141.MP4,117.780,14.99,Boccia 141,exhale,,,START
+53.835,Boccia141.MP4,117.780,14.99,Boccia 141,exhale,,,STOP
+53.836,Boccia141.MP4,117.780,14.99,Boccia 141,reinhale,,toh,POINT
+54.370,Boccia141.MP4,117.780,14.99,Boccia 141,exhale,,,START
+56.370,Boccia141.MP4,117.780,14.99,Boccia 141,exhale,,,STOP
+56.371,Boccia141.MP4,117.780,14.99,Boccia 141,reinhale,,toh,POINT
+116.310,Boccia141.MP4,117.780,14.99,Boccia 141,end of trial,,,POINT

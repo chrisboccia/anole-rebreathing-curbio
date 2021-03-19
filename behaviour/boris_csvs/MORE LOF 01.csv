@@ -1,0 +1,27 @@
+Observation id,MORE LOF 01,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,MORE LOF 01.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-08 18:44:52,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+27.856,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,start of trial,,,POINT
+28.596,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,exhale,,,START
+29.600,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,exhale,,,STOP
+29.601,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,reinhale,,toh,POINT
+31.346,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,exhale,,,START
+95.662,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,chest,,,POINT
+95.669,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,reinhale,,toh,POINT
+96.670,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,chest,,,POINT
+100.671,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,chest,,,POINT
+115.933,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,end of trial,,,POINT
+115.933,MORE LOF 01.MP4,118.120,29.97,MORE LOF 01,exhale,,,STOP

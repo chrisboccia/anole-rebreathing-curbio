@@ -1,0 +1,68 @@
+Observation id,MILP LOF 01_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-09-28 21:17:20,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+9.451,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,start of trial,,,POINT
+13.096,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,START
+13.476,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+16.254,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+18.230,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+20.878,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,STOP
+20.879,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+21.115,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+27.147,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,START
+28.635,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+28.749,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+30.134,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+30.597,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+33.261,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+35.115,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+35.767,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+38.622,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+38.761,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+38.903,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+42.114,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+42.752,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+45.259,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+45.298,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,throat out of view,,,START
+45.594,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+48.263,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+48.758,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+50.765,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+51.261,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+53.264,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+53.672,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+55.666,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,STOP
+55.667,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+58.671,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,START
+58.766,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+58.923,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,STOP
+58.924,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+61.667,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,START
+62.262,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+62.806,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+65.767,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+66.267,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,reinhale,,toh,POINT
+70.290,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,exhale,,,STOP
+70.291,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,bubble release,,,POINT
+70.302,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+73.267,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+76.289,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+78.289,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+79.255,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+80.766,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+84.261,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,chest,,,POINT
+88.789,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,end of trial,,,POINT
+88.789,E:/2019 Ecuador Videos/Submersion Trials/2019-05-24/Batch 2/MILP LOF 01_2.MP4,92.590,119.88,MILP LOF 01,throat out of view,,,STOP

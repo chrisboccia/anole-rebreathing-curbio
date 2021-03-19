@@ -1,0 +1,27 @@
+Observation id,BILS FA 01_3 b4_2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,BILS FA 01_3 b4.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-10-17 18:54:58,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+128.446,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,chest out of view,,,START
+128.446,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,start of trial,,,POINT
+145.245,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,exhale,,,START
+145.845,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,exhale,,,STOP
+145.846,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,reinhale,,toh,POINT
+148.248,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,exhale,,,START
+150.450,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,reinhale,,toh,POINT
+154.722,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,exhale,,,STOP
+154.723,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,bubble release,,,POINT
+182.762,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,chest out of view,,,STOP
+182.762,BILS FA 01_3 b4.MP4,215.220,29.97,BILS FA 01,end of trial,,,POINT

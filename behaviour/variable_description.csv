@@ -1,0 +1,41 @@
+column ID,column,description
+1,VideoID,video file path
+2,ID,internal boris identifier
+3,Start,start of trial
+4,End,end of trial
+5,Duration,duration of trial
+6,num_all_rb,number of total reinhales observed for each trial
+7,rb_full_rate,rate of reinhalation observed in trial
+8,rb_full_int,average interval duration (time between each observed rebreathing event)
+9,first_rb,time from beginning of trial to first reinhale observed
+10,last_rb,time from beginning of trial to last reinhale observed
+11,rb_period,difference between first and last reinhale (if >=2 observed)
+12,rate_adj_rb,rebreathing rate during rebreathing period
+13,low_rb,number of low reinhales (removed from statistical analyses)
+14,low_rb_rate,number of low reinhales /s observed during trial
+15,num_br,number of bubble releases observed
+16,rate_br,rate of bubble releases (bubble releases/trial duration)
+17,num_gul,number of gular pumps observed
+18,rate_gul,rate of gular pumping (gular pumps/trial duration)
+19,num_ch,number of chest movements observed
+20,rate_ch,rate of chest movements (chest movements/s)
+21,coov,portion of trial during which chest was not visible (in seconds)
+22,toov,portion of trial during which throat was not visible (in seconds)
+23,hoov,portion of trial during which chest was not visible (in seconds)
+24,dur_exh_tot,total exhale duration (in seconds)
+25,exh_pct,percentage of trial during which a bubble was held above the nares
+26,num_exh,number of exhaes during trial
+27,exh_avg,average exhale length (in seconds)
+28,soh,number of side of head bubble observed
+29,toh,number of top of head bubbles observed
+30,hbn,number of high narial bubbles observed
+31,lbn,number of low narial bubbles observed
+32,dive.id,identifier indicating dive position in the video if multiple dives were scored
+33,Species,anole/lizard species tested
+34,Boccia.ID,unique identifier
+35,Site,country in which anole was observed
+36,submersion.type,voluntary or dunk submersion
+37,Submersion.naturally.terminated.,"did lizard swim to the surface, or did the trial end for another reason"
+38,Mass,in grams
+39,SVL,in cm
+40,Sex,"Male, female, juvenile"

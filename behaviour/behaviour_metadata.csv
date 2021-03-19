@@ -1,0 +1,699 @@
+boris_id,dive.id,Species,Boccia.ID,Site,submersion.type,Submersion.naturally.terminated.,Mass,SVL,Sex,Rebreathing.type
+ANOX101,1,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX102,1,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,incidental
+ANOX102_2,2,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,incidental
+ANOX103,1,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX104,1,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX104_2,2,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX105,1,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX105_2,2,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX106,1,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX106_2,2,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX106_3,3,oxylophus,ANOX1,La_Selva,dunk,yes,6.2,68,M,sustained
+ANOX201,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,sustained
+ANOX202,1,oxylophus,ANOX2,La_Selva,dunk,no,4.3,59,F,incidental
+ANOX203,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,sustained
+ANOX204,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,sustained
+ANOX204_2,2,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,incidental
+ANOX205,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,sustained
+ANOX205_2,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,sustained
+ANOX206,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,sustained
+ANOX206_2,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,incidental
+ANOX206_3,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,no
+ANOX206_4,1,oxylophus,ANOX2,La_Selva,dunk,yes,4.3,59,F,incidental
+ANOX301,1,oxylophus,ANOX3,La_Selva,dunk,yes,3.5,56,F,sustained
+ANOX302,1,oxylophus,ANOX3,La_Selva,dunk,yes,3.5,56,F,sustained
+ANOX303,1,oxylophus,ANOX3,La_Selva,dunk,yes,3.5,56,F,sustained
+ANOX304,1,oxylophus,ANOX3,La_Selva,dunk,yes,3.5,56,F,sustained
+ANOX305,1,oxylophus,ANOX3,La_Selva,dunk,yes,3.5,56,F,sustained
+ANOX306,1,oxylophus,ANOX3,La_Selva,dunk,yes,3.5,56,F,incidental
+ANOX401,1,oxylophus,ANOX4,La_Selva,dunk,yes,3.7,60,M,incidental
+ANOX402,1,oxylophus,ANOX4,La_Selva,dunk,yes,3.7,60,M,incidental
+ANOX403,1,oxylophus,ANOX4,La_Selva,dunk,yes,3.7,60,M,incidental
+ANOX404,1,oxylophus,ANOX4,La_Selva,dunk,yes,3.7,60,M,incidental
+ANOX501,1,oxylophus,ANOX5,La_Selva,dunk,yes,3.6,54,F,no
+ANOX501_2,1,oxylophus,ANOX5,La_Selva,dunk,yes,3.6,54,F,incidental
+ANOX502,1,oxylophus,ANOX5,La_Selva,dunk,yes,3.6,54,F,incidental
+ANOX503,1,oxylophus,ANOX5,La_Selva,dunk,yes,3.6,54,F,incidental
+ANOX504,1,oxylophus,ANOX5,La_Selva,dunk,yes,3.6,54,F,no
+ANOX505,1,oxylophus,ANOX5,La_Selva,dunk,yes,3.6,54,F,incidental
+ANOX505_2,2,oxylophus,ANOX5,La_Selva,dunk,yes,3.6,54,F,no
+ANOX601,1,oxylophus,ANOX6,La_Selva,dunk,yes,7.8,68,M,sustained
+ANOX602,1,oxylophus,ANOX6,La_Selva,dunk,yes,7.8,68,M,sustained
+ANOX602_2,2,oxylophus,ANOX6,La_Selva,dunk,yes,7.8,68,M,sustained
+ANOX603,1,oxylophus,ANOX6,La_Selva,dunk,yes,7.8,68,M,sustained
+ANOX604,1,oxylophus,ANOX6,La_Selva,dunk,yes,7.8,68,M,sustained
+ANOX604_2,2,oxylophus,ANOX6,La_Selva,dunk,yes,7.8,68,M,incidental
+ANOX604_3,3,oxylophus,ANOX6,La_Selva,dunk,yes,7.8,68,M,incidental
+BILS AD 02 b2,1,peraccae,BILS AD 02,Ecuador,dunk,yes,1.8,51.4,M,no
+BILS AHM 01,1,purpurescens,BILS AHM 01,Ecuador,dunk,yes,7.1,82.84,M,incidental
+BILS AHM 01_2,1,purpurescens,BILS AHM 01,Ecuador,dunk,no,7.1,82.84,M,no
+BILS AHM 01_2_2,2,purpurescens,BILS AHM 01,Ecuador,dunk,yes,7.1,82.84,M,incidental
+BILS AHM 02,1,gracilipes,BILS AHM 02,Ecuador,dunk,yes,2.7,58.68,M,sustained
+BILS AHM 03 b2,1,gracilipes,BILS AHM 03,Ecuador,dunk,yes,2.4,52.37,F,no
+BILS AHM 03_2,1,gracilipes,BILS AHM 03,Ecuador,dunk,yes,2.4,52.37,F,incidental
+BILS AMR 01,1,gracilipes,BILS AMR 01,Ecuador,dunk,yes,0.727,36.42,J,incidental
+BILS AMR 02 b2,1,Echinosaura horrida,BILS AMR 02,Ecuador,dunk,no,10.6,81.38,F,no
+BILS AMR 02_2 b2,1,Echinosaura horrida,BILS AMR 02,Ecuador,dunk,yes,10.6,81.38,F,incidental
+BILS AMR 03 b2,1,peraccae,BILS AMR 03,Ecuador,dunk,yes,1.796,50.26,M,no
+BILS DLM 01,1,maculiventris,BILS DLM 01,Ecuador,dunk,yes,0.535,34.69,J,no
+BILS DLM 02,1,maculiventris,BILS DLM 02,Ecuador,dunk,yes,1.383,47.83,F,no
+BILS DLM 03,1,gracilipes,BILS DLM 03,Ecuador,dunk,yes,2.2,52.87,F,sustained
+BILS DLM 03 b4,1,gracilipes,BILS DLM 03,Ecuador,dunk,yes,2.2,52.87,F,incidental
+BILS DLM 04 b2,1,princeps,BILS DLM 04,Ecuador,dunk,yes,26.8,112.82,F,incidental
+BILS DLM 04_2,1,princeps,BILS DLM 04,Ecuador,dunk,yes,26.8,112.82,F,incidental
+BILS DLM 05 b3,1,gracilipes,BILS DLM 05,Ecuador,dunk,yes,1.249,44.81,J,no
+BILS DLM 05_2 b3,1,gracilipes,BILS DLM 05,Ecuador,dunk,yes,1.249,44.81,J,incidental
+BILS DLM FA 01 b4,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,sustained
+BILS FA 01 b2,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,sustained
+BILS FA 01 b3_2,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,incidental
+BILS FA 01 id_g1,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,incidental
+BILS FA 01_2 b3,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,no
+BILS FA 01_2 b3_2,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,no
+BILS FA 01_2 b4,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,no
+BILS FA 01_3 b4,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,sustained
+BILS FA 01_3 b4_2,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,incidental
+BILS FA 02 b2,1,purpurescens,BILS FA 02,Ecuador,dunk,yes,0.515,34.06,J,no
+BILS FA 02_2 b2,1,purpurescens,BILS FA 02,Ecuador,dunk,yes,0.515,34.06,J,no
+BILS FA 03 b2,1,gracilipes,BILS FA 03,Ecuador,dunk,yes,0.401,30.41,J,incidental
+BILS FA 04 b2,1,gracilipes,BILS FA 04,Ecuador,dunk,yes,3.5,60.87,F,incidental
+BILS FA 05 b2,1,princeps,BILS FA 05,Ecuador,dunk,yes,1.273,39.44,J,no
+BILS KT 01,1,Alopoglossus festae,BILS KT 01,Ecuador,dunk,yes,4.2,57.53,J,no
+BILS KT 01_2,2,Alopoglossus festae,BILS KT 01,Ecuador,dunk,yes,4.2,57.53,J,no
+BILS KT 03 b2,1,lyra,BILS KT 03,Ecuador,dunk,yes,0.629,31.52,J,no
+BILS KT 04 b3,1,lynchi,BILS KT 04,Ecuador,dunk,yes,2.958,53.48,F,sustained
+BILS KT 04 b4,1,lynchi,BILS KT 04,Ecuador,dunk,yes,2.958,53.48,F,sustained
+BILS KT 04 id_g2,1,lynchi,BILS KT 04,Ecuador,dunk,yes,2.958,53.48,F,incidental
+BILS KT 04 id_g3,1,lynchi,BILS KT 04,Ecuador,dunk,yes,2.958,53.48,F,sustained
+BILS KT 04_2 b3,1,lynchi,BILS KT 04,Ecuador,dunk,yes,2.958,53.48,F,sustained
+BILS KT 05 b3,1,Echinosaura horrida,BILS KT 05,Ecuador,dunk,yes,5.25,63.54,J,no
+BILS KT 06 b3,1,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,no
+BILS KT 06 b4,1,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,sustained
+BILS KT 06_2 b3,1,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,sustained
+BILS KT 06_2 b4,1,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,incidental
+BILS KT 06_2 b4_2,2,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,incidental
+BILS KT 06_2 b4_3,3,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,no
+BILS KT 06_3 b3,1,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,no
+BILS KT 06_3 b3_2,2,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,incidental
+BILS KT 06_3 b3_3,3,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,incidental
+BILS KT 06_4 b3,1,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,incidental
+BILS KT 06_5 b3,1,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,no
+BILS KT 06_5 b3_2,2,lynchi,BILS KT 06,Ecuador,dunk,yes,2.345,50.3,F,incidental
+BILS MAG 01 b2,1,chloris,BILS MAG 01,Ecuador,dunk,yes,2.939,55.25,F,sustained
+BILS MAG 01_2 b2,1,chloris,BILS MAG 01,Ecuador,dunk,yes,2.939,55.25,F,no
+BILS MT 01,1,purpurescens,BILS MT 01,Ecuador,dunk,yes,3.5,65.7,M,sustained
+BILSA FA 01 b3,1,lynchi,BILS FA 01,Ecuador,dunk,yes,3.8,58.09,M,incidental
+Boccia 222,1,maculigula,Boccia 222,Tatama,dunk,yes,26.1,107,M,sustained
+Boccia 222 2,2,maculigula,Boccia 222,Tatama,dunk,no,26.1,107,M,no
+Boccia 222 dunk,1,maculigula,Boccia 222,Tatama,dunk,no,26.1,107,M,no
+Boccia 222 dunk 2,2,maculigula,Boccia 222,Tatama,dunk,no,26.1,107,M,incidental
+Boccia 223,1,maculigula,Boccia 223,Tatama,dunk,no,8.6,72,F,no
+Boccia 223 2,2,maculigula,Boccia 223,Tatama,dunk,yes,8.6,72,F,sustained
+Boccia 223_2,1,maculigula,Boccia 223,Tatama,dunk,yes,8.6,72,F,sustained
+Boccia 224 2,2,maculigula,Boccia 224,Tatama,dunk,yes,23.7,110,M,incidental
+Boccia 225,1,maculigula,Boccia 225,Tatama,dunk,yes,8.2,66,F,sustained
+Boccia 225 2,2,maculigula,Boccia 225,Tatama,dunk,yes,8.2,66,F,sustained
+Boccia 225 dunk,1,maculigula,Boccia 225,Tatama,dunk,yes,8.2,66,F,no
+Boccia 225 natural dive,1,maculigula,Boccia 225,Tatama,voluntary,no,8.2,66,F,incidental
+Boccia 229 2,2,maculigula,Boccia 229,Tatama,dunk,yes,7.5,72,F,incidental
+Boccia121 1,1,aquaticus,Boccia 121,Las_Cruces,dunk,yes,7.6,69,M,no
+Boccia121 2,1,aquaticus,Boccia 121,Las_Cruces,dunk,yes,7.6,69,M,sustained
+Boccia121 3,1,aquaticus,Boccia 121,Las_Cruces,dunk,no,7.6,69,M,no
+Boccia121 4,1,aquaticus,Boccia 121,Las_Cruces,dunk,yes,7.6,69,M,incidental
+Boccia121 5,1,aquaticus,Boccia 121,Las_Cruces,dunk,yes,7.6,69,M,sustained
+Boccia123,1,aquaticus,Boccia 123,Las_Cruces,voluntary,yes,1.2,36,J,incidental
+Boccia125,1,aquaticus,Boccia 125,Las_Cruces,dunk,yes,5.1,57,F,sustained
+Boccia131,1,aquaticus,Boccia 131,Las_Cruces,dunk,yes,1,34,J,sustained
+Boccia134 1,1,aquaticus,Boccia 134,Las_Cruces,dunk,yes,3.5,53,F,sustained
+Boccia134 2,1,aquaticus,Boccia 134,Las_Cruces,dunk,yes,3.5,53,F,incidental
+Boccia134 2 2,2,aquaticus,Boccia 134,Las_Cruces,dunk,yes,3.5,53,F,sustained
+Boccia134 2 3,3,aquaticus,Boccia 134,Las_Cruces,dunk,yes,3.5,53,F,sustained
+Boccia134 2 4,4,aquaticus,Boccia 134,Las_Cruces,dunk,yes,3.5,53,F,sustained
+Boccia137,1,polylepis,Boccia 137,Las_Cruces,dunk,no,1.4,44,M,no
+Boccia137 2,1,polylepis,Boccia 137,Las_Cruces,dunk,no,1.4,44,M,no
+Boccia137 2 2,2,polylepis,Boccia 137,Las_Cruces,dunk,no,1.4,44,M,no
+Boccia138,1,aquaticus,Boccia 138,Las_Cruces,dunk,yes,5.7,66,M,sustained
+Boccia138 2,1,aquaticus,Boccia 138,Las_Cruces,dunk,yes,5.7,66,M,sustained
+Boccia139,1,aquaticus,Boccia 139,Las_Cruces,dunk,yes,4.4,58,M,sustained
+Boccia140,1,aquaticus,Boccia 140,Las_Cruces,dunk,yes,1.7,43,F,sustained
+Boccia141,1,aquaticus,Boccia 141,Las_Cruces,dunk,yes,0.8,34,J,incidental
+Boccia141 2,2,aquaticus,Boccia 141,Las_Cruces,dunk,yes,0.8,34,J,incidental
+Boccia142,1,aquaticus,Boccia 142,Las_Cruces,dunk,yes,3,52,F,sustained
+Boccia142 2,1,aquaticus,Boccia 142,Las_Cruces,dunk,yes,3,52,F,no
+Boccia142 3,1,aquaticus,Boccia 142,Las_Cruces,dunk,yes,3,52,F,incidental
+Boccia142 4,1,aquaticus,Boccia 142,Las_Cruces,dunk,yes,3,52,F,sustained
+Boccia144,1,aquaticus,Boccia 144,Las_Cruces,dunk,yes,5.4,60,M,sustained
+Boccia144 2,2,aquaticus,Boccia 144,Las_Cruces,dunk,yes,5.4,60,M,sustained
+Boccia147,1,aquaticus,Boccia 147,Las_Cruces,dunk,yes,4.2,51,M,no
+Boccia147 2,2,aquaticus,Boccia 147,Las_Cruces,dunk,yes,4.2,51,M,sustained
+Boccia147 2 1,1,aquaticus,Boccia 147,Las_Cruces,dunk,yes,4.2,51,M,incidental
+Boccia147 2 2,2,aquaticus,Boccia 147,Las_Cruces,dunk,yes,4.2,51,M,incidental
+Boccia161,1,aquaticus,Boccia 161 ,Las_Cruces,dunk,yes,6.2,65,M,sustained
+Boccia161 2,1,aquaticus,Boccia 161 ,Las_Cruces,dunk,yes,6.2,65,M,sustained
+Boccia161 3,1,aquaticus,Boccia 161 ,Las_Cruces,dunk,yes,6.2,65,M,sustained
+Boccia161 4,1,aquaticus,Boccia 161 ,Las_Cruces,dunk,yes,6.2,65,M,sustained
+Boccia161 4 2,2,aquaticus,Boccia 161 ,Las_Cruces,dunk,yes,6.2,65,M,sustained
+Boccia161 5,1,aquaticus,Boccia 161 ,Las_Cruces,dunk,yes,6.2,65,M,sustained
+Boccia161 5 2,2,aquaticus,Boccia 161 ,Las_Cruces,dunk,yes,6.2,65,M,sustained
+Boccia166,1,aquaticus,Boccia 166,Las_Cruces,dunk,yes,10.2,74,M,sustained
+Boccia166 2,1,aquaticus,Boccia 166,Las_Cruces,dunk,yes,10.2,74,M,sustained
+Boccia166 3,1,aquaticus,Boccia 166,Las_Cruces,dunk,yes,10.2,74,M,sustained
+Boccia167,1,aquaticus,Boccia 167,Las_Cruces,dunk,yes,5.7,64,M,sustained
+Boccia167 2,1,aquaticus,Boccia 167,Las_Cruces,dunk,yes,5.7,64,M,sustained
+Boccia167 3,1,aquaticus,Boccia 167,Las_Cruces,dunk,yes,5.7,64,M,sustained
+Boccia167 3 2,2,aquaticus,Boccia 167,Las_Cruces,dunk,yes,5.7,64,M,sustained
+Boccia223 hide + dunk,1,maculigula,Boccia 223,Tatama,dunk,yes,8.6,72,F,sustained
+Boccia224,1,maculigula,Boccia 224,Tatama,dunk,yes,23.7,110,M,no
+Boccia226,1,maculigula,Boccia 226,Tatama,dunk,no,25.3,107,M,incidental
+Boccia226 dunk,1,maculigula,Boccia 226,Tatama,dunk,no,25.3,107,M,incidental
+Boccia226 dunk 2,2,maculigula,Boccia 226,Tatama,dunk,no,25.3,107,M,no
+Boccia226 natural dive,1,maculigula,Boccia 226,Tatama,voluntary,no,25.3,107,M,no
+Boccia226_2,1,maculigula,Boccia 226,Tatama,dunk,no,25.3,107,M,no
+Boccia227,1,maculigula,Boccia 227,Tatama,dunk,yes,28.8,112,M,incidental
+Boccia227_2,1,maculigula,Boccia 227,Tatama,dunk,no,28.8,112,M,incidental
+Boccia227_2 2,2,maculigula,Boccia 227,Tatama,dunk,no,28.8,112,M,incidental
+Boccia227_2 3,3,maculigula,Boccia 227,Tatama,dunk,yes,28.8,112,M,incidental
+Boccia228,1,maculigula,Boccia 228,Tatama,dunk,yes,4,61,F,incidental
+Boccia228_2,1,maculigula,Boccia 228,Tatama,dunk,yes,4,61,F,no
+Boccia229,1,maculigula,Boccia 229,Tatama,dunk,no,7.5,72,F,incidental
+Boccia229 3,3,maculigula,Boccia 229,Tatama,dunk,no,7.5,72,F,incidental
+Boccia229 4,4,maculigula,Boccia 229,Tatama,dunk,yes,7.5,72,F,incidental
+Boccia229 hide + dunk 2,1,maculigula,Boccia 229,Tatama,dunk,no,7.5,72,F,no
+Boccia229 hide+ dunk,1,maculigula,Boccia 229,Tatama,dunk,no,7.5,72,F,incidental
+Boccia230,1,maculigula,Boccia 230,Tatama,dunk,yes,2.2,50,J,sustained
+Boccia230 hide + dunk,1,maculigula,Boccia 230,Tatama,dunk,yes,2.2,50,J,sustained
+Boccia230_2,1,maculigula,Boccia 230,Tatama,dunk,yes,2.2,50,J,incidental
+Boccia230-2,1,maculigula,Boccia 230,Tatama,dunk,no,2.2,50,J,incidental
+Boccia231,1,maculigula,Boccia 231,Tatama,dunk,yes,14.2,86,F,incidental
+Boccia231 2,2,maculigula,Boccia 231,Tatama,dunk,yes,14.2,86,F,incidental
+Boccia231 hide + dunk,1,maculigula,Boccia 231,Tatama,dunk,yes,14.2,86,F,incidental
+Boccia233,1,maculigula,Boccia 233,Tatama,dunk,yes,1,39,J,no
+Boccia233_2,1,maculigula,Boccia 233,Tatama,dunk,yes,1,39,J,incidental
+Boccia233_2 2,2,maculigula,Boccia 233,Tatama,dunk,yes,1,39,J,no
+Boccia234,1,maculigula,Boccia 234,Tatama,dunk,no,14.4,85,F,sustained
+Boccia234 dunk,1,maculigula,Boccia 234,Tatama,dunk,yes,14.4,85,F,no
+Boccia234M,1,barkeri,Boccia 234M,Tuxtlas,dunk,yes,1.4,45,J,sustained
+Boccia234M 2,1,barkeri,Boccia 234M,Tuxtlas,dunk,yes,1.4,45,J,no
+Boccia234M_2 2,2,barkeri,Boccia 234M,Tuxtlas,dunk,yes,1.4,45,J,no
+Boccia234natural dive,1,maculigula,Boccia 234,Tatama,voluntary,no,14.4,85,F,no
+Boccia235,1,maculigula,Boccia 235,Tatama,dunk,yes,16.8,54,F,sustained
+Boccia235 hide + dunk,1,maculigula,Boccia 235,Tatama,dunk,no,16.8,54,F,sustained
+Boccia235M,1,uniformis,Boccia 235M,Tuxtlas,dunk,yes,1.6,36,M,incidental
+Boccia236M,1,barkeri,Boccia 236M,Tuxtlas,dunk,yes,0.5,30,J,no
+Boccia236M 2,2,barkeri,Boccia 236M,Tuxtlas,dunk,no,0.5,30,J,no
+Boccia237M,1,uniformis,Boccia 237M,Tuxtlas,dunk,yes,0.5,26,J,no
+Boccia238M,1,barkeri,Boccia 238M,Tuxtlas,dunk,yes,1.4,39,J,incidental
+Boccia238M 2,2,barkeri,Boccia 238M,Tuxtlas,dunk,yes,1.4,39,J,no
+Boccia238M 3,3,barkeri,Boccia 238M,Tuxtlas,dunk,yes,1.4,39,J,sustained
+Boccia238M 4,4,barkeri,Boccia 238M,Tuxtlas,dunk,yes,1.4,39,J,no
+Boccia238M_2,1,barkeri,Boccia 238M,Tuxtlas,dunk,yes,1.4,39,J,sustained
+Boccia238M_2 2,2,barkeri,Boccia 238M,Tuxtlas,dunk,yes,1.4,39,J,incidental
+Boccia238M_2 3,3,barkeri,Boccia 238M,Tuxtlas,dunk,yes,1.4,39,J,incidental
+Boccia239 dunk,1,maculigula,Boccia 239,Tatama,dunk,yes,31.9,NA,M,sustained
+Boccia239 hide + dunk,1,maculigula,Boccia 239,Tatama,dunk,yes,31.9,NA,M,no
+Boccia239 hide + dunk 2,2,maculigula,Boccia 239,Tatama,dunk,no,31.9,NA,M,incidental
+Boccia239M,1,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,sustained
+Boccia239M 2,2,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,no
+Boccia239M 3,3,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,sustained
+Boccia239M_2,1,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,sustained
+Boccia239M_3,1,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,incidental
+Boccia239M_3 2,2,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,sustained
+Boccia239M_4,1,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,incidental
+Boccia239M_4 2,2,barkeri,Boccia 239M,Tuxtlas,dunk,yes,8.7,78,M,sustained
+Boccia240 dunk,1,chloris,Boccia 240,Tatama,dunk,yes,3.9,0,M,no
+Boccia240M,1,barkeri,Boccia 240M,Tuxtlas,dunk,no,0.7,31,J,no
+Boccia241,1,purpurescens,Boccia 241,Tatama,dunk,yes,1.3,0,J,incidental
+Boccia241 retest,1,purpurescens,Boccia 241,Tatama,dunk,yes,1.3,0,J,no
+Boccia241 retest 2,2,purpurescens,Boccia 241,Tatama,dunk,yes,1.3,0,J,no
+Boccia241 retest 3,3,purpurescens,Boccia 241,Tatama,dunk,yes,1.3,0,J,no
+Boccia242M,1,iguana,Boccia 242M,Tuxtlas,dunk,yes,14.4,76,J,no
+Boccia243M,1,barkeri,Boccia 243M,Tuxtlas,dunk,yes,1,39,J,no
+Boccia244M,1,uniformis,Boccia 244M,Tuxtlas,dunk,yes,1.5,39,M,sustained
+Boccia244M 2,2,uniformis,Boccia 244M,Tuxtlas,dunk,yes,1.5,39,M,no
+Boccia245M,1,barkeri,Boccia 245M,Tuxtlas,dunk,yes,11.6,84,M,sustained
+Boccia245M 2,2,barkeri,Boccia 245M,Tuxtlas,dunk,yes,11.6,84,M,sustained
+Boccia246M dunk,1,barkeri,Boccia 246M,Tuxtlas,dunk,yes,13.1,92,M,sustained
+Boccia246M_2,1,barkeri,Boccia 246M,Tuxtlas,dunk,no,13.1,92,M,no
+Boccia246M_3,1,barkeri,Boccia 246M,Tuxtlas,dunk,yes,13.1,92,M,incidental
+Boccia246M_3 2,2,barkeri,Boccia 246M,Tuxtlas,dunk,yes,13.1,92,M,sustained
+Boccia247M,1,uniformis,Boccia 247M,Tuxtlas,dunk,no,0.7,29,M,no
+Boccia248M,1,basiliscus,Boccia 248M,Tuxtlas,dunk,yes,4.4,56,J,no
+Boccia249M,1,uniformis,Boccia 249M,Tuxtlas,dunk,yes,1.6,28,M,no
+Boccia250M,1,barkeri,Boccia 250M,Tuxtlas,dunk,yes,7.7,73,M,incidental
+Boccia250M 2,2,barkeri,Boccia 250M,Tuxtlas,dunk,no,7.7,73,M,sustained
+Boccia250M_2,1,barkeri,Boccia 250M,Tuxtlas,dunk,yes,7.7,73,M,sustained
+Boccia250M_2 2,2,barkeri,Boccia 250M,Tuxtlas,dunk,yes,7.7,73,M,no
+Boccia250M_2 3,3,barkeri,Boccia 250M,Tuxtlas,dunk,yes,7.7,73,M,sustained
+Boccia251M,1,barkeri,Boccia 251M,Tuxtlas,dunk,yes,1.4,44,J,no
+Boccia252M,1,uniformis,Boccia 252M,Tuxtlas,dunk,yes,1.1,34,M,no
+Boccia252M 2,2,uniformis,Boccia 252M,Tuxtlas,dunk,yes,1.1,34,M,no
+Boccia253M,1,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,no
+Boccia253M 2,2,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,incidental
+Boccia253M_2,1,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,incidental
+Boccia253M_2 2,2,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,no
+Boccia253M_2 3,3,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,sustained
+Boccia253M_3,1,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,incidental
+Boccia253M_3 2,2,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,sustained
+Boccia253M_4,1,barkeri,Boccia 253M,Tuxtlas,dunk,yes,9.3,74,F,no
+Boccia254M,1,barkeri,Boccia 254M,Tuxtlas,dunk,yes,2.8,49,J,no
+Boccia254M 2,2,barkeri,Boccia 254M,Tuxtlas,dunk,yes,2.8,49,J,incidental
+Boccia254M_2,1,barkeri,Boccia 254M,Tuxtlas,dunk,yes,2.8,49,J,incidental
+Boccia254M_2 2,2,barkeri,Boccia 254M,Tuxtlas,dunk,yes,2.8,49,J,no
+Boccia254M_3,1,barkeri,Boccia 254M,Tuxtlas,dunk,yes,2.8,49,J,sustained
+Boccia254M_3 (2),1,barkeri,Boccia 254M,Tuxtlas,dunk,yes,2.8,49,J,no
+Boccia254M_3 2,2,barkeri,Boccia 254M,Tuxtlas,dunk,yes,2.8,49,J,incidental
+Boccia255M,1,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M 2,2,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_2,1,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_2 2,2,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_2 3,3,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_3,1,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_3 2,2,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_3 3,3,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_4,1,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia255M_4 2,2,barkeri,Boccia 255M,Tuxtlas,dunk,yes,14.1,93,M,incidental
+Boccia256M dunk,1,barkeri,Boccia 256M,Tuxtlas,dunk,yes,11.5,83,M,no
+Boccia256M_2,1,barkeri,Boccia 256M,Tuxtlas,dunk,yes,11.5,83,M,no
+Boccia256M_2 2,2,barkeri,Boccia 256M,Tuxtlas,dunk,yes,11.5,83,M,no
+Boccia256M_2 3,3,barkeri,Boccia 256M,Tuxtlas,dunk,yes,11.5,83,M,incidental
+Boccia256M_2 4,4,barkeri,Boccia 256M,Tuxtlas,dunk,yes,11.5,83,M,no
+Boccia256M_4,1,barkeri,Boccia 256M,Tuxtlas,dunk,yes,11.5,83,M,incidental
+Boccia256M_4 2,2,barkeri,Boccia 256M,Tuxtlas,dunk,yes,11.5,83,M,sustained
+Boccia257 dunk,1,maculigula,Boccia 257,Tatama,dunk,yes,0.8,36,J,incidental
+Boccia257M_2,1,barkeri,Boccia 257M,Tuxtlas,dunk,yes,7.3,70,F,sustained
+Boccia257M_2 (2),1,barkeri,Boccia 257M,Tuxtlas,dunk,yes,7.3,70,F,sustained
+Boccia257M_2 (2) 2,2,barkeri,Boccia 257M,Tuxtlas,dunk,yes,7.3,70,F,no
+Boccia257M_2 2,2,barkeri,Boccia 257M,Tuxtlas,dunk,yes,7.3,70,F,incidental
+Boccia257M_4,1,barkeri,Boccia 257M,Tuxtlas,dunk,yes,7.3,70,F,incidental
+Boccia257M_4 2,2,barkeri,Boccia 257M,Tuxtlas,dunk,yes,7.3,70,F,incidental
+Boccia258 dunk,1,antonii,Boccia 258,Tatama,dunk,yes,1.6,45,M,no
+Boccia258M dunk,1,barkeri,Boccia 258M,Tuxtlas,dunk,yes,5.2,63,F,no
+Boccia258M dunk 2,2,barkeri,Boccia 258M,Tuxtlas,dunk,yes,5.2,63,F,incidental
+Boccia258M dunk 3,3,barkeri,Boccia 258M,Tuxtlas,dunk,yes,5.2,63,F,no
+Boccia258M_2,1,barkeri,Boccia 258M,Tuxtlas,dunk,yes,5.2,63,F,no
+Boccia258M_2 2,2,barkeri,Boccia 258M,Tuxtlas,dunk,yes,5.2,63,F,no
+Boccia258M_4,1,barkeri,Boccia 258M,Tuxtlas,dunk,yes,5.2,63,F,no
+Boccia259,1,ventrimaculatus,Boccia 259,Tatama,dunk,no,7.3,72,M,no
+Boccia259M,1,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,incidental
+Boccia259M 2,2,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,incidental
+Boccia259M 3,3,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,no
+Boccia259M_2,1,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,sustained
+Boccia259M_2 2,2,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,incidental
+Boccia259M_2 3,3,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,sustained
+Boccia259M_3,1,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,sustained
+Boccia259M_3 2,2,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,sustained
+Boccia259M_4,1,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,sustained
+Boccia259M_4 2,2,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,incidental
+Boccia259M_4 3,3,barkeri,Boccia 259M,Tuxtlas,dunk,yes,13.9,90,M,incidental
+Boccia259M_4 4,4,barkeri,Boccia 259M,Tuxtlas,dunk,no,13.9,90,M,no
+Boccia260M,1,barkeri,Boccia 260M,Tuxtlas,dunk,yes,6.9,68,F,no
+Boccia260M_2,1,barkeri,Boccia 260M,Tuxtlas,dunk,yes,6.9,68,F,no
+Boccia260M_2 (2),1,barkeri,Boccia 260M,Tuxtlas,dunk,yes,6.9,68,F,incidental
+Boccia260M_2 (2) 2,2,barkeri,Boccia 260M,Tuxtlas,dunk,yes,6.9,68,F,no
+Boccia260M_2 2,2,barkeri,Boccia 260M,Tuxtlas,dunk,yes,6.9,68,F,sustained
+Boccia260M_3,1,barkeri,Boccia 260M,Tuxtlas,dunk,yes,6.9,68,F,no
+Boccia260M_3 2,2,barkeri,Boccia 260M,Tuxtlas,dunk,yes,6.9,68,F,no
+Boccia261 hide + dunk,1,maculigula,Boccia 261,Tatama,dunk,yes,12.7,80,F,incidental
+Boccia261M,1,barkeri,Boccia 261M,Tuxtlas,dunk,no,6.9,68,F,sustained
+Boccia261M_1,1,barkeri,Boccia 261M,Tuxtlas,dunk,yes,6.9,68,F,sustained
+Boccia261M_1 2,2,barkeri,Boccia 261M,Tuxtlas,dunk,yes,6.9,68,F,sustained
+Boccia261M_2,1,barkeri,Boccia 261M,Tuxtlas,dunk,yes,6.9,68,F,incidental
+Boccia261M_2 2,2,barkeri,Boccia 261M,Tuxtlas,dunk,yes,6.9,68,F,sustained
+Boccia261M_2 3,3,barkeri,Boccia 261M,Tuxtlas,dunk,no,6.9,68,F,no
+Boccia261M_3,1,barkeri,Boccia 261M,Tuxtlas,dunk,yes,6.9,68,F,sustained
+Boccia261M_3 2,2,barkeri,Boccia 261M,Tuxtlas,dunk,yes,6.9,68,F,sustained
+Boccia262 hide + dunk,1,maculigula,Boccia 262,Tatama,dunk,no,37.7,118,M,incidental
+Boccia262 natural dive,1,maculigula,Boccia 262,Tatama,dunk,yes,37.7,118,M,no
+Boccia262M,1,barkeri,Boccia 262M,Tuxtlas,dunk,yes,7.1,72,M,incidental
+Boccia262M 2,2,barkeri,Boccia 262M,Tuxtlas,dunk,yes,7.1,72,M,sustained
+Boccia262M 3,3,barkeri,Boccia 262M,Tuxtlas,dunk,yes,7.1,72,M,no
+Boccia262M_2,1,barkeri,Boccia 262M,Tuxtlas,dunk,yes,7.1,72,M,sustained
+Boccia262M_2 2,2,barkeri,Boccia 262M,Tuxtlas,dunk,yes,7.1,72,M,sustained
+Boccia263M,1,barkeri,Boccia 263M,Tuxtlas,dunk,yes,6.9,75,M,incidental
+Boccia263M 2,2,barkeri,Boccia 263M,Tuxtlas,dunk,yes,6.9,75,M,sustained
+Boccia263M 3,3,barkeri,Boccia 263M,Tuxtlas,dunk,yes,6.9,75,M,incidental
+Boccia264 hide + dunk,1,maculigula,Boccia 264,Tatama,dunk,yes,8.1,69,F,sustained
+Boccia264M,1,sericeus,Boccia 264M,Tuxtlas,dunk,yes,1.1,42,M,no
+Boccia265 hide + dunk,1,maculigula,Boccia 265,Tatama,dunk,yes,28.9,113,M,no
+Boccia265 hide + dunk 2,2,maculigula,Boccia 265,Tatama,dunk,yes,28.9,113,M,incidental
+Boccia265M,1,sericeus,Boccia 265M,Tuxtlas,dunk,yes,0.8,37,M,no
+Boccia265M_2,1,sericeus,Boccia 265M,Tuxtlas,dunk,yes,0.8,37,M,no
+Boccia266 hide + dunk,1,maculigula,Boccia 266,Tatama,dunk,yes,1.1,38,J,incidental
+Boccia266 hide + dunk 2,2,maculigula,Boccia 266,Tatama,dunk,yes,1.1,38,J,incidental
+Boccia266M,1,barkeri,Boccia 266M,Tuxtlas,dunk,yes,7.6,70,F,sustained
+Boccia266M 2,2,barkeri,Boccia 266M,Tuxtlas,dunk,yes,7.6,70,F,incidental
+Boccia266M 3,3,barkeri,Boccia 266M,Tuxtlas,dunk,yes,7.6,70,F,incidental
+Boccia266M_3,1,barkeri,Boccia 266M,Tuxtlas,dunk,yes,7.6,70,F,no
+Boccia266M_3 2,2,barkeri,Boccia 266M,Tuxtlas,dunk,yes,7.6,70,F,no
+Boccia267 hide + dunk,1,maculigula,Boccia 267,Tatama,dunk,yes,1.1,40,J,no
+Boccia267 hide + dunk 2,2,maculigula,Boccia 267,Tatama,dunk,yes,1.1,40,J,incidental
+Boccia267M_2,1,barkeri,Boccia 267M,Tuxtlas,dunk,yes,15.6,92,M,sustained
+Boccia267M_2 2,2,barkeri,Boccia 267M,Tuxtlas,dunk,no,15.6,92,M,incidental
+Boccia267M_3,1,barkeri,Boccia 267M,Tuxtlas,dunk,yes,15.6,92,M,incidental
+Boccia268 dunk,1,maculigula,Boccia 268,Tatama,dunk,no,13,87,F,sustained
+Boccia268 hide + dunk,1,maculigula,Boccia 268,Tatama,dunk,no,13,87,F,sustained
+Boccia268M,1,barkeri,Boccia 268M,Tuxtlas,dunk,yes,17,99,M,sustained
+Boccia268M 2,2,barkeri,Boccia 268M,Tuxtlas,dunk,yes,17,99,M,sustained
+Boccia268M 3,3,barkeri,Boccia 268M,Tuxtlas,dunk,yes,17,99,M,sustained
+Boccia268M_3,1,barkeri,Boccia 268M,Tuxtlas,dunk,yes,17,99,M,incidental
+Boccia268M_3 2,2,barkeri,Boccia 268M,Tuxtlas,dunk,yes,17,99,M,no
+Boccia268M_3 3,3,barkeri,Boccia 268M,Tuxtlas,dunk,yes,17,99,M,sustained
+Boccia269 hide + dunk,1,maculigula,Boccia 269,Tatama,dunk,yes,1.6,45,J,sustained
+Boccia269 hide + dunk 2,2,maculigula,Boccia 269,Tatama,dunk,yes,1.6,45,J,incidental
+Boccia269M,1,barkeri,Boccia 269M,Tuxtlas,dunk,yes,7.4,70,F,incidental
+Boccia269M 2,2,barkeri,Boccia 269M,Tuxtlas,dunk,yes,7.4,70,F,no
+Boccia269M 3,3,barkeri,Boccia 269M,Tuxtlas,dunk,yes,7.4,70,F,incidental
+Boccia269M_3,1,barkeri,Boccia 269M,Tuxtlas,dunk,yes,7.4,70,F,incidental
+Boccia269M_3 2,2,barkeri,Boccia 269M,Tuxtlas,dunk,yes,7.4,70,F,no
+Boccia270,1,maculigula,Boccia 270,Tatama,dunk,yes,3,91,J,sustained
+Boccia270M,1,barkeri,Boccia 270M,Tuxtlas,dunk,yes,6.3,69,F,sustained
+Boccia270M 2,2,barkeri,Boccia 270M,Tuxtlas,dunk,yes,6.3,69,F,no
+Boccia270M_2,1,barkeri,Boccia 270M,Tuxtlas,dunk,no,6.3,69,F,incidental
+Boccia270M_2 2,2,barkeri,Boccia 270M,Tuxtlas,dunk,yes,6.3,69,F,sustained
+Boccia271 hide + dive,1,maculigula,Boccia 271,Tatama,dunk,yes,5.4,63,F,incidental
+Boccia271M_2,1,barkeri,Boccia 271M,Tuxtlas,dunk,yes,16.3,94,M,sustained
+Boccia271M_2 (2),1,barkeri,Boccia 271M,Tuxtlas,dunk,no,16.3,94,M,sustained
+Boccia271M_2 2,2,barkeri,Boccia 271M,Tuxtlas,dunk,yes,16.3,94,M,sustained
+Boccia271M_2 3,3,barkeri,Boccia 271M,Tuxtlas,dunk,yes,16.3,94,M,sustained
+Boccia271M_3,1,barkeri,Boccia 271M,Tuxtlas,dunk,yes,16.3,94,M,sustained
+Boccia272 dunk,1,maculigula,Boccia 272,Tatama,dunk,yes,10.3,84,J,sustained
+Boccia272 hide + vdunk 2,2,maculigula,Boccia 272,Tatama,voluntary,yes,10.3,84,J,sustained
+Boccia272 hide+vdunk,1,maculigula,Boccia 272,Tatama,hide,yes,10.3,84,J,sustained
+Boccia272M dunk,1,barkeri,Boccia 272M,Tuxtlas,dunk,yes,13.8,88,M,sustained
+Boccia272M_3,1,barkeri,Boccia 272M,Tuxtlas,dunk,yes,13.8,88,M,sustained
+Boccia273 dunk,1,maculigula,Boccia 273,Tatama,dunk,n/a,39.2,117,M,no
+Boccia273 hide,1,maculigula,Boccia 273,Tatama,voluntary,yes,39.2,117,M,no
+Boccia273M dunk,1,barkeri,Boccia 273M,Tuxtlas,dunk,yes,15.2,102,M,sustained
+Boccia273M_3,1,barkeri,Boccia 273M,Tuxtlas,dunk,yes,15.2,102,M,incidental
+Boccia273M_3 2,2,barkeri,Boccia 273M,Tuxtlas,dunk,yes,15.2,102,M,sustained
+Boccia274,1,maculigula,Boccia 274,Tatama,hide,yes,16.8,87,F,no
+Boccia274 2,1,maculigula,Boccia 274,Tatama,dunk,yes,16.8,87,F,sustained
+Boccia274M,1,barkeri,Boccia 274M,Tuxtlas,dunk,yes,15,90,M,incidental
+Boccia274M 2,2,barkeri,Boccia 274M,Tuxtlas,dunk,yes,15,90,M,no
+Boccia274M_2,1,barkeri,Boccia 274M,Tuxtlas,dunk,yes,15,90,M,incidental
+Boccia274M_2 2,2,barkeri,Boccia 274M,Tuxtlas,dunk,yes,15,90,M,incidental
+Boccia274M_3,1,barkeri,Boccia 274M,Tuxtlas,dunk,yes,15,90,M,incidental
+Boccia274M_3 2,2,barkeri,Boccia 274M,Tuxtlas,dunk,yes,15,90,M,no
+Boccia275,1,maculigula,Boccia 275,Tatama,dunk,yes,9.2,85,F,sustained
+Boccia275M,1,sericeus,Boccia 275M,Tuxtlas,dunk,yes,0.3,30,J,no
+Boccia276,1,maculigula,Boccia 276,Tatama,dunk,yes,7,69,F,sustained
+Boccia276M,1,uniformis,Boccia 276M,Tuxtlas,dunk,yes,2,40,F,no
+Boccia276M 2,2,uniformis,Boccia 276M,Tuxtlas,dunk,yes,2,40,F,incidental
+Boccia277,1,maculigula,Boccia 277,Tatama,dunk,yes,14.7,83,F,incidental
+Boccia277M,1,uniformis,Boccia 277M,Tuxtlas,dunk,yes,1.7,40,F,no
+Boccia277M 2,2,uniformis,Boccia 277M,Tuxtlas,dunk,yes,1.7,40,F,no
+Boccia278 dunk,1,maculigula,Boccia 278,Tatama,dunk,yes,8.6,71,J,incidental
+Boccia278 dunk 2,2,maculigula,Boccia 278,Tatama,dunk,yes,8.6,71,J,no
+Boccia278M,1,barkeri,Boccia 278M,Tuxtlas,dunk,yes,1.4,37,J,no
+Boccia278M 2,2,barkeri,Boccia 278M,Tuxtlas,dunk,yes,1.4,37,J,sustained
+Boccia279,1,princeps,Boccia 279,Tatama,dunk,yes,42.7,141,M,no
+Boccia279 2,2,princeps,Boccia 279,Tatama,dunk,yes,42.7,141,M,incidental
+Boccia279M dunk,1,sericeus,Boccia 279M,Tuxtlas,dunk,yes,2,46,F,no
+Boccia280M,1,barkeri,Boccia 280M,Tuxtlas,dunk,yes,15,95,M,sustained
+Boccia280M_2,1,barkeri,Boccia 280M,Tuxtlas,dunk,yes,15,95,M,sustained
+Boccia280M_3,1,barkeri,Boccia 280M,Tuxtlas,dunk,yes,15,95,M,incidental
+Boccia280M_3 2,1,barkeri,Boccia 280M,Tuxtlas,dunk,yes,15,95,M,sustained
+Boccia281M,1,barkeri,Boccia 281M,Tuxtlas,dunk,yes,6.8,70,F,sustained
+Boccia281M_2,1,barkeri,Boccia 281M,Tuxtlas,dunk,yes,6.8,70,F,no
+Boccia281M_2 2,2,barkeri,Boccia 281M,Tuxtlas,dunk,yes,6.8,70,F,incidental
+Boccia281M_2 3,3,barkeri,Boccia 281M,Tuxtlas,dunk,no,6.8,70,F,sustained
+Boccia281M_3,1,barkeri,Boccia 281M,Tuxtlas,dunk,yes,6.8,70,F,incidental
+Boccia282M,1,barkeri,Boccia 282M,Tuxtlas,dunk,no,17.2,96,M,incidental
+Boccia282M 2,2,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,incidental
+Boccia282M_2,1,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,incidental
+Boccia282M_2 2,2,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,incidental
+Boccia282M_2 3,3,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,no
+Boccia282M_2 4,4,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,incidental
+Boccia282M_2 5,5,barkeri,Boccia 282M,Tuxtlas,dunk,no,17.2,96,M,incidental
+Boccia282M_3,1,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,no
+Boccia282M_3 2,1,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,sustained
+Boccia282M_3 3,1,barkeri,Boccia 282M,Tuxtlas,dunk,yes,17.2,96,M,incidental
+Boccia283,1,antonii,Boccia 283,Tatama,dunk,yes,1.9,45,F,no
+Boccia283M,1,barkeri,Boccia 283M,Tuxtlas,dunk,yes,6.6,71,F,incidental
+Boccia283M 2,2,barkeri,Boccia 283M,Tuxtlas,dunk,yes,6.6,71,F,no
+Boccia283M_2,1,barkeri,Boccia 283M,Tuxtlas,dunk,yes,6.6,71,F,no
+Boccia283M_2 2,2,barkeri,Boccia 283M,Tuxtlas,dunk,yes,6.6,71,F,incidental
+Boccia283M_2 3,3,barkeri,Boccia 283M,Tuxtlas,dunk,yes,6.6,71,F,no
+Boccia283M_3,1,barkeri,Boccia 283M,Tuxtlas,dunk,yes,6.6,71,F,no
+Boccia284,1,antonii,Boccia 284,Tatama,dunk,yes,1.9,45,F,no
+Boccia284M,1,barkeri,Boccia 284M,Tuxtlas,dunk,yes,1.9,46,J,no
+Boccia284M 2,2,barkeri,Boccia 284M,Tuxtlas,dunk,yes,1.9,46,J,no
+Boccia284M_2,1,barkeri,Boccia 284M,Tuxtlas,dunk,yes,1.9,46,J,incidental
+Boccia284M_2 2,2,barkeri,Boccia 284M,Tuxtlas,dunk,yes,1.9,46,J,incidental
+Boccia284M_3,1,barkeri,Boccia 284M,Tuxtlas,dunk,yes,1.9,46,J,no
+Boccia284M_3 2,2,barkeri,Boccia 284M,Tuxtlas,dunk,yes,1.9,46,J,incidental
+Boccia285,1,antonii,Boccia 285,Tatama,dunk,no,1.9,42,F,no
+Boccia285M,1,uniformis,Boccia 285M,Tuxtlas,dunk,yes,1.6,39,M,no
+Boccia285M 2,2,uniformis,Boccia 285M,Tuxtlas,dunk,yes,1.6,39,M,no
+Boccia286,1,antonii,Boccia 286,Tatama,dunk,no,1.4,42,F,no
+Boccia286M,1,uniformis,Boccia 286M,Tuxtlas,dunk,yes,1.2,33,F,no
+Boccia287,1,antonii,Boccia 287,Tatama,dunk,no,1.9,46,F,no
+Boccia287M,1,uniformis,Boccia 287M,Tuxtlas,dunk,yes,1.6,36,F,no
+Boccia287M 2,2,uniformis,Boccia 287M,Tuxtlas,dunk,yes,1.6,36,F,no
+Boccia289M,1,uniformis,Boccia 289M,Tuxtlas,dunk,yes,1.5,40,F,incidental
+Boccia289M 2,2,uniformis,Boccia 289M,Tuxtlas,dunk,yes,1.5,40,F,no
+Boccia290M,1,rodriguezii,Boccia 290M,Tuxtlas,dunk,yes,1.1,39,F,no
+Boccia291M,1,uniformis,Boccia 291M,Tuxtlas,dunk,yes,2.4,40,F,no
+Boccia292,1,antonii,Boccia 292,Tatama,dunk,yes,1.1,45,M,no
+Boccia293 (2),1,antonii,Boccia 293,Tatama,dunk,yes,1.7,46,M,no
+Boccia293M,1,uniformis,Boccia 293M,Tuxtlas,dunk,yes,0.6,28,J,no
+Boccia294,1,chloris,Boccia 294,Tatama,voluntary,no,2.9,55,F,no
+Boccia295,1,chloris,Boccia 295,Tatama,dunk,yes,3.6,60,F,no
+Boccia295M_2,1,duellmani,Boccia 295M,Tuxtlas,dunk,yes,1.3,36,F,incidental
+Boccia295M_2 2,2,duellmani,Boccia 295M,Tuxtlas,dunk,no,1.3,36,F,no
+Boccia296,1,antonii,Boccia 296,Tatama,dunk,yes,1.4,41,J,no
+Boccia296M,1,duellmani,Boccia 296M,Tuxtlas,dunk,no,1.1,41,M,no
+Boccia297,1,chloris,Boccia 297,Tatama,dunk,yes,1.1,39,F,no
+Boccia297M,1,sericeus,Boccia 297M,Tuxtlas,dunk,yes,2,45,F,no
+Boccia298,1,chloris,Boccia 298,Tatama,dunk,yes,1.6,58,F,no
+Boccia298M,1,sericeus,Boccia 298M,Tuxtlas,dunk,yes,2,43,F,no
+Boccia298M 2,2,sericeus,Boccia 298M,Tuxtlas,dunk,yes,2,43,F,no
+Boccia299,1,chloris,Boccia 299,Tatama,dunk,yes,3.7,62,M,no
+Boccia299 2,2,chloris,Boccia 299,Tatama,dunk,yes,3.7,62,M,no
+Boccia299M,1,iguana,Boccia 299M,Tuxtlas,dunk,yes,12.3,72,J,no
+Boccia300,1,danieli,Boccia 300,Tatama,dunk,yes,29.2,110,F,sustained
+Boccia300 2,2,danieli,Boccia 300,Tatama,dunk,yes,29.2,110,F,no
+Boccia301,1,antonii,Boccia 301,Tatama,dunk,yes,1.2,45,M,no
+Boccia301 2,2,antonii,Boccia 301,Tatama,dunk,yes,1.2,45,M,no
+Boccia301M,1,uniformis,Boccia 301M,Tuxtlas,dunk,yes,1.6,36,F,no
+Boccia301M 2,2,uniformis,Boccia 301M,Tuxtlas,dunk,yes,1.6,36,F,no
+Boccia302,1,antonii,Boccia 302,Tatama,dunk,yes,1.8,45,F,no
+Boccia302M,1,uniformis,Boccia 302M,Tuxtlas,dunk,yes,1.1,22,M,no
+Boccia303,1,antonii,Boccia 303,Tatama,dunk,yes,1.7,46,F,no
+Boccia303 2,2,antonii,Boccia 303,Tatama,dunk,yes,1.7,46,F,no
+Boccia303M,1,uniformis,Boccia 303M,Tuxtlas,dunk,yes,1.9,38,F,no
+Boccia304,1,chloris,Boccia 304,Tatama,dunk,yes,2.8,58,F,no
+Boccia304M,1,uniformis,Boccia 304M,Tuxtlas,dunk,yes,1.5,38,M,no
+Boccia305M,1,uniformis,Boccia 305M,Tuxtlas,dunk,yes,1.5,37,F,incidental
+Boccia306,1,chloris,Boccia 306,Tatama,dunk,yes,2.9,55,F,no
+Boccia306 2,2,chloris,Boccia 306,Tatama,dunk,yes,2.9,55,F,no
+Boccia306M,1,uniformis,Boccia 306M,Tuxtlas,dunk,yes,1.6,37,F,no
+Boccia307,1,chloris,Boccia 307,Tatama,dunk,yes,3.7,61,M,no
+Boccia307M,1,uniformis,Boccia 307M,Tuxtlas,dunk,yes,1.4,37,M,no
+Boccia308,1,chloris,Boccia 308,Tatama,dunk,yes,2.1,51,F,no
+Boccia308 2,2,chloris,Boccia 308,Tatama,dunk,yes,2.1,51,F,no
+Boccia308M,1,sericeus,Boccia 308M,Tuxtlas,dunk,no,2.4,46,F,no
+Boccia309,1,chloris,Boccia 309,Tatama,dunk,yes,2.4,50,F,no
+Boccia309 2,2,chloris,Boccia 309,Tatama,dunk,yes,2.4,50,F,no
+Boccia309M,1,sericeus,Boccia 309M,Tuxtlas,dunk,yes,1,41,M,incidental
+Boccia310,1,danieli,Boccia 310,Tatama,dunk,yes,26.1,111,M,incidental
+Boccia310 2,2,danieli,Boccia 310,Tatama,dunk,no,26.1,111,M,no
+Boccia310M,1,basiliscus,Boccia 310M,Tuxtlas,dunk,yes,1.6,40,J,no
+Boccia311,1,megalopithecus,Boccia 311,Tatama,dunk,yes,11.9,91,M,no
+Boccia311 2,2,megalopithecus,Boccia 311,Tatama,dunk,no,11.9,91,M,no
+Boccia311M,1,basiliscus,Boccia 311M,Tuxtlas,dunk,yes,1.9,41,J,incidental
+Boccia311M 2,2,basiliscus,Boccia 311M,Tuxtlas,dunk,yes,1.9,41,J,no
+Boccia312,1,ventrimaculatus,Boccia 312,Tatama,dunk,yes,6.3,73,M,no
+Boccia312M,1,basiliscus,Boccia 312M,Tuxtlas,dunk,yes,2.1,42,J,incidental
+Boccia313,1,ventrimaculatus,Boccia 313,Tatama,dunk,yes,5.4,68,F,no
+Boccia313 2,2,ventrimaculatus,Boccia 313,Tatama,dunk,yes,5.4,68,F,incidental
+Boccia313M,1,basiliscus,Boccia 313M,Tuxtlas,dunk,yes,1.6,39,J,no
+Boccia313M 2,2,basiliscus,Boccia 313M,Tuxtlas,dunk,yes,1.6,39,J,no
+Boccia314,1,danieli,Boccia 314,Tatama,dunk,yes,29.5,119,M,no
+Boccia314M,1,sericeus,Boccia 314M,Tuxtlas,dunk,yes,2.3,47,F,no
+Boccia315,1,antioquiae,Boccia 315,Tatama,voluntary,yes,9.5,76,M,no
+Boccia315 2,2,antioquiae,Boccia 315,Tatama,dunk,yes,9.5,76,M,no
+Boccia316,1,antonii,Boccia 316,Tatama,dunk,yes,1.3,42,M,no
+Boccia316M,1,uniformis,Boccia 316M,Tuxtlas,dunk,yes,1.6,35,F,no
+Boccia317,1,ventrimaculatus,Boccia 317,Tatama,dunk,yes,7,74,M,no
+Boccia317M,1,uniformis,Boccia 317M,Tuxtlas,dunk,yes,1.7,37,M,no
+Boccia318,1,chloris,Boccia 318,Tatama,dunk,no,3.5,60,F,no
+Boccia318 2,2,chloris,Boccia 318,Tatama,dunk,yes,3.5,60,F,no
+Boccia318M,1,sericeus,Boccia 318M,Tuxtlas,dunk,yes,1.1,40,M,no
+Boccia319,1,chloris,Boccia 319,Tatama,dunk,no,2.2,49,M,sustained
+Boccia319 2,2,chloris,Boccia 319,Tatama,dunk,yes,2.2,49,M,no
+Boccia319M,1,sericeus,Boccia 319M,Tuxtlas,dunk,yes,1.9,44,F,no
+Boccia320,1,chloris,Boccia 320,Tatama,dunk,yes,3.2,56,M,no
+Boccia320 2,2,chloris,Boccia 320,Tatama,dunk,yes,3.2,56,M,no
+Boccia320M,1,iguana,Boccia 320M,Tuxtlas,dunk,yes,18.5,77,J,no
+Boccia320M 2,1,iguana,Boccia 320M,Tuxtlas,dunk,yes,18.5,77,J,no
+Boccia321,1,chloris,Boccia 321,Tatama,dunk,yes,4.2,65,M,no
+Boccia321 2,2,chloris,Boccia 321,Tatama,dunk,yes,4.2,65,M,no
+Boccia321M,1,sericeus,Boccia 321M,Tuxtlas,dunk,no,0.9,37,M,no
+Boccia322,1,antonii,Boccia 322,Tatama,dunk,yes,1.6,47,M,no
+Boccia322M,1,sericeus,Boccia 322M,Tuxtlas,dunk,no,2.1,45,F,no
+Boccia323 dunk,1,chloris,Boccia 323,Tatama,dunk,yes,3.5,61,M,no
+Boccia323 dunk 2,2,chloris,Boccia 323,Tatama,dunk,no,3.5,61,M,no
+Boccia323M,1,sericeus,Boccia 323M,Tuxtlas,dunk,no,1,40,M,no
+Boccia324M,1,sericeus,Boccia 324M,Tuxtlas,dunk,yes,1.7,42,F,no
+Boccia325M,1,sericeus,Boccia 325M,Tuxtlas,dunk,no,1.8,45,F,no
+Boccia326M,1,sericeus,Boccia 326M,Tuxtlas,dunk,yes,1.6,43,F,no
+Boccia327M,1,sericeus,Boccia 327M,Tuxtlas,dunk,yes,0.4,26,J,no
+Boccia328M,1,sericeus,Boccia 328M,Tuxtlas,dunk,yes,1.3,41,M,no
+Boccia329M,1,sericeus,Boccia 327M,Tuxtlas,dunk,yes,0.4,26,J,no
+Boccia331M,1,sericeus,Boccia 331M,Tuxtlas,dunk,yes,2.1,45,F,no
+Boccia332M,1,sericeus,Boccia 332M,Tuxtlas,dunk,no,0.5,31,J,no
+Boccia34,1,oxylophus,Boccia 34,La_Selva,voluntary,yes,5.2,67,M,sustained
+Boccia34 2,1,oxylophus,Boccia 34,La_Selva,voluntary,no,5.2,67,M,incidental
+Boccia34 3,1,oxylophus,Boccia 34,La_Selva,voluntary,no,5.2,67,M,sustained
+Boccia96,1,oxylophus,Boccia 96,La_Selva,voluntary,no,6.6,67,M,no
+holy dlm 1,1,reconditus,HOLY DLM 1,Jamaica,dunk,yes,1.4,40,F,no
+HOLY DLM 2,1,reconditus,HOLY DLM 2,Jamaica,dunk,yes,2.7,51,M,incidental
+HOLY DLM 2_2,2,reconditus,HOLY DLM 2,Jamaica,dunk,yes,2.7,51,M,incidental
+Holy DLM 3,1,opalinus,HOLY DLM 3,Jamaica,dunk,yes,3.6,53,M,no
+Holy DLM 3_2,2,opalinus,HOLY DLM 3,Jamaica,dunk,yes,3.6,53,M,no
+HOLY EF2,1,opalinus,HOLY EF 2,Jamaica,dunk,yes,1.4,41,F,no
+HOLY EF2_2,2,opalinus,HOLY EF 2,Jamaica,dunk,yes,1.4,41,F,no
+HOLY EF2_3,3,opalinus,HOLY EF 2,Jamaica,dunk,yes,1.4,41,F,no
+HOLY EF2_4,1,opalinus,HOLY EF 2,Jamaica,dunk,yes,1.4,41,F,no
+HOLY EF4,1,reconditus,HOLY EF 4,Jamaica,dunk,yes,3,51,F,no
+HOLY HM1,1,opalinus,HOLY HM 1,Jamaica,dunk,yes,4.1,55,M,no
+Holy LOF 1,1,opalinus,HOLY LOF 1,Jamaica,dunk,yes,3.2,52,M,no
+Holy LOF 1_2,2,opalinus,HOLY LOF 1,Jamaica,dunk,yes,3.2,52,M,no
+Holy LOF 1_3,3,opalinus,HOLY LOF 1,Jamaica,dunk,yes,3.2,52,M,no
+HOLY PO1,1,opalinus,HOLY PO 1,Jamaica,dunk,yes,2.7,51,M,no
+LARE DLM 01,1,sagrei,LARE DLM 1,Jamaica,dunk,yes,3,50,M,no
+LARE DLM 02,1,valencienni,LARE DLM 2,Jamaica,dunk,yes,5.4,66,M,no
+LARE DLM 02_3,3,valencienni,LARE DLM 2,Jamaica,dunk,yes,5.4,66,M,no
+LARE DLM 03,1,lineatopus,LARE DLM 3,Jamaica,dunk,yes,3.8,56,M,sustained
+LARE DLM 04,1,lineatopus,LARE DLM 4,Jamaica,dunk,yes,1.1,36,F,no
+LARE DLM 04_2,2,lineatopus,LARE DLM 4,Jamaica,dunk,yes,1.1,36,F,no
+LARE DLM 05,1,garmani,LARE DLM 5,Jamaica,dunk,no,17.2,89,M,no
+LARE DLM 05_2,2,garmani,LARE DLM 5,Jamaica,dunk,yes,17.2,89,M,no
+LARE DLM 06,1,lineatopus,LARE DLM 6,Jamaica,dunk,yes,4.1,55,M,no
+LARE DLM 07,1,lineatopus,LARE DLM 7,Jamaica,dunk,yes,4.7,57,M,incidental
+LARE DLM 07_2,2,lineatopus,LARE DLM 7,Jamaica,dunk,yes,4.7,57,M,no
+LARE DLM 07_3,3,lineatopus,LARE DLM 7,Jamaica,dunk,yes,4.7,57,M,no
+LARE DLM 08,1,lineatopus,LARE DLM 8,Jamaica,dunk,yes,4.9,60,M,no
+LARE DLM 09,1,valencienni,LARE DLM 9,Jamaica,dunk,yes,4.2,62,M,no
+LARE DLM 10,1,garmani,LARE DLM 10,Jamaica,dunk,yes,51,121,M,incidental
+LARE DLM 11,1,sagrei,LARE DLM 11,Jamaica,dunk,yes,1.5,40,F,no
+LARE DLM 12,1,lineatopus,LARE DLM 12,Jamaica,dunk,no,3.2,54,M,no
+LARE DLM 12_2,2,lineatopus,LARE DLM 12,Jamaica,dunk,yes,3.2,54,M,no
+LARE DLM 2_2,2,valencienni,LARE DLM 2,Jamaica,dunk,yes,5.4,66,M,no
+LARE LOF 10,1,valencienni,LARE LOF 10,Jamaica,dunk,no,5.3,64,F,no
+LARE LOF 10_2,2,valencienni,LARE LOF 10,Jamaica,dunk,yes,5.3,64,F,no
+LARE M1,1,valencienni,LARE M1,Jamaica,dunk,yes,10,78,M,no
+LARE M1_2,2,valencienni,LARE M1,Jamaica,dunk,yes,10,78,M,incidental
+LARE PO 4,1,garmani,LARE PO 4,Jamaica,dunk,yes,17.3,95,M,no
+Mahler 2649,1,christophei,Mahler CHRI1,Dominican Republic,dunk,yes,NA,NA,M,incidental
+Mahler 2650,1,christophei,Mahler CHRI2,Dominican Republic,dunk,yes,NA,NA,F,no
+Mahler BALE1,1,baleatus,Mahler BALE1,Dominican Republic,dunk,yes,NA,NA,J,incidental
+Mahler BALE1_2,2,baleatus,Mahler BALE1,Dominican Republic,dunk,yes,NA,NA,J,no
+Mahler BALE1_3,3,baleatus,Mahler BALE1,Dominican Republic,dunk,yes,NA,NA,J,no
+Mahler CHCY1,1,fowleri,Mahler CHCY1,Dominican Republic,dunk,yes,NA,NA,J,incidental
+Mahler CHCY1_2,2,fowleri,Mahler CHCY1,Dominican Republic,dunk,yes,NA,NA,J,no
+Mahler CHCY2,1,fowleri,Mahler CHCY2,Dominican Republic,dunk,yes,NA,NA,J,no
+Mahler CHCY2_2,2,fowleri,Mahler CHCY2,Dominican Republic,dunk,yes,NA,NA,J,no
+Mahler EUGR1,1,eugenegrahami,Mahler EUGR1,Haiti,dunk,yes,NA,NA,M,sustained
+Mahler EUGR1_2,2,eugenegrahami,Mahler EUGR1,Haiti,dunk,yes,NA,NA,M,no
+Mahler FOWL1,1,fowleri,Mahler FOWL1,Dominican Republic,dunk,yes,NA,NA,F,no
+Mahler FOWL1_2,2,fowleri,Mahler FOWL1,Dominican Republic,dunk,yes,NA,NA,F,no
+Mahler FOWL2,1,fowleri,Mahler FOWL2,Dominican Republic,dunk,yes,NA,NA,J,no
+Mahler FOWL2_2,2,fowleri,Mahler FOWL2,Dominican Republic,dunk,yes,NA,NA,J,no
+Mahler INSO1,1,insolitus,Mahler INSO1,Dominican Republic,dunk,yes,NA,NA,M,no
+MILP AHM 01,1,Enyalioides oshaughnesseyi,MILP AHM 01,Ecuador,dunk,no,72.8,142.57,F,no
+MILP AHM 02,1,Enyalioides oshaughnesseyi,MILP AHM 02,Ecuador,dunk,no,14.3,80.53,J,no
+MILP AHM 02 b2,1,Enyalioides oshaughnesseyi,MILP AHM 02,Ecuador,dunk,yes,14.3,80.53,J,no
+MILP AMR 01,1,gracilipes,MILP AMR 01,Ecuador,dunk,yes,1.6,47.47,F,incidental
+MILP AMR 01_2,1,gracilipes,MILP AMR 01,Ecuador,dunk,yes,1.6,47.47,F,incidental
+MILP AMR 01_3,1,gracilipes,MILP AMR 01,Ecuador,dunk,yes,1.6,47.47,F,no
+MILP DLM 01,1,fasciatus,MILP DLM 01,Ecuador,dunk,yes,3.2,68.13,M,no
+MILP DLM 01_2,1,fasciatus,MILP DLM 01,Ecuador,dunk,yes,3.2,68.13,M,no
+MILP DLM 02 b2,1,maculiventris,MILP DLM 02,Ecuador,dunk,yes,1.8,51.37,F,incidental
+MILP DLM 03 b2,1,fasciatus,MILP DLM 03,Ecuador,dunk,yes,3.7,69.04,M,no
+MILP DLM 03_2 b2,1,fasciatus,MILP DLM 03,Ecuador,dunk,yes,3.7,69.04,M,no
+MILP DLM 04 b2,1,fasciatus,MILP DLM 04,Ecuador,dunk,yes,3.6,70.13,M,no
+MILP DLM 04_2 b2,1,fasciatus,MILP DLM 04,Ecuador,dunk,no,3.6,70.13,M,no
+MILP DLM 04_3 b2,1,fasciatus,MILP DLM 04,Ecuador,dunk,yes,3.6,70.13,M,no
+MILP DLM 05,1,maculiventris,MILP DLM 05,Ecuador,dunk,no,1.3,46.28,F,incidental
+MILP DLM 05_2,1,maculiventris,MILP DLM 05,Ecuador,dunk,yes,1.3,46.28,F,no
+MILP GY 01,1,gracilipes,MILP GY 01,Ecuador,dunk,no,2.8,57.75,F,no
+MILP GY 01_2,1,gracilipes,MILP GY 01,Ecuador,dunk,yes,2.8,57.75,F,no
+MILP KT 01,1,gracilipes,MILP KT 01,Ecuador,dunk,yes,2.1,55.85,M,incidental
+MILP KT 01 b2,1,gracilipes,MILP KT 01,Ecuador,dunk,yes,2.1,55.85,M,incidental
+MILP KT 01_2 b2,1,gracilipes,MILP KT 01,Ecuador,dunk,yes,2.1,55.85,M,no
+MILP KT 02,1,gracilipes,MILP KT 02,Ecuador,dunk,yes,2.4,52.85,F,no
+MILP KT 02_2,2,gracilipes,MILP KT 02,Ecuador,dunk,yes,2.4,52.85,F,no
+MILP LOF 01,1,gracilipes,MILP LOF 01,Ecuador,dunk,yes,0.8,38.24,J,sustained
+MILP LOF 01_2,1,gracilipes,MILP LOF 01,Ecuador,dunk,yes,0.8,38.24,J,sustained
+MILP LOF 01_3,1,gracilipes,MILP LOF 01,Ecuador,dunk,no,0.8,38.24,J,sustained
+MILP LOF 01_4,1,gracilipes,MILP LOF 01,Ecuador,dunk,no,0.8,38.24,J,no
+MILP LOF 02 b2,1,gracilipes,MILP LOF 02,Ecuador,dunk,yes,0.3,25.59,J,incidental
+MILP LOF 02_2 b2,1,gracilipes,MILP LOF 02,Ecuador,dunk,yes,0.3,25.59,J,incidental
+MORE AHM 03,1,chloris,MORE AHM 03,Ecuador,dunk,yes,2.1,52.91,M,sustained
+MORE AHM 04,1,chloris,MORE AHM 04,Ecuador,dunk,yes,3.2,60.27,M,no
+MORE AHM 04_2,1,chloris,MORE AHM 04,Ecuador,dunk,no,3.2,60.27,M,no
+MORE AHM 04_3,1,chloris,MORE AHM 04,Ecuador,dunk,no,3.2,60.27,M,no
+MORE AHM 05,1,peraccae,MORE AHM 05,Ecuador,dunk,yes,2,51.1,M,no
+MORE AHM 05_2,1,peraccae,MORE AHM 05,Ecuador,dunk,yes,2,51.1,M,no
+MORE AHM 05_3,1,peraccae,MORE AHM 05,Ecuador,dunk,yes,2,51.1,M,no
+MORE AHM 06,1,lyra,MORE AHM 06,Ecuador,dunk,yes,6,66.65,M,no
+MORE AHM 06 b2,1,lyra,MORE AHM 06,Ecuador,dunk,no,6,66.65,M,no
+MORE AHM 07 b2,1,lynchi,MORE AHM 07,Ecuador,dunk,yes,4.5,60.31,M,incidental
+MORE AHM 07_2,1,lynchi,MORE AHM 07,Ecuador,dunk,yes,4.5,60.31,M,incidental
+MORE AHM 07_3 b2,1,lynchi,MORE AHM 07,Ecuador,dunk,yes,4.5,60.31,M,no
+MORE AHM 07_4  b2,1,lynchi,MORE AHM 07,Ecuador,dunk,yes,4.5,60.31,M,incidental
+MORE AHM 08 b2,1,peraccae,MORE AHM 08,Ecuador,dunk,yes,0.6,34.31,J,no
+MORE AMR 01,1,fraseri,MORE AMR 01,Ecuador,dunk,yes,0.7,35.98,J,incidental
+MORE AMR 01_2,1,fraseri,MORE AMR 01,Ecuador,dunk,yes,0.7,35.98,J,no
+MORE AMR 02 b2,1,lyra,MORE AMR 02,Ecuador,dunk,yes,1.8,45.28,M,no
+MORE AMR 02_2 b2,1,lyra,MORE AMR 02,Ecuador,dunk,yes,1.8,45.28,M,no
+MORE DLM 01,1,lynchi,MORE DLM 01,Ecuador,dunk,yes,2.7,52.95,F,sustained
+MORE DLM 01_2,1,lynchi,MORE DLM 01,Ecuador,dunk,yes,2.7,52.95,F,sustained
+MORE DLM 02,1,lynchi,MORE DLM 02,Ecuador,dunk,yes,3.5,52.85,M,incidental
+MORE DLM 02_2,1,lynchi,MORE DLM 02,Ecuador,dunk,yes,3.5,52.85,M,sustained
+MORE DLM 03,1,maculiventris,MORE DLM 03,Ecuador,dunk,yes,1.2,46.53,M,sustained
+MORE DLM 03_2,1,maculiventris,MORE DLM 03,Ecuador,dunk,yes,1.2,46.53,M,incidental
+MORE DLM 03_2 (2),1,maculiventris,MORE DLM 03,Ecuador,dunk,no,1.2,46.53,M,incidental
+MORE DLM 04,1,Basilicus galeritus,MORE DLM 04,Ecuador,dunk,yes,23.7,96.89,F,no
+MORE DLM 04_2,1,Basilicus galeritus,MORE DLM 04,Ecuador,dunk,yes,23.7,96.89,F,no
+MORE DLM 05,1,lyra,MORE DLM 05,Ecuador,dunk,yes,0.9,35.1,J,no
+MORE DLM 05_2,1,lyra,MORE DLM 05,Ecuador,dunk,yes,0.9,35.1,J,no
+MORE DLM 06,1,lynchi,MORE DLM 06,Ecuador,dunk,yes,5.3,66.4,M,sustained
+MORE DLM 06_2,1,lynchi,MORE DLM 06,Ecuador,dunk,yes,5.3,66.4,M,incidental
+MORE DLM 06_3,1,lynchi,MORE DLM 06,Ecuador,dunk,yes,5.3,66.4,M,sustained
+MORE DLM 07,1,gracilipes,MORE DLM 07,Ecuador,dunk,yes,2.3,57.1,M,no
+MORE DLM 07_2,1,gracilipes,MORE DLM 07,Ecuador,dunk,yes,2.3,57.1,M,no
+MORE DLM 08,1,lyra,MORE DLM 08,Ecuador,dunk,yes,2.7,49.44,M,no
+MORE DLM 08_2,1,lyra,MORE DLM 08,Ecuador,dunk,yes,2.7,49.44,M,no
+MORE DLM 09,1,peraccae,MORE DLM 09,Ecuador,dunk,yes,1.5,46.19,M,sustained
+MORE DLM 09_2,1,peraccae,MORE DLM 09,Ecuador,dunk,yes,1.5,46.19,M,incidental
+MORE DLM 10,1,peraccae,MORE DLM 10,Ecuador,dunk,yes,1.7,48.81,F,no
+MORE DLM 10_2,1,peraccae,MORE DLM 10,Ecuador,dunk,yes,1.7,48.81,F,no
+MORE GY 01,1,chloris,MORE GY 01,Ecuador,dunk,yes,1.9,48.08,F,no
+MORE GY 01_2,1,chloris,MORE GY 01,Ecuador,dunk,yes,1.9,48.08,F,incidental
+MORE GY 01_3,1,chloris,MORE GY 01,Ecuador,dunk,yes,1.9,48.08,F,no
+MORE GY 02 b2,1,gracilipes,MORE GY 02,Ecuador,dunk,yes,0.4,30.82,J,sustained
+MORE GY 03 b2,1,gracilipes,MORE GY 03,Ecuador,dunk,yes,2.5,56.3,M,incidental
+MORE KT 01,1,maculiventris,MORE KT 01,Ecuador,dunk,yes,1.5,49.31,F,no
+MORE KT 01_2,1,maculiventris,MORE KT 01,Ecuador,dunk,yes,1.5,49.31,F,no
+MORE LOF 01,1,lynchi,MORE LOF 01,Ecuador,dunk,yes,0.6,31.3,J,incidental
+MORE LOF 01_2,1,lynchi,MORE LOF 01,Ecuador,dunk,yes,0.6,31.3,J,sustained
+MORE LOF 02,1,peraccae,MORE LOF 02,Ecuador,dunk,yes,1.5,44.94,F,no
+MORE LOF 02_2,1,peraccae,MORE LOF 02,Ecuador,dunk,yes,1.5,44.94,F,incidental
+MORE LOF 02_3,1,peraccae,MORE LOF 02,Ecuador,dunk,yes,1.5,44.94,F,incidental
+MORE LOF 03,1,peraccae,MORE LOF 03,Ecuador,dunk,yes,1.7,50.57,M,incidental
+MORE LOF 03_2,1,peraccae,MORE LOF 03,Ecuador,dunk,yes,1.7,50.57,M,no
+MORE LOF 03_3,1,peraccae,MORE LOF 03,Ecuador,dunk,yes,1.7,50.57,M,no
+MORE MAG 01,1,peraccae,MORE MAG 01,Ecuador,dunk,yes,1.3,43.42,M,no
+MORE MAG 01_2,1,peraccae,MORE MAG 01,Ecuador,dunk,yes,1.3,43.42,M,no
+MORE MAG 02,1,peraccae,MORE MAG 02,Ecuador,dunk,yes,0.6,33.26,J,no
+MORE MAG 02_2,1,peraccae,MORE MAG 02,Ecuador,dunk,yes,0.6,33.26,J,no
+RGVA HM1,1,opalinus,RGVA HM 1,Jamaica,dunk,yes,1.1,38,F,no
+RGVA HM1_2,2,opalinus,RGVA HM 1,Jamaica,dunk,yes,1.1,38,F,no
+RGVA HM2,1,opalinus,RGVA HM 2,Jamaica,dunk,yes,1.1,36,F,no
+RGVA LOF2,1,opalinus,RGVA LOF 2,Jamaica,dunk,yes,1.8,45,M,no
+RGVA LOF3,1,opalinus,RGVA LOF 3,Jamaica,dunk,yes,1.1,36,F,no
+RGVA PO1,1,opalinus,RGVA PO 1,Jamaica,dunk,yes,1,40,M,no
+RGVA SG1,1,opalinus,RGVA SG 1,Jamaica,dunk,yes,0.8,35,F,incidental

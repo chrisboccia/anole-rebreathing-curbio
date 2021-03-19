@@ -1,0 +1,23 @@
+Observation id,Boccia283M 2,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Boccia283.MP4,,,,,,,
+,,,,,,,,
+Observation date,2019-04-25 13:58:08,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+212.093,Boccia283.MP4,282.240,23.98,Boccia 283M,chest out of view,,,START
+212.093,Boccia283.MP4,282.240,23.98,Boccia 283M,start of trial,,,POINT
+226.082,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+229.331,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+237.327,Boccia283.MP4,282.240,23.98,Boccia 283M,gular pump,,,POINT
+274.832,Boccia283.MP4,282.240,23.98,Boccia 283M,chest out of view,,,STOP
+274.832,Boccia283.MP4,282.240,23.98,Boccia 283M,end of trial,,,POINT
