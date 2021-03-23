@@ -1,6 +1,9 @@
 #####subsample 3 version#####
 ####subsample all species down to 3###
 
+##this code will generate the components of figure S1 (best-performance subsampled results)
+##the latter half of this script will plot trial-averaged subsampled results (not shown in paper)
+
 #####################
 #load packages, data#
 #####################
@@ -24,6 +27,10 @@ library(caper)
 source("functions.R")
 source("rb_assess.R")
 ##end of functions
+
+##To recreate plots used in paper SOM, skip to readRDS statement on line 242
+##otherwise, this code will generate a novel subsampled dataset which will not exactly resemble
+##the data shown in the paper
 
 aq_subsample <- function(indv, spec, ht, reps, type='bperformance'){
   # ##debug##
@@ -234,7 +241,7 @@ list_keep <- ag_n$species[ag_n$n >2]
 df2 <-aq_subsample(indv, spec=list_keep, ht=ht, reps=10000)
 
 #subsampled dataframe takes awhile to generate; uncomment line below to save
-saveRDS(df2, "aq_subsample_bp10000.rds")
+# saveRDS(df2, "aq_subsample_bp10000.rds")
 
 #can load previously generated subsampled df from file; uncomment line below
 df2 <- readRDS("aq_subsample_bp10000.rds")
@@ -260,7 +267,7 @@ vio_sust2 <- vio_sust2+ scale_fill_manual(labels = c("Semi-aquatic", "Non-aquati
 vio_sust2 <- vio_sust2 + theme(text = element_text(size=20), 
                         axis.text.x = element_text(angle=90, hjust=1))+
                         ylim(0,1)
-png("s3a.png", width = 10, height=8, units="in", res=72 )
+png("s1a.png", width = 10, height=8, units="in", res=72 )
 vio_sust2
 dev.off()
 
@@ -284,7 +291,9 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
-png("s3b.png", width = 10, height=8, units="in", res=72 )
+countr
+
+png("s1b.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_lsr, xlab="F-statistic", breaks=35, xlim=c(0,100), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
@@ -303,7 +312,7 @@ vio_sust2 <- vio_sust2+ scale_fill_manual(labels = c("Semi-aquatic", "Non-aquati
 vio_sust2 <- vio_sust2 + theme(text = element_text(size=20), 
                                axis.text.x = element_text(angle=90, hjust=1))+
   ylim(0,1)
-png("s3c.png", width = 10, height=8, units="in", res=72 )
+png("s1c.png", width = 10, height=8, units="in", res=72 )
 vio_sust2
 dev.off()
 
@@ -326,7 +335,9 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
-png("s3d.png", width = 10, height=8, units="in", res=72 )
+countr
+
+png("s1d.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_lar, xlab="F-statistic", breaks=35, xlim=c(0,60), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
@@ -343,7 +354,7 @@ vio_sust2 <- vio_sust2+ scale_fill_manual(labels = c("Semi-aquatic", "Non-aquati
 vio_sust2 <- vio_sust2 + theme(text = element_text(size=20), 
                                axis.text.x = element_text(angle=90, hjust=1))+
   ylim(0,20)
-png("s3e.png", width = 10, height=8, units="in", res=72 )
+png("s1e.png", width = 10, height=8, units="in", res=72 )
 vio_sust2
 dev.off()
 
@@ -355,7 +366,7 @@ mod <- df3$f_rbc[df3$f_rbc<thresh]
 perc <- length(mod)/10000*100
 perc
 
-png("s3f.png", width = 10, height=8, units="in", res=72 )
+png("s1f.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_rbc, xlab="F-statistic", breaks=35, xlim=c(0,200), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
@@ -371,7 +382,7 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
-
+countr
 
 #####
 ##boxplot, rb rate
@@ -385,7 +396,7 @@ vio_sust2 <- vio_sust2+ scale_fill_manual(labels = c("Semi-aquatic", "Non-aquati
 vio_sust2 <- vio_sust2 + theme(text = element_text(size=20), 
                                axis.text.x = element_text(angle=90, hjust=1))+
   ylim(0,0.20)
-png("s3g.png", width = 10, height=8, units="in", res=72 )
+png("s1g.png", width = 10, height=8, units="in", res=72 )
 vio_sust2
 dev.off()
 
@@ -398,7 +409,7 @@ perc <- length(mod)/10000*100
 perc
 
 
-png("s3h.png", width = 10, height=8, units="in", res=72 )
+png("s1h.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_rbr, xlab="F-statistic", breaks=35, xlim=c(0,100), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
@@ -414,6 +425,7 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
+countr
 
 ###########
 ##boxplot for gular pumping
@@ -429,7 +441,7 @@ vio_sust <- vio_sust + theme(text = element_text(size=20),
                              axis.text.x = element_text(angle=90, hjust=1))+
   ylim(0,0.2)
 
-png("s3i.png", width = 10, height=8, units="in", res=72 )
+png("s1i.png", width = 10, height=8, units="in", res=72 )
 vio_sust
 dev.off()
 
@@ -460,9 +472,11 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
+countr
+
 
 #print F-stat distribution
-png("s3j.png", width = 10, height=8, units="in", res=72 )
+png("s1j.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_gul, xlab="F-statistic", breaks=20, xlim=c(0,5), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
@@ -471,6 +485,8 @@ dev.off()
 #############################
 #Mean/trial-averaged version#
 #############################
+
+## The results of these analyses are not included in the paper or SOM ##
 
 indv <- read.csv("mean_individual.csv", header=TRUE)
 
@@ -533,7 +549,7 @@ vio_sust2 <- vio_sust2 + theme(text = element_text(size=20),
                                axis.text.x = element_text(angle=90, hjust=1))+
   ylim(0,20)
 
-png("s3e_mean.png", width = 10, height=8, units="in", res=72 )
+png("s1e_mean.png", width = 10, height=8, units="in", res=72 )
 vio_sust2
 dev.off()
 
@@ -545,7 +561,7 @@ mod <- df3$f_rbc[df3$f_rbc<thresh]
 perc <- length(mod)/10000*100
 perc
 
-png("s3f_mean.png", width = 10, height=8, units="in", res=72 )
+png("s1f_mean.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_rbc, xlab="F-statistic", breaks=35, xlim=c(0,200), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
@@ -575,7 +591,7 @@ vio_sust2 <- vio_sust2+ scale_fill_manual(labels = c("Semi-aquatic", "Non-aquati
 vio_sust2 <- vio_sust2 + theme(text = element_text(size=20), 
                                axis.text.x = element_text(angle=90, hjust=1))+
   ylim(0,0.20)
-png("s3g_mean.png", width = 10, height=8, units="in", res=72 )
+png("s1g_mean.png", width = 10, height=8, units="in", res=72 )
 vio_sust2
 dev.off()
 
@@ -588,7 +604,7 @@ perc <- length(mod)/10000*100
 perc
 
 
-png("s3h_mean.png", width = 10, height=8, units="in", res=72 )
+png("s1h_mean.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_rbr, xlab="F-statistic", breaks=35, xlim=c(0,100), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
@@ -619,7 +635,7 @@ vio_sust <- vio_sust + theme(text = element_text(size=20),
                              axis.text.x = element_text(angle=90, hjust=1))+
   ylim(0,0.2)
 
-png("s3i_mean.png", width = 10, height=8, units="in", res=72 )
+png("s1i_mean.png", width = 10, height=8, units="in", res=72 )
 vio_sust
 dev.off()
 
@@ -651,7 +667,7 @@ for(i in 1:10000){
   }
 }
 
-png("s3j_mean.png", width = 10, height=8, units="in", res=72 )
+png("s1j_mean.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_gul, xlab="F-statistic", breaks=20, xlim=c(0,5), main=NULL)
 abline(v=thresh, col="red", lty=2, lwd=3)
 dev.off()
