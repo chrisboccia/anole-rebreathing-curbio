@@ -28,7 +28,7 @@ source("functions.R")
 source("rb_assess.R")
 ##end of functions
 
-##To recreate plots used in paper SOM, skip to readRDS statement on line 242
+##To recreate plots used in paper SOM, skip to readRDS statement on line 248
 ##otherwise, this code will generate a novel subsampled dataset which will not exactly resemble
 ##the data shown in the paper
 
@@ -210,6 +210,8 @@ aq_subsample <- function(indv, spec, ht, reps, type='bperformance'){
 ###aquatic subsample analysis####
 #################################
 
+##NOTE: skip to line 248 if you do not wish to generate a new subsampled data set##
+
 
 #best performance#
 ##load data from file (if using a custom filtered file, change name here)##
@@ -275,7 +277,7 @@ dev.off()
 thresh <- qf(.95, df1=1, df2=18)
 mean(df3$pr_lsr)
 mean(df3$f_lsr)
-mod <- df3$f_lsr[df3$f_lsr<thresh]
+mod <- df3$f_lsr[df3$f_lsr>thresh]
 perc <- length(mod)/10000*100
 perc
 countr <- 0
@@ -321,7 +323,7 @@ dev.off()
 thresh <- qf(.95, df1=1, df2=18)
 mean(df3$pr_lar)
 mean(df3$f_lar)
-mod <- df3$f_lar[df3$f_lar<thresh]
+mod <- df3$f_lar[df3$f_lar>thresh]
 perc <- length(mod)/10000*100
 perc
 
@@ -362,7 +364,7 @@ dev.off()
 thresh <- qf(.95, df1=1, df2=18)
 mean(df3$pr_rbc)
 mean(df3$f_rbc)
-mod <- df3$f_rbc[df3$f_rbc<thresh]
+mod <- df3$f_rbc[df3$f_rbc>thresh]
 perc <- length(mod)/10000*100
 perc
 
@@ -404,7 +406,7 @@ dev.off()
 thresh <- qf(.95, df1=1, df2=18)
 mean(df3$pr_rbr)
 mean(df3$f_rbr)
-mod <- df3$f_rbr[df3$f_rbr<thresh]
+mod <- df3$f_rbr[df3$f_rbr>thresh]
 perc <- length(mod)/10000*100
 perc
 
@@ -453,7 +455,7 @@ mean(df3$f_gul)
 mean(df3$pr_gul)
 
 #get all subsamples with p < thresh
-mod <- df3$f_gul[df3$f_gul<thresh]
+mod <- df3$f_gul[df3$f_gul>thresh]
 
 #see what percentage are nonsignificant
 perc <- length(mod)/10000*100
@@ -487,6 +489,7 @@ dev.off()
 #############################
 
 ## The results of these analyses are not included in the paper or SOM ##
+#skip to (and uncomment) line 528 to avoid regenerating a new-subsampled data set
 
 indv <- read.csv("mean_individual.csv", header=TRUE)
 
@@ -557,7 +560,7 @@ dev.off()
 thresh <- qf(.95, df1=1, df2=18)
 mean(df3$pr_rbc)
 mean(df3$f_rbc)
-mod <- df3$f_rbc[df3$f_rbc<thresh]
+mod <- df3$f_rbc[df3$f_rbc>thresh]
 perc <- length(mod)/10000*100
 perc
 
@@ -577,7 +580,7 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
-
+countr
 
 #####
 ##boxplot, rb rate
@@ -599,7 +602,7 @@ dev.off()
 thresh <- qf(.95, df1=1, df2=18)
 mean(df3$pr_rbr)
 mean(df3$f_rbr)
-mod <- df3$f_rbr[df3$f_rbr<thresh]
+mod <- df3$f_rbr[df3$f_rbr>thresh]
 perc <- length(mod)/10000*100
 perc
 
@@ -620,7 +623,7 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
-
+countr
 ###########
 ##boxplot for gular pumping
 nv <- df10[,c("Species", "rate_gul.mean", "habitat")]
@@ -647,7 +650,7 @@ mean(df3$f_gul)
 mean(df3$pr_gul)
 
 #get all subsamples with p < thresh
-mod <- df3$f_gul[df3$f_gul<thresh]
+mod <- df3$f_gul[df3$f_gul>thresh]
 
 #see what percentage are nonsignificant
 perc <- length(mod)/10000*100
@@ -666,6 +669,7 @@ for(i in 1:10000){
     countr <- countr + 1
   }
 }
+countr
 
 png("s1j_mean.png", width = 10, height=8, units="in", res=72 )
 hist(df3$f_gul, xlab="F-statistic", breaks=20, xlim=c(0,5), main=NULL)
