@@ -68,17 +68,17 @@ source("generate_individual.R")
    * Script is extensively commented
 
 4. Trial-averaged analysis
-  * Use "analyze_behaviour_mean_final.R"
-  * Conducts majority of the analyses conducted in the 'best performance' version, with the exeception of bubble and max reinhales (since both of these are based on 'best performance' only for each individual).
-  * Results from these analyses are essentially fully concordant with our best performance results
-  * Outputs figure S2a-f
-  * Outputs results quoted in caption for figure S2
+   * Use "analyze_behaviour_mean_final.R"
+   * Conducts majority of the analyses conducted in the 'best performance' version, with the exeception of bubble and max reinhales (since both of these are based on 'best performance' only for each individual).
+   * Results from these analyses are essentially fully concordant with our best performance results
+   * Outputs figure S2a-f
+   * Outputs results quoted in caption for figure S2
 
 5. Bootstrap subsample analysis
-  * Due to our uneven sampling, we decided to do a subsampling analysis to ensure that over-sampling of semi-aquatic species was not responsible for our results
-  * We randomly subsampled all species to the lowest n we allowed into our principle analyses (n=3)
-  * This was accomplished using the "subsample_bootstrap.R" script
-  * Best performance and mean data sets were subsampled 10,000 times each
-  * Script is split into best performance and mean results
-    * Can use aq_subsample function defined in script to subsample either dataset
-  * Generates figure S1, results in caption
+   * Due to our uneven sampling, we decided to do a subsampling analysis to ensure that over-sampling of semi-aquatic species was not responsible for our results
+   * We randomly subsampled all species to the lowest n we allowed into our principle analyses (n=3)
+   * This was accomplished using the "subsample_bootstrap.R" script
+   * Best performance and mean data sets were subsampled 10,000 times each
+   * Script is split into best performance and mean results
+     * Can use aq_subsample function defined in script to subsample either dataset
+   * Generates figure S1, results in caption
