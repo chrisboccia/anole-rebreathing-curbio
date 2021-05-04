@@ -9,7 +9,7 @@ This document covers how to generate the analyses and plots used in the paper
   * Oxygen partial pressure and temperature data collected using a PyroScience OXB50 or OXR50 probe and FireSting GO2 meter (submergible O<sub>2</sub> microsensor setup)
 <br/>
 
-All intermediary files are provided in this repository. This means you skip straight to the analysis scripts if you do not intend to change/re-filter any of the raw data
+All intermediary files are provided in this repository. This means you can skip straight to the analysis scripts if you do not intend to change/re-filter any of the raw data.
 
 ### To run rebreathing behaviour analyses, open the 'behaviour' folder and follow the readme markdown file
   * This pipeline will:
